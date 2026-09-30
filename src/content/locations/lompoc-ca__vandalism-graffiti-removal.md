@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Lompoc, CA | Coastal Restoration Services Inc"
-h1: "Vandalism Cleanup in Lompoc"
-meta_description: "Vandalism cleanup in Lompoc, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
-primary_keyword: "vandalism cleanup lompoc"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Lompoc, CA | Coastal Restoration Services Inc"
+h1: "Graffiti Removal & Vandalism Cleanup in Lompoc"
+meta_description: "Graffiti removal and vandalism cleanup in Lompoc, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
+primary_keyword: "graffiti removal lompoc"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "2fc7fc3407bfd0b2"
 generated_at: "2026-07-30T23:42:37.726256+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/lompoc-ca/", "/service-areas/lompoc-ca/fire-damage-restoration/", "/service-areas/lompoc-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-cleanup/", "/service-areas/atascadero-ca/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Lompoc", "url": "/service-areas/lompoc-ca/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/lompoc-ca/", "/service-areas/lompoc-ca/fire-damage-restoration/", "/service-areas/lompoc-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-graffiti-removal/", "/service-areas/atascadero-ca/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Lompoc", "url": "/service-areas/lompoc-ca/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How does Lompoc's marine humidity affect graffiti removal on stucco homes?", "answer": "The morning marine layer keeps stucco surfaces damp, which changes how spray paint bonds to the substrate and how long chemical removers need to dwell before rinsing. We adjust dwell times based on the ambient conditions on the day of service rather than using a fixed protocol. Attempting removal on a damp surface with the wrong timing can drive pigment deeper rather than lifting it."}, {"question": "Can you handle vandalism cleanup on older concrete block commercial buildings in Lompoc?", "answer": "Yes \u2014 concrete block is one of the more common commercial building materials in Lompoc's central corridors, and it requires a different approach than stucco or wood. The alkaline surface chemistry means certain solvents leave ghost staining even after the visible color is gone. We test for compatibility first and use neutralizing agents appropriate to the substrate to avoid that outcome."}, {"question": "Does Lompoc's HOA landscape affect what materials you can use for post-vandalism repainting?", "answer": "Some HOA-governed communities in Lompoc specify approved exterior color palettes and finish types, and using an unapproved coating to cover graffiti damage can create a separate compliance issue. We identify HOA requirements at the start of the project and confirm approved materials before any coating work begins. That step prevents a repair from generating a violation notice."}, {"question": "What does broken glass cleanup actually involve beyond picking up the visible pieces?", "answer": "Fine glass particulate from a smashed window or door scatters much farther than the visible shards and settles into carpet fibers, HVAC return vents, and floor gaps. We use HEPA-filter vacuums and systematic surface wipe-downs across the affected zone rather than a visual sweep alone. This matters especially in homes with children or pets, where residual glass at floor level is a real hazard."}, {"question": "Will Coastal Restoration Services document the vandalism damage in a format my insurance adjuster will accept?", "answer": "We photograph all affected surfaces before any cleaning begins and provide a written scope formatted to match the line-item structure most California carriers use. If your adjuster needs to walk the site, we're available to review the scope with them in person. We bill major carriers directly on qualifying claims so you are not fronting the full cost while waiting for reimbursement."}]
 area_slug: "lompoc-ca"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Lompoc"
 state: "CA"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Lompoc sits in a valley corridor where marine layer mornings, dry Santa Ana wind stretches, and a mix of mid-century residential blocks and older commercial strips create a particular kind of vulnerability to vandalism damage. Spray paint bites differently into the sun-baked stucco common on homes built during Lompoc's postwar expansion than it does into newer composite siding, and broken glass from a smashed storefront window on a foggy coastal morning can leave moisture-wicked debris that starts warping wood frames within hours. When vandalism hits, the visible damage is only part of the problem, and cleaning it up correctly the first time matters for both property value and your insurance claim.

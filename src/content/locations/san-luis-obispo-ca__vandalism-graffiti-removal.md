@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in San Luis Obispo, CA | Coastal Restoration Services Inc"
-h1: "Vandalism Cleanup in San Luis Obispo"
-meta_description: "Vandalism cleanup in San Luis Obispo, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
-primary_keyword: "vandalism cleanup san luis obispo"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in San Luis Obispo, CA | Coastal Restoration Services Inc"
+h1: "Graffiti Removal & Vandalism Cleanup in San Luis Obispo"
+meta_description: "Graffiti removal and vandalism cleanup in San Luis Obispo, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
+primary_keyword: "graffiti removal san luis obispo"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "a467fa9c06348716"
 generated_at: "2026-07-30T23:45:43.898022+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/san-luis-obispo-ca/", "/service-areas/san-luis-obispo-ca/fire-damage-restoration/", "/service-areas/san-luis-obispo-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-cleanup/", "/service-areas/atascadero-ca/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "San Luis Obispo", "url": "/service-areas/san-luis-obispo-ca/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/san-luis-obispo-ca/", "/service-areas/san-luis-obispo-ca/fire-damage-restoration/", "/service-areas/san-luis-obispo-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-graffiti-removal/", "/service-areas/atascadero-ca/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "San Luis Obispo", "url": "/service-areas/san-luis-obispo-ca/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Coastal Restoration Services reach a property near downtown San Luis Obispo?", "answer": "Our team is based in Santa Maria, approximately 35 miles south via US-101, so we can typically schedule a same-day or next-morning visit for calls placed during business hours. If you call early in the day, we prioritize getting eyes on the damage quickly so documentation is captured before weather or foot traffic disturbs the scene."}, {"question": "Does the porous stucco common on older San Luis Obispo buildings make graffiti harder to remove?", "answer": "Yes \u2014 sand-finish and older smooth stucco are significantly more absorbent than painted concrete block or vinyl siding. Aerosol paint can penetrate the surface layer within a few hours, especially on south- or west-facing walls during San Luis Obispo's warm, sunny summers. We use a staged chemical approach, testing solvent compatibility first to avoid damaging the finish coat while still lifting the pigment effectively."}, {"question": "Will my insurance policy cover vandalism cleanup at my San Luis Obispo commercial property?", "answer": "Vandalism is a named peril under most standard commercial property policies, though deductibles and documentation requirements vary by carrier. We provide a written scope of work, itemized materials list, and timestamped photographs formatted to support your adjuster's review. If you are unsure whether your policy covers a specific type of damage \u2014 such as interior vandalism versus exterior graffiti \u2014 we can help you frame the documentation to give your claim the clearest possible record."}, {"question": "What should I do immediately after discovering vandalism at my San Luis Obispo property before your crew arrives?", "answer": "Take photographs from multiple angles without disturbing the scene, and file a police report if you have not already \u2014 insurers typically require a report number for vandalism claims. Do not attempt to scrub or rinse graffiti yourself, as improper cleaning products can set pigment deeper into stucco or masonry and make professional removal more difficult. Secure any broken glass areas with temporary boarding if foot traffic is a concern, but leave the cleanup itself for the assessment visit."}, {"question": "Do San Luis Obispo HOAs have specific requirements that affect exterior vandalism repairs?", "answer": "Many HOA-governed communities in San Luis Obispo \u2014 particularly newer townhome and mixed-use developments \u2014 require written approval before any exterior repainting, even for damage restoration. This can affect color matching and the materials used on shared walls or common-area surfaces. We flag HOA requirements early in the project and can communicate directly with your property manager or HOA board to confirm approved specifications before work begins, avoiding delays or required re-dos."}]
 area_slug: "san-luis-obispo-ca"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "San Luis Obispo"
 state: "CA"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 San Luis Obispo's blend of a thriving university population, a busy downtown corridor, and a steady stream of weekend visitors creates conditions where vandalism can surface quickly, spray paint across a stucco facade overnight, a smashed storefront window after a late event, or interior damage left behind by a trespasser. When it happens to your property, the clock starts immediately: graffiti paint bonds more deeply into porous surfaces with every hour of sun exposure, and broken glass left unaddressed invites further liability. Coastal Restoration Services Inc responds to vandalism calls throughout San Luis Obispo and the surrounding Central Coast.

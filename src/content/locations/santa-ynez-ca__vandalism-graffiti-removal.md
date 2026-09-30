@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Santa Ynez, CA | Coastal Restoration Services Inc"
-h1: "Vandalism Cleanup in Santa Ynez"
-meta_description: "Vandalism cleanup in Santa Ynez, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
-primary_keyword: "vandalism cleanup santa ynez"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Santa Ynez, CA | Coastal Restoration Services Inc"
+h1: "Graffiti Removal & Vandalism Cleanup in Santa Ynez"
+meta_description: "Graffiti removal and vandalism cleanup in Santa Ynez, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
+primary_keyword: "graffiti removal santa ynez"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "8e732f7688a1d8a3"
 generated_at: "2026-07-30T23:43:17.382422+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/santa-ynez-ca/", "/service-areas/santa-ynez-ca/fire-damage-restoration/", "/service-areas/santa-ynez-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-cleanup/", "/service-areas/atascadero-ca/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Santa Ynez", "url": "/service-areas/santa-ynez-ca/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/santa-ynez-ca/", "/service-areas/santa-ynez-ca/fire-damage-restoration/", "/service-areas/santa-ynez-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-graffiti-removal/", "/service-areas/atascadero-ca/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Santa Ynez", "url": "/service-areas/santa-ynez-ca/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How long does graffiti removal typically take on the stucco and adobe surfaces common in Santa Ynez?", "answer": "For a single exterior wall with fresh spray paint on standard stucco, the chemical treatment and pressure-wash cycle usually runs two to four hours on-site. Older or more porous surfaces \u2014 raw adobe, unsealed concrete block, or weathered wood \u2014 absorb paint more deeply and may require a second treatment pass the following day. We give you a realistic timeline during the initial assessment rather than a flat estimate that doesn't account for the specific surface."}, {"question": "Does Santa Barbara County have any requirements that affect how vandalism cleanup is handled on commercial properties in Santa Ynez?", "answer": "For most vandalism cleanup work \u2014 graffiti removal, glass replacement, surface repair \u2014 there are no permit requirements at the county level. However, if the vandalism caused structural damage that requires repair work (replacing a load-bearing door frame, for example), a building permit may be required through Santa Barbara County's Building and Safety Division. We flag those situations during the assessment so you know before work begins."}, {"question": "Can you handle vandalism cleanup at a winery or tasting room property in the Santa Ynez Valley without disrupting business operations?", "answer": "Yes \u2014 we schedule around your operating hours when the damage allows it. Exterior graffiti removal, for instance, can often be completed before opening time. For interior damage or situations requiring temporary board-up, we work quickly to secure the space and minimize visible disruption to guests. We're familiar with the tourism-dependent nature of properties along the valley's wine corridor and treat scheduling as part of the job."}, {"question": "What happens to broken glass that lands in the decomposed-granite landscaping common around Santa Ynez properties?", "answer": "Glass fragments in loose-aggregate landscaping are a real hazard because they migrate with foot traffic and irrigation. Our cleanup process for broken-window events includes a systematic sweep of the surrounding ground using both visual inspection and magnetic tools for any metal hardware fragments. For decomposed granite specifically, we work in grid sections and use a fine-mesh collection method to pull fragments out of the top layer before they work deeper into the material."}, {"question": "Will my homeowner's or commercial property insurance cover vandalism cleanup costs in Santa Ynez, and what documentation do you provide?", "answer": "Vandalism is a named peril under most standard policies, though coverage limits and deductibles vary. Coastal Restoration Services Inc prepares a full documentation package \u2014 site photographs, a written damage inventory, and a line-item scope of work \u2014 formatted for adjuster review. We can bill carriers directly where the policy structure allows, which reduces what you need to pay upfront while the claim is being processed. Confirming your specific sub-limits before cleanup starts helps avoid surprises at settlement."}]
 area_slug: "santa-ynez-ca"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Santa Ynez"
 state: "CA"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Santa Ynez sits at the quieter end of the Santa Ynez Valley, where wine country tourism and small-town character coexist, but that doesn't make local properties immune to spray-painted walls, smashed windows, or forced-entry damage. When vandalism does hit here, the aftermath tends to linger in ways that aren't obvious at first: the dry, sun-baked stucco common on ranch-style homes in the valley absorbs aerosol paint deeper than coastal siding, and broken glass left on decomposed-granite landscaping can migrate into irrigation lines and HVAC intakes if it isn't collected methodically.

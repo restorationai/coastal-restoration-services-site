@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Solvang, CA | Coastal Restoration Services Inc"
-h1: "Vandalism Cleanup in Solvang"
-meta_description: "Vandalism cleanup in Solvang, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
-primary_keyword: "vandalism cleanup solvang"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Solvang, CA | Coastal Restoration Services Inc"
+h1: "Graffiti Removal & Vandalism Cleanup in Solvang"
+meta_description: "Graffiti removal and vandalism cleanup in Solvang, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
+primary_keyword: "graffiti removal solvang"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "f799a27f4ab3b801"
 generated_at: "2026-07-30T23:43:22.600505+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/solvang-ca/", "/service-areas/solvang-ca/fire-damage-restoration/", "/service-areas/solvang-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-cleanup/", "/service-areas/atascadero-ca/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Solvang", "url": "/service-areas/solvang-ca/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/solvang-ca/", "/service-areas/solvang-ca/fire-damage-restoration/", "/service-areas/solvang-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-graffiti-removal/", "/service-areas/atascadero-ca/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Solvang", "url": "/service-areas/solvang-ca/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Coastal Restoration Services reach Solvang from Santa Maria for a vandalism call?", "answer": "Santa Maria to Solvang is approximately 35 miles via U.S. 101 North and CA-246 West \u2014 a direct route with no significant mountain passes. When you call (805) 345-7440, we give you a realistic on-site estimate based on current scheduling and conditions rather than a blanket promise. For commercial properties, we can coordinate directly with an on-site contact if you can't be present."}, {"question": "Does Solvang's Danish architectural overlay zone affect how exterior vandalism repairs are approved?", "answer": "Yes. The City of Solvang maintains design review guidelines for the Danish-themed commercial district, which govern exterior paint colors and finish materials on street-facing facades. If cleanup requires repainting or texture repair on a regulated surface, the finish work needs to match the approved palette. We identify this early in the assessment so the repair doesn't inadvertently create a code compliance issue."}, {"question": "Solvang's stucco buildings are everywhere \u2014 does spray-paint removal work differently on stucco than on other surfaces?", "answer": "It does. Spray paint can penetrate porous stucco several millimeters below the surface, meaning surface-only cleaning often leaves a ghost image that reappears after moisture exposure \u2014 common in the Santa Ynez Valley's damp winters. We use gel solvents or chemical poultice designed for masonry, starting with the least aggressive method to avoid eroding the finish coat. Pressure washing at the wrong setting can cause more damage than the original graffiti."}, {"question": "What if the vandalism also damaged a decorative mural on a Solvang commercial building?", "answer": "Decorative murals in Solvang are sometimes painted in limewash or mineral-based paints rather than standard latex, and graffiti solvents formulated for latex can permanently cloud or lift those finishes. Before applying any chemical to a mural or decorative panel, we identify the paint system first. That identification step is quick but critical \u2014 a mural that took an artist days to complete can be damaged in seconds by the wrong solvent."}, {"question": "Will my insurance cover vandalism cleanup and repair in Solvang, and how does the documentation process work?", "answer": "Vandalism is a covered peril under most standard homeowners and commercial property policies. We photograph all damage before any cleaning begins, preserve material samples when relevant, and produce a written scope of work formatted to match what most adjusters expect. Starting with thorough documentation tends to reduce delays and back-and-forth during the claims process \u2014 particularly important if the repair involves regulated exterior finishes under Solvang's design guidelines."}]
 area_slug: "solvang-ca"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Solvang"
 state: "CA"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Solvang's Danish-village aesthetic, the half-timbered storefronts, hand-painted window murals, and stucco facades along Mission Drive, makes vandalism feel especially jarring here. Spray paint on a whitewashed wall or shattered glass in a carved wooden door frame isn't just property damage; it disrupts the visual identity that draws visitors to this Santa Barbara County community year-round. Coastal Restoration Services Inc responds to vandalism calls throughout Solvang, bringing structured cleanup and documentation to properties that need more than a bucket of paint thinner and a broom.

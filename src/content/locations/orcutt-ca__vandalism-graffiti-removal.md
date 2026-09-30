@@ -1,23 +1,23 @@
 ---
 archetype: "service-area-service"
-title: "Vandalism Cleanup in Orcutt, CA | Coastal Restoration Services Inc"
-h1: "Vandalism Cleanup in Orcutt"
-meta_description: "Vandalism cleanup in Orcutt, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
-primary_keyword: "vandalism cleanup orcutt"
-secondary_keywords: ["vandalism cleanup", "graffiti removal", "post-vandalism restoration", "vandalism damage repair", "broken glass cleanup"]
+title: "Graffiti Removal & Vandalism Cleanup in Orcutt, CA | Coastal Restoration Services Inc"
+h1: "Graffiti Removal & Vandalism Cleanup in Orcutt"
+meta_description: "Graffiti removal and vandalism cleanup in Orcutt, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
+primary_keyword: "graffiti removal orcutt"
+secondary_keywords: ["graffiti removal", "vandalism cleanup", "spray paint removal", "graffiti removal near me", "vandalism damage repair", "broken glass cleanup"]
 search_intent: "local_specialty"
 priority: 3.5
 plan_hash: "7e5ab35ad4e56022"
 generated_at: "2026-07-30T23:42:15.547658+00:00"
 manual_override: false
-internal_links: ["/services/vandalism-cleanup/", "/service-areas/orcutt-ca/", "/service-areas/orcutt-ca/fire-damage-restoration/", "/service-areas/orcutt-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-cleanup/", "/service-areas/atascadero-ca/vandalism-cleanup/", "/contact/"]
-breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Orcutt", "url": "/service-areas/orcutt-ca/"}, {"name": "Vandalism Cleanup"}]
+internal_links: ["/services/vandalism-graffiti-removal/", "/service-areas/orcutt-ca/", "/service-areas/orcutt-ca/fire-damage-restoration/", "/service-areas/orcutt-ca/mold-remediation/", "/service-areas/arroyo-grande-ca/vandalism-graffiti-removal/", "/service-areas/atascadero-ca/vandalism-graffiti-removal/", "/contact/"]
+breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Orcutt", "url": "/service-areas/orcutt-ca/"}, {"name": "Graffiti Removal & Vandalism Cleanup"}]
 faq: [{"question": "How quickly can Coastal Restoration Services reach Orcutt from your Santa Maria headquarters?", "answer": "Our team is based in Santa Maria, and Orcutt is a short drive \u2014 typically under 15 minutes depending on the location within the community. We schedule prompt response during business hours and will give you an honest arrival window when you call (805) 345-7440 so you are not left waiting without information."}, {"question": "Does the older stucco construction common in Orcutt affect how graffiti removal is done?", "answer": "Yes, significantly. Mid-century stucco in Orcutt is often thinner and more porous than modern finishes, which means aerosol paint penetrates faster and some chemical removers can damage the finish coat if applied at full strength. We test a small inconspicuous area before committing to any removal method, and we adjust dwell times and pressure accordingly to avoid turning a surface cleanup into a full stucco repair."}, {"question": "Will my homeowners insurance cover vandalism cleanup in Orcutt, and how do you help with the claim?", "answer": "Vandalism is a named peril on most standard homeowners policies in California, so coverage is common \u2014 though deductibles and documentation requirements vary by carrier. We provide before-and-after photographs, a written scope of work, and itemized material records in the format most adjusters request. If your carrier needs a supplemental estimate or a reinspection, we handle that communication directly."}, {"question": "What happens if broken glass from a vandalism incident got into the soil or landscaping around my Orcutt property?", "answer": "Glass in soil or ground cover is treated as a containment issue, not just a sweep-and-go cleanup. We hand-collect visible fragments, rake the affected area, and use a HEPA-filtered vacuum on hard surfaces adjacent to the landscaping zone. For larger incidents where glass entered a planting bed, we can remove and replace the top layer of soil and mulch to eliminate embedded shards that are invisible to the naked eye."}, {"question": "My Orcutt property is in an HOA community \u2014 do I need board approval before you start cleanup work?", "answer": "It depends on the scope. Emergency glass cleanup and temporary boarding generally do not require prior HOA approval, but exterior repainting or stucco repair that changes the visible finish may trigger a review process. We can provide a documentation package \u2014 photos, material specs, and color-match information \u2014 that satisfies most HOA board requirements, and we are happy to coordinate timing around an approval window if needed."}]
 area_slug: "orcutt-ca"
-service_slug: "vandalism-cleanup"
+service_slug: "vandalism-graffiti-removal"
 city: "Orcutt"
 state: "CA"
-service_display: "Vandalism Cleanup"
+service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
 Orcutt sits in a quiet stretch of Santa Barbara County where graffiti tags on block walls, smashed storefront windows, and spray-painted fences can feel especially jarring against the community's unhurried character. When vandalism hits a home or business here, the damage rarely stops at the surface, paint solvents soak into stucco, broken glass grinds into concrete, and the longer cleanup waits, the harder full restoration becomes. Coastal Restoration Services Inc responds to vandalism calls throughout Orcutt and the surrounding Santa Maria Valley, bringing the same methodical approach we use on larger structural losses to these smaller but equally disruptive incidents.
