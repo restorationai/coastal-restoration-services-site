@@ -1,10 +1,10 @@
 ---
 archetype: "home"
-title: "Coastal Restoration Services Inc | Restoration Services in Santa Maria, CA"
-h1: "Restoration Services in Santa Maria"
-meta_description: "Coastal Restoration Services Inc provides water, fire, mold, and storm damage restoration across Santa Maria and surrounding areas. Call (805) 345-7440."
-primary_keyword: "restoration services vandenberg village"
-secondary_keywords: ["restoration company near me"]
+title: "Water Damage Restoration in Santa Maria, CA | Coastal Restoration Services Inc"
+h1: "Water Damage Restoration in Santa Maria, CA"
+meta_description: "Coastal Restoration Services Inc provides water damage restoration in Santa Maria, CA. IICRC certified. Call (805) 345-7440 now."
+primary_keyword: "water damage restoration santa maria"
+secondary_keywords: ["best restoration company in santa maria", "restoration company santa maria", "water damage restoration near me"]
 search_intent: "local_commercial"
 priority: 5.0
 plan_hash: "2918974a051b84da"
