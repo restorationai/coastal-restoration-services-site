@@ -16,6 +16,7 @@ faq: [{"question": "How quickly does water damage actually need to be addressed 
 published_at: "2026-07-22"
 services: ["water-damage-restoration", "fire-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Tony Mendez"
 ---
 ## The Short Answer: Vet Before You're Desperate
 

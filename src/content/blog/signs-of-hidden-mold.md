@@ -16,6 +16,7 @@ faq: [{"question": "How can I tell if the mold smell is coming from my HVAC syst
 published_at: "2026-07-17"
 services: ["mold-remediation"]
 rendered: true
+author: "Tony Mendez"
 ---
 Hidden mold is exactly what it sounds like, colonies growing behind walls, under flooring, inside HVAC ducts, or above ceiling tiles where you can't see them. The tricky part is that you often *feel* the effects before you ever spot the growth. If you've noticed a persistent musty smell, unexplained allergy symptoms, or a water stain that came and went months ago, there's a real chance mold has been quietly colonizing somewhere in your home. Here are seven concrete signs to look for, and a clear path for what to do if you find them.
 

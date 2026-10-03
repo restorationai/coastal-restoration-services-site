@@ -17,6 +17,7 @@ faq: [{"question": "Do I have to use the restoration contractor my insurance com
 published_at: "2026-09-03"
 services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** Before any drywall comes out, document everything with photos and video, call your insurer to open a claim, and get a written scope of work from a licensed restoration contractor. In California, you have the right to choose your own contractor, you are not required to use the insurance company's preferred vendor. Mitigation (stopping further damage) must start quickly, but demolition and reconstruction should not begin until your adjuster has inspected and your scope is agreed upon in writing.
 

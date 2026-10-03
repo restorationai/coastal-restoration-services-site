@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover water damage from a roof lea
 published_at: "2026-08-31"
 services: ["storm-damage-restoration", "emergency-board-up-tarping", "water-damage-restoration"]
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** When a roof leaks during heavy rain, your first job is to limit interior damage, not fix the roof. Move belongings, catch water, document everything with photos and video, and call your insurer to open a claim. Most homeowners policies cover the interior water damage caused by a sudden roof leak, but they do not cover the roof repair itself unless a covered peril (like wind or hail) caused the opening. A licensed roofer handles the roof; a certified restoration company handles the water damage inside.
 

@@ -16,6 +16,7 @@ faq: [{"question": "How accurate are the mold test kits sold at hardware stores?
 published_at: "2026-07-17"
 services: ["mold-remediation", "mold-inspection-testing"]
 rendered: true
+author: "Tony Mendez"
 ---
 Testing for mold starts with your nose and your eyes, but knowing whether what you find is actually a health concern, and how far it has spread, usually takes more than a $10 swab kit from the hardware store. If you have a musty smell that won't go away, a water stain that keeps coming back, or you've had a slow leak behind a wall, here's what you need to know about your options: DIY test kits can confirm that *some* mold is present, but they rarely tell you the species, the concentration, or where the colony actually lives. A professional inspection does all three.
 

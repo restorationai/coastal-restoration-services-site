@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in Santa Maria o
 published_at: "2026-08-17"
 services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** Water damage restoration in Santa Maria, San Luis Obispo, and surrounding Central Coast communities typically costs $1,800 to $12,000 for a standard residential loss. Clean water from a burst pipe runs lower; sewage or floodwater runs higher. Most homeowners insurance policies cover sudden, accidental water damage after your deductible, which is usually $1,000 to $2,500. What you personally owe depends on your deductible, your coverage limits, and how quickly the damage was caught.
 

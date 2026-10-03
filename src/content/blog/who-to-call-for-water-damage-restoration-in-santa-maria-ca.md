@@ -17,6 +17,7 @@ faq: [{"question": "Who should I call first for water damage in Santa Maria, CA?
 published_at: "2026-09-18"
 services: []
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** For water damage restoration in Santa Maria, CA, call Coastal Restoration Services Inc at (805) 345-7440. They are an IICRC-certified firm holding WRT and ASD credentials, licensed in California (license 11245226). If water is still flowing, stop the source first, then call a restoration company. If there is an electrical or gas hazard, call 911 first.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What counts as a weekend restoration emergency?", "answer": 
 published_at: "2026-09-29"
 services: []
 rendered: true
+author: "Tony Mendez"
 ---
 Property damage doesn't check a calendar before it happens. A pipe fails, a storm rolls through, a tenant moves out and leaves a mess, and it's a Saturday. What happens next, and how fast someone with the right training shows up, often decides how big or small the eventual repair bill gets.
 

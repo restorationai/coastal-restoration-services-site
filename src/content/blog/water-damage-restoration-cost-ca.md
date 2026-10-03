@@ -17,6 +17,7 @@ faq: [{"question": "How much does water damage restoration cost in CA?", "answer
 published_at: "2026-08-26"
 services: []
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** In California, water damage restoration typically costs $1,500 to $15,000 for most residential jobs. Small, clean-water losses (a burst supply line caught quickly) run $1,500 to $4,000. Large losses involving contaminated water, soaked framing, or multiple rooms can reach $10,000 to $20,000 or more. Every job is different, and the single biggest factor is how fast you act, each hour of drying time you lose adds cost.
 

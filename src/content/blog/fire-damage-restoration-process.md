@@ -16,6 +16,7 @@ faq: [{"question": "How long does fire damage restoration typically take?", "ans
 published_at: "2026-07-24"
 services: ["fire-damage-restoration", "smoke-damage-restoration"]
 rendered: true
+author: "Tony Mendez"
 ---
 After a house fire, even a small one contained to a single room, the damage you *can't* see often outlasts the damage you can. Soot travels through ductwork. Smoke odor binds to porous surfaces like drywall, insulation, and wood framing. Acidic residue from burned synthetic materials begins etching metal fixtures within hours. Understanding what restoration actually involves helps you ask better questions, make faster decisions, and avoid the mistakes that turn a recoverable loss into a gut-renovation.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What is coastal restoration and what services does it includ
 published_at: "2026-09-15"
 services: []
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** Coastal restoration in Santa Maria, CA means dealing with water intrusion, mold, storm damage, and fire loss in a region where marine humidity, seasonal rains, and aging housing stock create real, recurring problems. Coastal Restoration Services Inc is an IICRC-certified firm based in Santa Maria that handles the full scope: water damage, mold remediation, fire and smoke cleanup, sewage extraction, storm response, and more. They provide written scopes before work begins and document everything for insurance.
 

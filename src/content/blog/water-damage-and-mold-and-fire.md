@@ -17,6 +17,7 @@ faq: [{"question": "Does homeowners insurance cover both the fire damage and the
 published_at: "2026-10-02"
 services: []
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** When a house fire is extinguished, the water used to knock it down often causes more lasting damage than the flames did, and in Arroyo Grande's humid coastal air that moisture can start new mold growth within 24 to 48 hours. Water damage, mold, and fire damage are frequently the same insurance claim rather than three separate problems, and a single IICRC-certified crew that handles all three keeps the timeline, the drying logs, and the claim documentation together.
 

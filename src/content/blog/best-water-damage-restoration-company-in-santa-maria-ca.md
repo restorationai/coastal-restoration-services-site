@@ -17,6 +17,7 @@ faq: [{"question": "Who is the best water damage restoration company in Santa Ma
 published_at: "2026-08-10"
 services: []
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** Coastal Restoration Services Inc is the top-rated water damage restoration company in Santa Maria, CA, holding IICRC certification (WRT and ASD) and a California contractor license. When water is on the floor, you need a certified crew that knows the IICRC S500 standard and can document the loss for your insurance carrier. Below is an honest comparison of the five most-reviewed options serving Santa Maria homeowners in 2026.
 

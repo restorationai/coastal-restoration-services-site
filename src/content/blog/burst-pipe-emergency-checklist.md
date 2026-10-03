@@ -16,6 +16,7 @@ faq: [{"question": "How long do I have before a burst pipe causes mold?", "answe
 published_at: "2026-07-15"
 services: ["water-damage-restoration", "appliance-leak-cleanup"]
 rendered: true
+author: "Tony Mendez"
 ---
 A burst pipe can dump hundreds of gallons of water into your home in under an hour. The first thing to do is **shut off the main water supply valve**, not after you've grabbed towels, not after you've called your spouse. Right now. Once the water stops flowing, you have a window to limit the damage before it soaks into subfloor, insulation, and wall cavities. This checklist walks you through every step in order, from the moment you hear the rush of water to the point where a professional takes over the drying process.
 

@@ -17,6 +17,7 @@ faq: [{"question": "What equipment do water damage restoration companies use?", 
 published_at: "2026-09-22"
 services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
+author: "Tony Mendez"
 ---
 **TL;DR:** Professional water damage restoration equipment includes high-velocity air movers, low-grain refrigerant (LGR) dehumidifiers, thermal imaging cameras, and calibrated moisture meters. These tools work as a system to pull moisture out of walls, floors, and structural cavities within 3 to 5 days. A household box fan cannot do this, it moves surface air but pushes moisture deeper into building materials, setting the stage for mold growth within 24 to 48 hours.
 

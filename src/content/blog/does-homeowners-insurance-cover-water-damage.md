@@ -16,6 +16,7 @@ faq: [{"question": "What's the difference between water damage and flood damage 
 published_at: "2026-07-13"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Tony Mendez"
 ---
 Homeowners insurance *usually* covers water damage, but the word "usually" is doing a lot of work there. The short answer: your policy almost certainly covers sudden, accidental water damage (a burst pipe, a washing machine hose that lets go, a roof leak from a storm). It almost certainly does **not** cover gradual damage that built up over weeks or months, or flooding from outside your home. Where most claims go sideways is the gray zone between those two categories. This guide walks through the key distinctions so you know what to expect before you're on the phone with an adjuster.
 

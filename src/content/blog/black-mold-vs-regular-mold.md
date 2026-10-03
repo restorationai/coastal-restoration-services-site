@@ -16,6 +16,7 @@ faq: [{"question": "Can I test for black mold myself at home?", "answer": "Consu
 published_at: "2026-07-17"
 services: ["mold-remediation"]
 rendered: true
+author: "Tony Mendez"
 ---
 Most mold you find in a home is not the toxic black mold you've read about in headlines. But telling them apart by color alone is unreliable, and that's the part most articles skip. The short answer: *Stachybotrys chartarum*, the species commonly called "black mold," is one of hundreds of mold types that can appear dark-colored, and several common household molds also grow in black or near-black shades. The only way to confirm a species is laboratory testing. What you *can* do at home is assess the growth pattern, location, smell, and surface texture to make a more informed call about urgency.
 

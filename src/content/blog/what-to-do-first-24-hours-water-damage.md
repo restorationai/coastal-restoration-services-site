@@ -16,6 +16,7 @@ faq: [{"question": "Will my homeowner's insurance cover water damage from a burs
 published_at: "2026-07-27"
 services: ["water-damage-restoration"]
 rendered: true
+author: "Tony Mendez"
 ---
 If water is actively spreading through your home right now, stop the source first: find your main shutoff valve (usually near the water meter, in a garage, or under a sink) and turn it off. Then get people and pets out of any room with standing water near electrical outlets or panels. The decisions you make in the next few hours, what you move, what you leave, what you dry, what you document, will directly affect how much damage your home sustains and how smoothly your insurance claim goes. Here is exactly what to do.
 
