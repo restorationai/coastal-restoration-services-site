@@ -253,3 +253,17 @@
 /service-areas/vandenberg-afb-ca/vandalism-cleanup/ /service-areas/vandenberg-afb-ca/vandalism-graffiti-removal/ 301
 /service-areas/vandenberg-village-ca/vandalism-cleanup /service-areas/vandenberg-village-ca/vandalism-graffiti-removal/ 301
 /service-areas/vandenberg-village-ca/vandalism-cleanup/ /service-areas/vandenberg-village-ca/vandalism-graffiti-removal/ 301
+
+# old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
+# traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
+# generic one; restored articles live under /blog/.
+/water-damage-restoration-san-luis-obispo-ca /service-areas/san-luis-obispo-ca/water-damage-restoration/ 301
+/water-damage-restoration-san-luis-obispo-ca/ /service-areas/san-luis-obispo-ca/water-damage-restoration/ 301
+/mold-remediation-santa-maria-ca /services/mold-remediation/ 301
+/mold-remediation-santa-maria-ca/ /services/mold-remediation/ 301
+/premier-sewage-cleaning-service-in-solvang /service-areas/solvang-ca/sewage-cleanup/ 301
+/premier-sewage-cleaning-service-in-solvang/ /service-areas/solvang-ca/sewage-cleanup/ 301
+/reliable-mold-abatement-in-buellton /service-areas/buellton-ca/mold-remediation/ 301
+/reliable-mold-abatement-in-buellton/ /service-areas/buellton-ca/mold-remediation/ 301
+/experienced-board-ups-in-san-luis-obispo /service-areas/san-luis-obispo-ca/emergency-board-up-tarping/ 301
+/experienced-board-ups-in-san-luis-obispo/ /service-areas/san-luis-obispo-ca/emergency-board-up-tarping/ 301
