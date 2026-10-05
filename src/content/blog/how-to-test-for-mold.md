@@ -54,7 +54,7 @@ A certified mold inspector does several things a DIY kit cannot. The inspection 
 
 The report is also what your insurance carrier or a future home buyer will ask for. A lab printout from a mail-in swab kit is not the same document.
 
-Coastal Restoration Services Inc offers professional mold inspection and testing in Vandenberg Village and the surrounding Santa Barbara County area. If an inspection confirms active growth, the same team can move directly into [mold remediation](/mold-remediation), which means one point of contact and no gap between diagnosis and work.
+Coastal Restoration Services Inc offers professional [mold inspection and testing](/services/mold-inspection-testing/) in Vandenberg Village and the surrounding Santa Barbara County area. If an inspection confirms active growth, the same team can move directly into [mold remediation](/services/mold-remediation/), which means one point of contact and no gap between diagnosis and work.
 
 ## What NOT to Do When You Suspect Mold
 

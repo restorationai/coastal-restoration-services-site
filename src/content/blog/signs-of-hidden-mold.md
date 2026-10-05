@@ -83,8 +83,8 @@ A qualified mold remediation contractor will use thermal imaging and calibrated 
 
 Once a professional assessment confirms hidden mold, the typical process moves in this order: containment setup, HEPA air scrubbing, controlled demolition of affected materials (drywall, insulation, subfloor sections), treatment of structural framing, clearance testing by a third party, and finally reconstruction. The timeline depends heavily on how far the growth has spread, a single wall cavity might take two to three days; a crawl space with extensive joist involvement can take a week or more.
 
-After remediation, the underlying moisture problem must be permanently corrected, whether that's a plumbing repair, improved attic ventilation, or a vapor barrier in a crawl space, or the mold will return.
+After remediation, the underlying moisture problem must be permanently corrected, whether that's a plumbing repair, improved attic ventilation, or a [vapor barrier in a crawl space](/services/crawl-space-encapsulation/), or the mold will return.
 
 ---
 
-If several of the signs above sound familiar, the next step is an honest assessment of what's actually behind your walls, not guesswork. Coastal Restoration Services Inc handles mold remediation in Vandenberg Village and the surrounding Central Coast area. Call (805) 345-7440 to schedule an inspection before a manageable problem becomes a structural one.
+If several of the signs above sound familiar, the next step is an honest assessment of what's actually behind your walls, not guesswork. Coastal Restoration Services Inc handles [mold remediation](/services/mold-remediation/) in Vandenberg Village and the surrounding Central Coast area. Call (805) 345-7440 to schedule an inspection before a manageable problem becomes a structural one.

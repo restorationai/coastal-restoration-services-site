@@ -58,7 +58,7 @@ Before you do anything else, stop and assess the size of the area.
 1. **Measure the affected area.** The EPA's general guidance for homeowners is that mold patches smaller than 10 square feet (roughly a 3×3-foot section) can often be handled by a careful DIYer on non-porous surfaces. Larger areas, or any growth on porous materials like drywall or insulation, typically warrant professional assessment.
 2. **Don't disturb the growth.** Scrubbing, vacuuming with a standard vacuum, or blasting with compressed air sends spores airborne and can spread contamination to unaffected rooms.
 3. **Improve ventilation in the room, not throughout the house.** Open a window in the affected room, but close the door to prevent spores from traveling through your HVAC system. If you have a whole-house HVAC, consider turning it off until the area is assessed.
-4. **Document with photos.** Photograph the growth, the surrounding area, and any visible water damage or staining. This is useful for both professional assessment and insurance purposes.
+4. **Document with photos.** Photograph the growth, the surrounding area, and any visible [water damage](/services/water-damage-restoration/) or staining. This is useful for both professional assessment and insurance purposes.
 5. **Address the moisture source.** Mold will return within days if the underlying moisture problem isn't fixed. A slow drip, a failed caulk line, or inadequate exhaust ventilation in a bathroom will keep feeding new growth.
 
 ## What Not to Do
@@ -70,7 +70,7 @@ Before you do anything else, stop and assess the size of the area.
 
 ## When to Call a Professional
 
-Call a mold remediation professional, not just a general contractor, when:
+Call a [mold remediation professional](/services/mold-remediation/), not just a general contractor, when:
 
 - The affected area is larger than 10 square feet
 - The mold is on or inside drywall, insulation, subfloor, or structural wood
