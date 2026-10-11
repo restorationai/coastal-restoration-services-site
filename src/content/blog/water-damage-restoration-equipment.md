@@ -21,7 +21,7 @@ author: "Tony Mendez"
 ---
 **TL;DR:** Professional water damage restoration equipment includes high-velocity air movers, low-grain refrigerant (LGR) dehumidifiers, thermal imaging cameras, and calibrated moisture meters. These tools work as a system to pull moisture out of walls, floors, and structural cavities within 3 to 5 days. A household box fan cannot do this, it moves surface air but pushes moisture deeper into building materials, setting the stage for mold growth within 24 to 48 hours.
 
-If a restoration crew just walked into your home and started unloading equipment you have never seen before, you are probably wondering what all of it does and whether you actually need it. The short answer: yes, you need it. Each piece serves a specific function in a drying system governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500). Here is what the crew is setting up and why.
+If a restoration crew just walked into your home and started unloading equipment you have never seen before, you are probably wondering what all of it does and whether you actually need it. The short answer: yes, you need it. Each piece serves a specific function in a drying system governed by the [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/). Here is what the crew is setting up and why.
 
 ## What equipment does a water damage restoration crew bring on day one?
 

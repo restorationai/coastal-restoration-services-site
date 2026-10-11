@@ -28,7 +28,7 @@ Water is still spreading across the kitchen floor from a split supply line, or y
 
 No. You do not need your insurer's permission before extracting standing water, running fans, or calling a mitigation crew. Most homeowners and commercial property policies include a duty-to-mitigate clause: the policyholder is required to take reasonable steps to prevent further damage the moment a covered loss happens, not to wait for approval first.
 
-That clause exists because insurers know the math. A puddle under a dishwasher that sits for six hours becomes wicked-up drywall, swollen baseboards, and sometimes [mold growth](/blog/black-mold-vs-regular-mold/) within 24 to 48 hours. Letting that happen while you wait on hold costs the insurer more, not less, so the policy language is written to get water moving out of the house immediately. The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500), the water damage restoration industry's technical reference, is built around that same 24-to-48-hour window for exactly this reason.
+That clause exists because insurers know the math. A puddle under a dishwasher that sits for six hours becomes wicked-up drywall, swollen baseboards, and sometimes [mold growth](/blog/black-mold-vs-regular-mold/) within 24 to 48 hours. Letting that happen while you wait on hold costs the insurer more, not less, so the policy language is written to get water moving out of the house immediately. The [IICRC S500 standard](https://iicrc.org/s500/), the water damage restoration industry's technical reference, is built around that same 24-to-48-hour window for exactly this reason.
 
 ## Will insurance deny my claim if I start cleanup before they approve it?
 

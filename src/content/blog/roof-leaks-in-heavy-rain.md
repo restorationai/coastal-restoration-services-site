@@ -57,7 +57,7 @@ Once the tarp is in place, the roof opening is the roofer's job. The restoration
 
 A properly equipped drying job typically takes 3 to 5 days for standard residential materials, though that window depends on how much water entered, what materials got wet, and how quickly drying equipment was deployed. Wet insulation, dense subfloor assemblies, and double-layer drywall take longer than a single wet ceiling panel.
 
-The [IICRC S500 Standard for Professional Water Damage Restoration](https://www.iicrc.org/page/IICRCS500) defines the science behind structural drying: materials must reach documented moisture content targets before reconstruction begins. Drying to a number, not to a guess, is what prevents mold from growing inside a wall cavity after the drywall has been patched and painted.
+The [IICRC S500 Standard for Professional Water Damage Restoration](https://iicrc.org/s500/) defines the science behind structural drying: materials must reach documented moisture content targets before reconstruction begins. Drying to a number, not to a guess, is what prevents mold from growing inside a wall cavity after the drywall has been patched and painted.
 
 A certified [water damage restoration](/services/water-damage-restoration/) crew uses industrial air movers (typically one per 50-100 square feet of affected area), low-grain refrigerant (LGR) dehumidifiers, and daily moisture meter readings to track progress. Those readings are logged and become part of the documentation your insurer receives. Rushing reconstruction before materials are dry is the most common reason a repaired room develops mold 3 to 6 weeks later.
 

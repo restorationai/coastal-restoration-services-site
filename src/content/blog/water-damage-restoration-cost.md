@@ -43,7 +43,7 @@ These are mitigation-only figures: water extraction, structural drying, antimicr
 
 ## What Is Category 1, 2, and 3 Water?
 
-The [IICRC S500 standard](https://www.iicrc.org/page/IICRCS500) defines three water categories that every licensed restoration company uses to scope a job. The category determines how aggressive the drying protocol needs to be and whether materials can be dried in place or must be removed.
+The [IICRC S500 standard](https://iicrc.org/s500/) defines three water categories that every licensed restoration company uses to scope a job. The category determines how aggressive the drying protocol needs to be and whether materials can be dried in place or must be removed.
 
 **Category 1 (clean water)** comes from a supply line, a broken water heater, or a clean toilet tank. It poses no significant health risk and can often be dried with air movers and dehumidifiers without removing drywall, if caught quickly.
 

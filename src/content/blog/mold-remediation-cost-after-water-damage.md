@@ -56,7 +56,7 @@ Several factors move the number significantly, and understanding them helps you 
 
 **Building materials affected.** Drywall is relatively cheap to remove and replace. Hardwood flooring, cabinetry, structural framing, and insulation all cost more to demolish and dispose of properly. Mold inside wall cavities requires opening the wall, treating the framing, and rebuilding the assembly.
 
-**Containment complexity.** The [IICRC S520 standard](https://www.iicrc.org/page/IICRCS520) for mold remediation requires physical containment (poly sheeting, negative air pressure with HEPA filtration) to prevent spore migration to unaffected areas during demolition. Larger affected areas require larger containment setups, which adds labor and equipment cost.
+**Containment complexity.** The [IICRC S520 standard](https://iicrc.org/s520/) for mold remediation requires physical containment (poly sheeting, negative air pressure with HEPA filtration) to prevent spore migration to unaffected areas during demolition. Larger affected areas require larger containment setups, which adds labor and equipment cost.
 
 **HVAC involvement.** If mold has entered the duct system, remediation scope expands significantly. Duct cleaning and treatment is a separate line item and can add $1,500 to $4,000 to the total.
 
