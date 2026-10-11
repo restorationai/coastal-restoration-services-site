@@ -61,7 +61,7 @@ export const brand = {
   certifications: ["IICRC Certified Firm", "WRT (Water Damage Restoration Technician)", "ASD (Applied Structural Drying)"] as string[],
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
-  sameAsUrls: ["https://facebook.com/JustCallCRS", "https://www.instagram.com/coastalrestorationca/", "https://maps.google.com/maps?cid=9173788747863866509", "https://www.facebook.com/p/Coastal-Restoration-Group-100067035034261/"] as string[],
+  sameAsUrls: ["https://facebook.com/JustCallCRS", "https://www.instagram.com/coastalrestorationca/", "https://www.facebook.com/p/Coastal-Restoration-Group-100067035034261/", "https://maps.google.com/maps?cid=9173788747863866509", "https://www.bing.com/maps?ss=ypid.YN63B35A1F1F185968"] as string[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
