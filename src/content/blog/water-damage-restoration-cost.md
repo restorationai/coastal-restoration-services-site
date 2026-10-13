@@ -98,7 +98,7 @@ Understanding the process helps you understand why the bill is what it is. Water
 
 For what to do in the first hours before the crew arrives, the [burst pipe checklist](/blog/burst-pipe-emergency-checklist/) and [first 24 hours guide](/blog/what-to-do-first-24-hours-water-damage/) cover the steps that limit your total cost.
 
-If you have water in your home right now and need a written scope for your insurance claim, call Coastal Restoration Services Inc at (805) 345-7440. The [Santa Maria water damage restoration](/service-areas/santa-maria-ca/water-damage-restoration/) team handles jobs across Santa Barbara and San Luis Obispo counties.
+If you have water in your home right now and need a written scope for your insurance claim, call Coastal Restoration Services Inc at (805) 345-7440. The [Santa Maria water damage restoration](/services/water-damage-restoration/) team handles jobs across Santa Barbara and San Luis Obispo counties.
 
 ---
 
