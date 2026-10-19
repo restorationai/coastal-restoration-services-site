@@ -62,6 +62,8 @@ Typical costs run from under $2,000 for a small, clean, accessible crawl space t
 
 Every loss and every crawl space is different, Coastal Restoration Services Inc provides a written scope of work before any work begins so you know exactly what is included. Homeowners insurance typically does not cover encapsulation as a preventive upgrade, but when moisture intrusion or mold damage is tied to a covered peril such as a plumbing leak or storm-related water entry, remediation and encapsulation costs may be partially covered, documentation of the cause is key.
 
+For local pricing detail, see our [crawl space encapsulation cost guide for Santa Maria](/blog/crawl-space-encapsulation-cost-santa-maria-ca/).
+
 ## Seasonal and regional considerations
 
 Vandenberg Village and the surrounding Santa Barbara County coastal corridor experience a climate that is deceptively hard on crawl spaces. Mild temperatures year-round mean homeowners rarely think of their crawl space as a problem, but persistent coastal fog, marine layer humidity, and clay soils that stay saturated well into spring create conditions where crawl space relative humidity can remain above 70% for months at a time without any rain event at all. That sustained humidity is enough to drive wood moisture content above the 19% threshold where decay fungi become active.

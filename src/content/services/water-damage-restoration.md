@@ -52,6 +52,8 @@ Insurance adjusters look for daily moisture logs, equipment placement records, a
 
 Finally, the water category matters enormously. Treating a sewage backup as a clean-water loss, skipping containment and antimicrobial steps to save time, creates health and liability exposure that no amount of drying corrects afterward.
 
+If you are comparing companies, our guides on [who to call for water damage in Santa Maria](/blog/who-to-call-for-water-damage-restoration-in-santa-maria-ca/) and [how to choose a water damage restoration company in Santa Maria](/blog/best-water-damage-restoration-company-in-santa-maria-ca/) explain what to look for.
+
 ## What does Water Damage Restoration cost?
 
 Typical costs vary significantly based on the size of the affected area, the water category, the materials involved, and how quickly mitigation begins. Most homeowners pay somewhere in the ranges below for mitigation alone; reconstruction of removed materials is a separate scope.
