@@ -47,6 +47,8 @@ A second common shortcut is skipping clearance testing. Some contractors declare
 
 A third issue is remediating without addressing the moisture source. If the roof still leaks, the crawlspace still has vapor intrusion, or the bathroom exhaust fan still vents into the attic, mold will return within one to two rainy seasons. A thorough remediation scope includes a written moisture source finding, not just a mold removal line item.
 
+If you are still deciding who to bring in, our guides on [who to call for mold in Santa Maria](/blog/who-to-call-for-mold-in-santa-maria-ca/) and [how to choose a mold remediation company in Santa Maria](/blog/best-mold-remediation-company-santa-maria-ca/) walk through the questions to ask.
+
 ## What does mold remediation cost?
 
 Typical costs for mold remediation vary significantly based on the size of the affected area, the type of materials involved, and whether structural demolition is required. Most homeowners pay somewhere in the ranges below, these are industry-typical figures, not quotes.

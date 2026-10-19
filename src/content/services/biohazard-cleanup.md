@@ -67,6 +67,8 @@ Typical costs for biohazard remediation vary significantly based on the size of 
 
 Every loss is different. Coastal Restoration Services Inc provides a written scope of work before any remediation begins so there are no surprises. Homeowners insurance frequently covers biohazard cleanup, particularly in cases involving traumatic events or unattended deaths, though coverage limits and deductibles vary by policy.
 
+For more on how these costs break down, see our [biohazard cleanup cost guide for Santa Maria](/blog/biohazard-cleanup-cost-santa-maria-ca/).
+
 ## Service area
 
 Coastal Restoration Services Inc is based in Vandenberg Village, CA and serves the surrounding Santa Barbara County communities including Lompoc, Santa Maria, Orcutt, Buellton, Solvang, and the broader Central Coast region. City-specific pages link back here for detailed service information.

@@ -65,6 +65,8 @@ Typical costs for fire damage restoration vary significantly based on the size o
 
 Every fire loss is different, and Coastal Restoration Services Inc provides a written scope of work before any work begins so there are no surprises. Homeowners insurance typically covers fire damage restoration, including cleaning, deodorization, and contents pack-out, subject to your deductible and policy limits; Coastal Restoration Services Inc works with all major carriers and handles claim documentation on your behalf.
 
+For a closer look at what drives fire restoration pricing here, read our [fire damage restoration cost guide for Santa Maria](/blog/fire-damage-restoration-cost-santa-maria-ca/).
+
 ## Seasonal and regional considerations
 
 Vandenberg Village and the broader Santa Barbara County area sit in a fire-prone coastal-inland transition zone. The region's seasonal offshore winds, particularly in fall and early winter, drive rapid fire spread and push smoke deep into structures even in homes not directly in a fire's path. Wildfire smoke events, even from fires miles away, can deposit fine particulate matter inside homes through HVAC systems and gaps in the building envelope, creating odor and air quality issues that require the same soot-removal protocols used after a structural fire.
