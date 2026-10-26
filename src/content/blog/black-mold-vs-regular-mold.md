@@ -76,7 +76,7 @@ Call a [mold remediation professional](/services/mold-remediation/), not just a 
 - The mold is on or inside drywall, insulation, subfloor, or structural wood
 - You or anyone in the household has respiratory symptoms, persistent headaches, or immune system concerns
 - The mold returned after a previous cleaning attempt
-- You've had a water intrusion event (flood, burst pipe, roof leak) and you're finding mold within weeks
+- You've had a water intrusion event ([flood](/services/flood-damage-restoration/), burst pipe, roof leak) and you're finding mold within weeks
 - You're buying or selling a property and need documented clearance testing
 
 A certified remediation team will use containment barriers and negative air pressure to prevent cross-contamination, remove and bag affected materials according to EPA guidelines, apply appropriate antimicrobial treatments to structural surfaces, and conduct post-remediation verification testing to confirm the area is clear before reconstruction begins.

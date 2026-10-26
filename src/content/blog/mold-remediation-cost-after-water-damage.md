@@ -109,7 +109,7 @@ If you have active water damage or discovered mold in your Santa Maria home, the
 
 For mold that is already visible, do not disturb it. Scrubbing or spraying mold without containment spreads spores to unaffected areas and makes remediation more expensive.
 
-For a fresh water event with no visible mold yet, call for emergency drying immediately. Proper structural drying within the first 24 hours is the single most cost-effective thing you can do.
+For a fresh water event with no visible mold yet, call for [emergency water removal and drying](/services/emergency-water-removal/) immediately. Proper structural drying within the first 24 hours is the single most cost-effective thing you can do.
 
 Coastal Restoration Services Inc is an IICRC-certified firm serving Santa Maria and the Central Coast. Their team holds WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications and provides written scopes before any work begins. To schedule a moisture assessment or mold evaluation, call [(805) 345-7440](tel:8053457440) or visit the [mold remediation service page](/services/mold-remediation/).
 

@@ -45,7 +45,7 @@ All of this data gets documented, photos, moisture readings, a written scope of 
 
 Extraction removes the bulk of standing and absorbed water before any drying equipment is deployed. Skipping or rushing extraction is the single most common reason drying takes longer than it should.
 
-A truck-mounted or portable extraction unit pulls water from carpets, pads, flooring, and accessible cavities. For hardwood floors or tile, technicians use weighted extraction tools that press directly against the surface to pull water from the seams and subfloor below. For standing water in a basement or crawl space, submersible pumps handle the volume first, followed by extraction wands for residual moisture.
+A truck-mounted or portable extraction unit pulls water from carpets, pads, flooring, and accessible cavities. For hardwood floors or tile, technicians use weighted extraction tools that press directly against the surface to pull water from the seams and subfloor below. For [standing water](/services/emergency-water-removal/) in a basement or crawl space, submersible pumps handle the volume first, followed by extraction wands for residual moisture.
 
 If the loss involves a sewage backup or Category 3 water, the crew wears full PPE, Tyvek suits, N95 respirators or higher, and nitrile gloves, and treats all extracted material as contaminated waste. For those situations, see our [sewage cleanup service page](/services/sewage-cleanup/) for what that process specifically involves.
 
@@ -114,7 +114,7 @@ Coastal Restoration Services Inc handles [water damage restoration](/services/wa
 
 **About Coastal Restoration Services Inc**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria, CA and the surrounding Central Coast since their founding (license 11245226). Their certified technicians hold WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) credentials and handle water damage restoration, sewage cleanup, mold remediation, fire damage restoration, storm damage restoration, odor removal, contents restoration, emergency board-up and tarping, crawl space encapsulation, biohazard cleanup, and vandalism cleanup across Santa Barbara and San Luis Obispo counties.
+Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria, CA and the surrounding Central Coast since their founding (license 11245226). Their certified technicians hold WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) credentials and handle water damage restoration, sewage cleanup, mold remediation, fire damage restoration, storm damage restoration, odor removal, [contents restoration](/services/contents-restoration/), emergency board-up and tarping, crawl space encapsulation, biohazard cleanup, and vandalism cleanup across Santa Barbara and San Luis Obispo counties.
 
 ## Video Transcript
 
