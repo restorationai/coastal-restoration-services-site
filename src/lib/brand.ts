@@ -65,7 +65,7 @@ export const brand = {
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
-  gbpReviewCount: "30",
+  gbpReviewCount: "28",
   gbpReviews: [
     { author: "Michael", rating: 5, text: "Helped me understand easy to work with", when: "October 2026" },
     { author: "George", rating: 5, text: "Yes i highly recommend. Coastal rushed to the scene on the weekend and promptly provided valued feedback. We were able to move forward with our situation forthwith. Very satisfied with outcome.", when: "July 2026" },
