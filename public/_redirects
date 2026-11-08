@@ -253,7 +253,6 @@
 /service-areas/vandenberg-afb-ca/vandalism-cleanup/ /service-areas/vandenberg-afb-ca/vandalism-graffiti-removal/ 301
 /service-areas/vandenberg-village-ca/vandalism-cleanup /service-areas/vandenberg-village-ca/vandalism-graffiti-removal/ 301
 /service-areas/vandenberg-village-ca/vandalism-cleanup/ /service-areas/vandenberg-village-ca/vandalism-graffiti-removal/ 301
-
 # old-site 404 recovery 2026-10-04 (traffic audit class 2, SEO queue 1c): old URLs with search
 # traffic that matched no rule. Each 301s 1:1 to its equivalent page (hand-reviewed), never a
 # generic one; restored articles live under /blog/.
