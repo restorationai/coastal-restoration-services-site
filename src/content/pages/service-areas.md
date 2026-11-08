@@ -1,6 +1,6 @@
 ---
 archetype: "service-areas-hub"
-title: "Service Areas | Coastal Restoration Services Inc Restoration"
+title: "Service Areas | Coastal Restoration Services Inc"
 h1: "Areas We Serve"
 meta_description: "Coastal Restoration Services Inc provides restoration services across Vandenberg Village and the surrounding region. Find your city."
 primary_keyword: "coastal restoration services inc service areas"
