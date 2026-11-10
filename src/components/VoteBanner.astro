@@ -1,0 +1,33 @@
+---
+// VOTE BANNER (Santino 2026-11-09: "driving traffic to the entries for
+// voting"). Coastal is on The Tribune's 2027 Best of the Central Coast ballot,
+// Home & Garden > Restoration Services; voting closes Fri 2026-11-13 5pm PT.
+// It renders only before `until` at build time, and an inline script removes
+// it the moment `until` passes, so the static site needs no redeploy to drop
+// it. Delete this component (and its line in BaseLayout) after the contest.
+const vote = {
+  text: "We're on the ballot for Restoration Services in The Tribune's Best of the Central Coast. Vote once a day until Fri, Nov 13 at 5pm.",
+  linkText: "Vote for us",
+  url: "https://www.votecentralcoast.com/",
+  hint: "Home & Garden, then Restoration Services",
+  until: "2026-11-14T01:00:00Z", // Fri 2026-11-13 5:00pm PT
+};
+const live = Date.now() < Date.parse(vote.until);
+---
+{live && (
+  <>
+    <div id="vote-banner" class="bg-gray-900 text-white text-sm text-center py-2 px-4" data-until={vote.until}>
+      <span>{vote.text}</span>{" "}
+      <a href={vote.url} target="_blank" rel="noopener" class="!text-yellow-300 hover:!text-yellow-200 font-bold underline underline-offset-2 whitespace-nowrap">
+        {vote.linkText}
+      </a>
+      <span class="hidden md:inline text-gray-300"> ({vote.hint})</span>
+    </div>
+    <script is:inline>
+      (function () {
+        var el = document.getElementById("vote-banner");
+        if (el && Date.now() >= Date.parse(el.getAttribute("data-until"))) el.remove();
+      })();
+    </script>
+  </>
+)}
