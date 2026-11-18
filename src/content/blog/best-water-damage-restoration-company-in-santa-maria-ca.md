@@ -37,11 +37,11 @@ Call them at **(805) 345-7440**.
 
 | Company | Google Rating | Reviews | IICRC Certified | CA Licensed |
 |---|---|---|---|---|
-| Coastal Restoration Services Inc | - | - | Yes (WRT, ASD) | Yes (11245226) |
-| Fire & Water Damage Santa Maria | 4.9 | 56 | - | - |
-| SERVPRO of Santa Maria | 4.8 | 80 | - | - |
-| Fire Damage Santa Maria | 4.9 | 55 | - | - |
-| PuroClean of Santa Maria | 5.0 | 24 | - | - |
+| Coastal Restoration Services Inc | 5.0 | 32 | Yes (WRT, ASD) | Yes (11245226) |
+| Fire & Water Damage Santa Maria | 4.9 | 56 | Not listed | Not listed |
+| SERVPRO of Santa Maria | 4.8 | 80 | Not listed | Not listed |
+| Fire Damage Santa Maria | 4.9 | 55 | Not listed | Not listed |
+| PuroClean of Santa Maria | 5.0 | 24 | Not listed | Not listed |
 
 *Competitor certification and license data not publicly confirmed at time of publication. "--" indicates unknown, not absent.*
 

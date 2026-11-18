@@ -58,7 +58,7 @@ Fire Damage Santa Maria, at 315 S Curryer St, holds a 5.0 Google rating from 65 
 
 | Company | Google Rating | Reviews | 24/7 Emergency | IICRC Certified |
 |---|---|---|---|---|
-| Coastal Restoration Services Inc | 5.0 | 29 | Yes | Yes |
+| Coastal Restoration Services Inc | 5.0 | 32 | Yes | Yes |
 | PuroClean of Santa Maria | 5.0 | 26 | Not listed | Not listed |
 | SERVPRO of Santa Maria | 4.7 | 81 | Not listed | Not listed |
 | Fire & Water Damage Santa Maria | 4.9 | 68 | Not listed | Not listed |
