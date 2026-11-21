@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Santa Ynez, CA | Coastal Restoration Services Inc"
+title: "Emergency Water Damage Restoration in Santa Ynez, CA | Coastal Restoration"
 h1: "Emergency Water Damage Restoration in Santa Ynez"
 meta_description: "Emergency water damage restoration in Santa Ynez, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "water damage restoration santa ynez"
@@ -39,7 +39,7 @@ Once the scope is defined, we extract standing water with truck-mounted and port
 
 ## Reaching Santa Ynez from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, which puts the Santa Ynez Valley within practical reach via Highway 246 east through Buellton. The route is straightforward under normal conditions, though the pass through the Santa Rita Hills can slow travel during heavy fog or after road debris from storm runoff. When you call (805) 345-7440, our team will give you an honest arrival estimate based on current conditions rather than a number that sounds good but doesn't account for the drive.
+Coastal Restoration is based in Vandenberg Village, which puts the Santa Ynez Valley within practical reach via Highway 246 east through Buellton. The route is straightforward under normal conditions, though the pass through the Santa Rita Hills can slow travel during heavy fog or after road debris from storm runoff. When you call (805) 345-7440, our team will give you an honest arrival estimate based on current conditions rather than a number that sounds good but doesn't account for the drive.
 
 For properties on the eastern end of the valley toward the Chumash Casino area, we typically approach via Highway 154 south from Los Olivos, which can be faster depending on the time of day. Either way, we coordinate by phone en route so you know exactly when to expect us.
 
@@ -51,4 +51,4 @@ Most homeowner policies cover sudden and accidental water damage, a burst pipe, 
 
 One pattern we see repeatedly in Santa Ynez valley homes: the thick adobe-style or stucco exterior walls common in ranch and Spanish Colonial Revival construction hold moisture significantly longer than standard wood-frame walls with drywall. When water gets into those assemblies, through a failed window flashing or a cracked parapet cap, the drying timeline can run 30 to 50 percent longer than it would in a comparable modern home. We account for this when we set equipment and when we communicate timelines to homeowners and adjusters. Pulling equipment too early on this building stock is one of the most common mistakes that leads to mold callbacks.
 
-If water has reached your floors, walls, or crawl space in Santa Ynez, the window for limiting structural damage is short. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an assessment and get a clear picture of what drying and restoration will involve for your specific property.
+If water has reached your floors, walls, or crawl space in Santa Ynez, the window for limiting structural damage is short. Call Coastal Restoration at (805) 345-7440 to schedule an assessment and get a clear picture of what drying and restoration will involve for your specific property.

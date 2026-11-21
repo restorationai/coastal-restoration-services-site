@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in San Luis Obispo, CA | Coastal Restoration"
 h1: "Mold Remediation in San Luis Obispo"
 meta_description: "Mold remediation in San Luis Obispo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation san luis obispo"
@@ -38,7 +38,7 @@ For homes with older plaster walls, a common feature in pre-1960 SLO bungalows, 
 
 ## Reaching San Luis Obispo from Vandenberg Village
 
-Coastal Restoration Services operates out of Vandenberg Village, putting us roughly 40 miles south of San Luis Obispo via US-101 North. Under normal traffic conditions that's a straightforward run up the coast, no mountain passes, no significant bottlenecks outside of the Pismo Beach corridor during summer weekends. We serve the full San Luis Obispo area and can schedule prompt appointments for assessments and remediation work. Call (805) 345-7440 to confirm availability and get a same-day or next-day appointment on the calendar.
+Coastal Restoration operates out of Vandenberg Village, putting us roughly 40 miles south of San Luis Obispo via US-101 North. Under normal traffic conditions that's a straightforward run up the coast, no mountain passes, no significant bottlenecks outside of the Pismo Beach corridor during summer weekends. We serve the full San Luis Obispo area and can schedule prompt appointments for assessments and remediation work. Call (805) 345-7440 to confirm availability and get a same-day or next-day appointment on the calendar.
 
 ## San Luis Obispo Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in California can be complicated. Homeowner policies vary widely on 
 
 One pattern we see repeatedly in San Luis Obispo's hillside properties: seismic retrofit work, the cripple wall bracing and anchor bolt projects that became common after the 1994 Northridge earthquake, often involved cutting access into crawl spaces and subfloor areas that had been sealed for decades. In some cases, those openings were never properly re-sealed, leaving a direct pathway for coastal moisture to enter the subfloor cavity. If your home had retrofit work done in the late 1990s or early 2000s and you're now seeing musty odors in ground-floor rooms, that access point is one of the first places worth inspecting.
 
-If mold has taken hold in your San Luis Obispo home, whether it's a slow-developing crawl space problem or visible growth following a recent leak, the remediation process works best when it starts before the affected area expands. Call Coastal Restoration Services at (805) 345-7440 to schedule an inspection and get a clear picture of what you're dealing with.
+If mold has taken hold in your San Luis Obispo home, whether it's a slow-developing crawl space problem or visible growth following a recent leak, the remediation process works best when it starts before the affected area expands. Call Coastal Restoration at (805) 345-7440 to schedule an inspection and get a clear picture of what you're dealing with.

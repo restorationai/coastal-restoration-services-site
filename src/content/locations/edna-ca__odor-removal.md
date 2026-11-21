@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Edna, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Edna, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Edna"
 meta_description: "Odor removal and deodorization in Edna, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization edna"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Edna sits in the coastal-influenced inland corridor of San Luis Obispo County, where marine layer mornings and warm afternoons create the kind of humidity cycling that traps odor molecules deep inside porous materials. Whether the source is smoke from a kitchen fire, a slow slab leak that turned a crawl space musty, or a pet accident that soaked through hardwood into the subfloor, that daily moisture swing makes odors stubbornly persistent in ways that a can of spray deodorizer simply cannot address. Coastal Restoration Services Inc brings professional-grade odor elimination to Edna, not masking, actual elimination at the molecular level.
+Edna sits in the coastal-influenced inland corridor of San Luis Obispo County, where marine layer mornings and warm afternoons create the kind of humidity cycling that traps odor molecules deep inside porous materials. Whether the source is smoke from a kitchen fire, a slow slab leak that turned a crawl space musty, or a pet accident that soaked through hardwood into the subfloor, that daily moisture swing makes odors stubbornly persistent in ways that a can of spray deodorizer simply cannot address. Coastal Restoration brings professional-grade odor elimination to Edna, not masking, actual elimination at the molecular level.
 
 ## Why Edna Properties Hold Odors Longer Than You'd Expect
 
@@ -54,6 +54,6 @@ One pattern that comes up repeatedly in this part of San Luis Obispo County: hom
 
 ## Getting to Edna from Our Santa Maria Base
 
-Coastal Restoration Services Inc operates out of Santa Maria, and Edna is a straightforward run up the 101 corridor. Scheduling is handled directly by phone at **(805) 345-7440**, call to describe the odor source and we will give you an honest assessment of whether this is a same-week job or an urgent situation that warrants faster scheduling. We do not pad timelines to upsell equipment days.
+Coastal Restoration operates out of Santa Maria, and Edna is a straightforward run up the 101 corridor. Scheduling is handled directly by phone at **(805) 345-7440**, call to describe the odor source and we will give you an honest assessment of whether this is a same-week job or an urgent situation that warrants faster scheduling. We do not pad timelines to upsell equipment days.
 
 Odors that have been present for more than 48 hours have already begun deeper material penetration, the sooner the source is confirmed and treatment begins, the fewer surfaces require aggressive intervention. If you are in Edna and you are noticing a smell that came back after you thought it was handled, that is worth a conversation before the next rainy season makes it worse. Call (805) 345-7440.

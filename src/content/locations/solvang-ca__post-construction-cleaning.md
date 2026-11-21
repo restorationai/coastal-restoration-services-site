@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Solvang, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Solvang, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Solvang"
 meta_description: "Post-construction and specialty cleaning in Solvang, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning solvang"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Solvang's Danish-village character draws a steady stream of renovation and new construction projects, from boutique inn expansions along Mission Drive to residential remodels that blend stucco facades with modern interiors. When the last subcontractor leaves, what remains is a layer of fine construction dust, adhesive residue, paint overspray, and debris that standard janitorial services aren't equipped to handle. Coastal Restoration Services Inc brings the equipment and the process discipline to turn a freshly built or renovated Solvang property into a space that's genuinely move-in or open-for-business ready.
+Solvang's Danish-village character draws a steady stream of renovation and new construction projects, from boutique inn expansions along Mission Drive to residential remodels that blend stucco facades with modern interiors. When the last subcontractor leaves, what remains is a layer of fine construction dust, adhesive residue, paint overspray, and debris that standard janitorial services aren't equipped to handle. Coastal Restoration brings the equipment and the process discipline to turn a freshly built or renovated Solvang property into a space that's genuinely move-in or open-for-business ready.
 
 ## Why Solvang Construction Projects Create Distinctive Cleaning Challenges
 

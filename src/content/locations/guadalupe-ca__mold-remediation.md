@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Guadalupe, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Guadalupe, CA | Coastal Restoration"
 h1: "Mold Remediation in Guadalupe"
 meta_description: "Mold remediation in Guadalupe, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation guadalupe"
@@ -38,7 +38,7 @@ We do not consider a job complete until post-remediation moisture readings confi
 
 ## Reaching Guadalupe from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, roughly 15 miles south of Guadalupe via Highway 1 or the slightly faster route up Cabrillo Highway through Orcutt. Both routes are straightforward on most days, though Highway 1 through the Guadalupe Dunes corridor can slow during peak agricultural traffic hours. When you call (805) 345-7440, our team can give you a realistic arrival estimate based on current conditions and schedule a prompt on-site assessment.
+Coastal Restoration is based in Vandenberg Village, roughly 15 miles south of Guadalupe via Highway 1 or the slightly faster route up Cabrillo Highway through Orcutt. Both routes are straightforward on most days, though Highway 1 through the Guadalupe Dunes corridor can slow during peak agricultural traffic hours. When you call (805) 345-7440, our team can give you a realistic arrival estimate based on current conditions and schedule a prompt on-site assessment.
 
 ## Guadalupe Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in California can be complicated by policy language that distinguish
 
 One pattern we see consistently in Guadalupe is mold growth concentrated at the base of interior walls in rooms that share a wall with an attached garage or unheated utility space. The temperature differential between those spaces creates a condensation zone that's invisible until drywall is removed, homeowners often assume the source is a plumbing leak when the actual driver is convective moisture movement through an uninsulated shared wall. If your mold issue is in a bedroom or hallway adjacent to a garage, that's worth flagging when you call so we can inspect the wall assembly carefully from both sides.
 
-If you're dealing with visible mold growth, a persistent musty odor, or a recent water event in a Guadalupe home or commercial property, call Coastal Restoration Services Inc at (805) 345-7440 to schedule an assessment. Prompt action limits both the spread of mold and the scope of remediation, and in this climate, waiting rarely works in your favor.
+If you're dealing with visible mold growth, a persistent musty odor, or a recent water event in a Guadalupe home or commercial property, call Coastal Restoration at (805) 345-7440 to schedule an assessment. Prompt action limits both the spread of mold and the scope of remediation, and in this climate, waiting rarely works in your favor.

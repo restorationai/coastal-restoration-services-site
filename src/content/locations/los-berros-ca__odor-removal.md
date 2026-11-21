@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Los Berros, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Los Berros, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Los Berros"
 meta_description: "Odor removal and deodorization in Los Berros, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization los berros"
@@ -49,4 +49,4 @@ Our team is based in Santa Maria, which puts us a short drive from Los Berros vi
 
 One pattern we see repeatedly on properties in this part of the county: crawlspaces that were never designed with modern vapor barriers, sitting on soil that retains moisture from winter rains well into summer. When a secondary odor source, a rodent intrusion, a slow plumbing leak, or mold colonization on floor joists, develops in that environment, the odor migrates upward through subfloor gaps and registers throughout the living space. Homeowners often spend months treating the visible interior before realizing the source is entirely below grade. If your odor problem seems to worsen in the evening or on foggy mornings, that's a strong indicator the crawlspace is the origin point, not the rooms above it.
 
-If you're in Los Berros and the smell in your home or outbuilding isn't responding to cleaning, the problem is almost certainly structural. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule a source assessment, finding where the odor lives is the first step to eliminating it for good.
+If you're in Los Berros and the smell in your home or outbuilding isn't responding to cleaning, the problem is almost certainly structural. Call Coastal Restoration at (805) 345-7440 to schedule a source assessment, finding where the odor lives is the first step to eliminating it for good.

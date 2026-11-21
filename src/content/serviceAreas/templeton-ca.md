@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Templeton, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Templeton, CA | Coastal Restoration"
 h1: "Restoration Services in Templeton"
 meta_description: "Serving Templeton, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services templeton"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a kitchen fire leaves smoke embedded in every surface, Templeton property owners need a restoration crew that knows the area, not a dispatch center routing a stranger from hours away. Coastal Restoration Services Inc handles water damage mitigation, fire and smoke cleanup, mold remediation, and structural drying for homes and commercial properties throughout Templeton and the surrounding Paso Robles Wine Country corridor. Call us at **(805) 345-7440** to talk through what you're dealing with.
+When a pipe bursts behind a wall or a kitchen fire leaves smoke embedded in every surface, Templeton property owners need a restoration crew that knows the area, not a dispatch center routing a stranger from hours away. Coastal Restoration handles water damage mitigation, fire and smoke cleanup, mold remediation, and structural drying for homes and commercial properties throughout Templeton and the surrounding Paso Robles Wine Country corridor. Call us at **(805) 345-7440** to talk through what you're dealing with.
 
 ## Restoration emergencies common in Templeton
 
@@ -47,7 +47,7 @@ For significant losses, we can pack out and inventory salvageable contents, stor
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, roughly 45 miles southwest of Templeton via US-101 North. The drive runs through Santa Maria and San Luis Obispo before reaching the Templeton exit, a straightforward freeway route with no mountain passes or seasonal closures to contend with. For properties farther north toward the Templeton town center or east toward the rural parcels off Vineyard Drive, travel time from our HQ is typically under an hour under normal traffic conditions. We serve all of Templeton's ZIP codes, **93465** included, and cover the broader North County SLO corridor regularly. Call **(805) 345-7440** to confirm scheduling and get a crew moving toward your property.
+Coastal Restoration is headquartered in Vandenberg Village, roughly 45 miles southwest of Templeton via US-101 North. The drive runs through Santa Maria and San Luis Obispo before reaching the Templeton exit, a straightforward freeway route with no mountain passes or seasonal closures to contend with. For properties farther north toward the Templeton town center or east toward the rural parcels off Vineyard Drive, travel time from our HQ is typically under an hour under normal traffic conditions. We serve all of Templeton's ZIP codes, **93465** included, and cover the broader North County SLO corridor regularly. Call **(805) 345-7440** to confirm scheduling and get a crew moving toward your property.
 
 ## Building stock, site conditions, and permits in Templeton
 
@@ -57,4 +57,4 @@ Assembly matters once things get wet. Stucco over wood frame holds moisture agai
 
 Many rural parcels here run on private septic, which limits where extracted water can go.
 
-If you're dealing with water, fire, smoke, or mold damage at a Templeton property, the next step is a phone call. Reach Coastal Restoration Services Inc at **(805) 345-7440** and describe what you're seeing, we'll tell you honestly what it sounds like and what the response looks like from here.
+If you're dealing with water, fire, smoke, or mold damage at a Templeton property, the next step is a phone call. Reach Coastal Restoration at **(805) 345-7440** and describe what you're seeing, we'll tell you honestly what it sounds like and what the response looks like from here.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Nipomo, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Nipomo, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Nipomo"
 meta_description: "Crawl space encapsulation in Nipomo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation nipomo"
@@ -46,4 +46,4 @@ For homes where existing wood framing shows early signs of moisture damage, surf
 
 One thing that comes up regularly on Nipomo jobs: homes built in the 1970s and early 1980s on the west side of town often have crawl space access hatches that are interior, cut into a closet floor or a utility room, rather than through an exterior foundation vent. That matters for equipment staging and debris removal, since everything has to come through the living space. We flag this during the initial inspection and lay down floor protection before work begins, so the encapsulation project doesn't leave a trail through the house.
 
-If you're dealing with musty odors coming through your floors, insulation that's dropped from the joists, or a pest control company that keeps finding evidence of moisture in the crawl space, the underlying problem is usually vapor, and encapsulation is the fix that addresses it at the source. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an inspection for your Nipomo home.
+If you're dealing with musty odors coming through your floors, insulation that's dropped from the joists, or a pest control company that keeps finding evidence of moisture in the crawl space, the underlying problem is usually vapor, and encapsulation is the fix that addresses it at the source. Call Coastal Restoration at (805) 345-7440 to schedule an inspection for your Nipomo home.

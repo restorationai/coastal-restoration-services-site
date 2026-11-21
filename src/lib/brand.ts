@@ -4,15 +4,15 @@
 
 export const brand = {
   slug: "coastal-restoration-services",
-  displayName: "Coastal Restoration Services Inc",
-  shortName: "Coastal Restoration Services Inc",
+  displayName: "Coastal Restoration",
+  shortName: "Coastal Restoration",
   legalName: "Coastal Restoration Services Inc",
   // Registered DBA / trade name — filled by rename_site_sync.py the moment
   // the state approves the client's DBA filing (empty until then). When set,
   // the footer carries the "[legal] doing business as [DBA]" line and schema
   // declares it as the business name, so Google/BrightLocal find the new
   // name corroborated on the site before and during the GBP rename.
-  dbaName: "",
+  dbaName: "Coastal Restoration - 24/7 Emergency Plumbing, Water Damage Restoration & Mold Remediation",
   domain: "callcrs.com",
   canonicalUrl: "https://callcrs.com",
   phone: "(805) 345-7440",
@@ -85,7 +85,7 @@ export const brand = {
   tradeNoun: "restoration",
   specialistPhrase: "Damage Restoration Specialists",
   announcementSuffix: "24/7 Emergency Response",
-  homeAboutBlurb: "Coastal Restoration Services Inc serves Santa Maria and the surrounding CA area with full-service damage restoration. From emergency water extraction, structural drying, and mold remediation to fire and smoke cleanup, sewage removal, and crawl space encapsulation, our technicians handle it all, and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
+  homeAboutBlurb: "Coastal Restoration serves Santa Maria and the surrounding CA area with full-service damage restoration. From emergency water extraction, structural drying, and mold remediation to fire and smoke cleanup, sewage removal, and crawl space encapsulation, our technicians handle it all, and we answer the phone 24/7, so help is on the way the moment something goes wrong.",
 } as const;
 
 export const entityId = `${brand.canonicalUrl}/#identity`;

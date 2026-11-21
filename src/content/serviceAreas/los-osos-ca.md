@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Los Osos, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Los Osos, CA | Coastal Restoration"
 h1: "Restoration Services in Los Osos"
 meta_description: "Serving Los Osos, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services los osos"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a weekend storm pushes water under the slab, Los Osos property owners need someone who understands what they're dealing with, not a call center routing them to the next available crew. Coastal Restoration Services Inc handles water damage, mold remediation, fire and smoke cleanup, and reconstruction for homes and commercial properties throughout Los Osos and the broader San Luis Obispo County coast. Call us at **(805) 345-7440** to describe what you're seeing and we'll walk you through next steps.
+When a pipe bursts behind a wall or a weekend storm pushes water under the slab, Los Osos property owners need someone who understands what they're dealing with, not a call center routing them to the next available crew. Coastal Restoration handles water damage, mold remediation, fire and smoke cleanup, and reconstruction for homes and commercial properties throughout Los Osos and the broader San Luis Obispo County coast. Call us at **(805) 345-7440** to describe what you're seeing and we'll walk you through next steps.
 
 ## Restoration emergencies common in Los Osos
 
@@ -53,7 +53,7 @@ Once the damage is mitigated and the structure is dry and clean, rebuilding can 
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, roughly 35 miles northwest of Los Osos via Highway 1 south through Morro Bay. Depending on time of day and whether Highway 1 is moving freely through Morro Bay, the drive typically runs under an hour. We serve all of Los Osos, including the Baywood Park waterfront area, the South Bay Boulevard corridor, and the neighborhoods along Los Osos Valley Road approaching the city's eastern edge. If you're closer to the Morro Bay boundary or out toward Cuesta-by-the-Sea, we cover those areas as well. Call **(805) 345-7440** during business hours and we'll confirm availability and give you an honest arrival estimate based on current crew location.
+Coastal Restoration is headquartered in Vandenberg Village, roughly 35 miles northwest of Los Osos via Highway 1 south through Morro Bay. Depending on time of day and whether Highway 1 is moving freely through Morro Bay, the drive typically runs under an hour. We serve all of Los Osos, including the Baywood Park waterfront area, the South Bay Boulevard corridor, and the neighborhoods along Los Osos Valley Road approaching the city's eastern edge. If you're closer to the Morro Bay boundary or out toward Cuesta-by-the-Sea, we cover those areas as well. Call **(805) 345-7440** during business hours and we'll confirm availability and give you an honest arrival estimate based on current crew location.
 
 ## Building stock, site conditions, and permits in Los Osos
 
@@ -63,4 +63,4 @@ The ground is sandy across most of the community, which drains fast but gives up
 
 Los Osos is unincorporated, so building permits come from San Luis Obispo County rather than a city office. Structural framing repair, re-roofing, and plumbing or electrical alterations typically trigger one, and coastal zone rules apply to parts of the community.
 
-If you're dealing with water, mold, fire damage, or a sewage backup in Los Osos, the sooner the assessment happens, the smaller the scope tends to be. Call Coastal Restoration Services Inc at **(805) 345-7440** to get a crew moving toward your property.
+If you're dealing with water, mold, fire damage, or a sewage backup in Los Osos, the sooner the assessment happens, the smaller the scope tends to be. Call Coastal Restoration at **(805) 345-7440** to get a crew moving toward your property.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Santa Margarita, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Santa Margarita"
 meta_description: "Odor removal and deodorization in Santa Margarita, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization santa margarita"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Santa Margarita sits in a narrow valley corridor where warm, dry air funnels through from the Salinas River basin, and that same airflow that makes summer afternoons pleasant can lock smoke, pet, or mildew odors deep into porous building materials before a homeowner even realizes the source. When a wood-burning fireplace backs up, a crawl space floods after a wet winter, or a long-vacant property develops that unmistakable musty smell, standard cleaning products don't reach the molecular level where odors actually live. Coastal Restoration Services Inc brings professional-grade deodorization equipment and methodology to Santa Margarita properties, treating the source rather than masking the symptom.
+Santa Margarita sits in a narrow valley corridor where warm, dry air funnels through from the Salinas River basin, and that same airflow that makes summer afternoons pleasant can lock smoke, pet, or mildew odors deep into porous building materials before a homeowner even realizes the source. When a wood-burning fireplace backs up, a crawl space floods after a wet winter, or a long-vacant property develops that unmistakable musty smell, standard cleaning products don't reach the molecular level where odors actually live. Coastal Restoration brings professional-grade deodorization equipment and methodology to Santa Margarita properties, treating the source rather than masking the symptom.
 
 ## Why Santa Margarita Properties See Persistent Odor Problems
 
@@ -58,4 +58,4 @@ For Santa Margarita's older wood-frame construction, the combination of thermal 
 
 One thing that comes up regularly on Santa Margarita jobs: the valley's low nighttime humidity swings, sometimes 30 to 40 percentage points between afternoon and pre-dawn, can cause treated wood framing to re-absorb ambient odor compounds if the structure is left open during the treatment cycle. We schedule thermal fogging in the morning and keep windows and vents closed through the afternoon heat to let the fog penetrate fully before the evening humidity drop. It's a small scheduling adjustment that makes a measurable difference in single-treatment success rates on the wood-heavy homes typical of this area.
 
-If you're dealing with a persistent smell in a Santa Margarita property, whether it's smoke from a fireplace incident, a musty crawl space after winter rains, or an odor left behind by previous occupants, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll assess the source, explain the method that fits your specific materials and situation, and give you a clear timeline before any work begins.
+If you're dealing with a persistent smell in a Santa Margarita property, whether it's smoke from a fireplace incident, a musty crawl space after winter rains, or an odor left behind by previous occupants, call Coastal Restoration at **(805) 345-7440**. We'll assess the source, explain the method that fits your specific materials and situation, and give you a clear timeline before any work begins.

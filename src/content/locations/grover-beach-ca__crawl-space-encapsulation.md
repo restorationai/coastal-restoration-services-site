@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Grover Beach, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Grover Beach, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Grover Beach"
 meta_description: "Crawl space encapsulation in Grover Beach, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation grover beach"
@@ -36,10 +36,10 @@ Once the space is documented, any standing water is removed and the soil is prep
 
 ## Reaching Grover Beach from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Grover Beach is a straightforward run down Highway 1, typically under 20 minutes in normal traffic. For scheduling purposes, that means a crew can be on-site in Grover Beach the same morning you call in most cases. We serve the full city, from the blocks nearest the Oceano border on the south end to the neighborhoods that back up against the Highway 1 corridor to the north. If access to your property requires coordinating with a property manager or HOA, we ask that you let us know at booking so we can plan accordingly.
+Coastal Restoration is based in Vandenberg Village, and Grover Beach is a straightforward run down Highway 1, typically under 20 minutes in normal traffic. For scheduling purposes, that means a crew can be on-site in Grover Beach the same morning you call in most cases. We serve the full city, from the blocks nearest the Oceano border on the south end to the neighborhoods that back up against the Highway 1 corridor to the north. If access to your property requires coordinating with a property manager or HOA, we ask that you let us know at booking so we can plan accordingly.
 
 ## Local Note
 
 One thing that comes up specifically in Grover Beach, and less often in inland SLO County communities, is the interaction between encapsulation work and active pest pressure from subterranean termites. The combination of moist soil, aged wood framing, and the relatively mild year-round temperatures along this stretch of coast creates favorable conditions for termite activity. We are not a pest control company and do not treat for termites, but during every crawl space inspection in Grover Beach we note and photograph any evidence of mud tubes, damaged wood, or frass so that you can share that documentation with a licensed pest operator before or after encapsulation. Sealing the crawl space does reduce the moisture conditions termites prefer, but it is not a substitute for a termite inspection, and your pest operator may need access to the crawl space before the liner goes down.
 
-If your home in Grover Beach has been sitting with a deteriorating or absent vapor barrier, the window to act is ideally before the rainy season concentrates moisture under the floor. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an inspection and get a clear picture of what your crawl space actually looks like, and what it will take to keep it dry.
+If your home in Grover Beach has been sitting with a deteriorating or absent vapor barrier, the window to act is ideally before the rainy season concentrates moisture under the floor. Call Coastal Restoration at (805) 345-7440 to schedule an inspection and get a clear picture of what your crawl space actually looks like, and what it will take to keep it dry.

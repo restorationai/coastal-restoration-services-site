@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Los Berros, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Los Berros, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Los Berros"
 meta_description: "Emergency board-up and tarping in Los Berros, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping los berros"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Los Berros? Call now for emergency service.** Our crew responds fast to secure broken windows, doors and roofs.
 
-Los Berros sits in a narrow coastal valley in San Luis Obispo County where Pacific marine layer, seasonal wind events, and fire-prone chaparral hillsides can leave a property exposed to the elements faster than most homeowners anticipate. When a wildfire ember shower punches through a skylight, a wind-driven branch shatters a sliding door, or a kitchen fire burns through the eave line, the window between the damage event and secondary water or pest intrusion is measured in hours, not days. Coastal Restoration Services Inc responds to those calls from our Vandenberg Village base, securing Los Berros properties before the next fog bank rolls in or a late-afternoon onshore gust turns an open structure into a funnel.
+Los Berros sits in a narrow coastal valley in San Luis Obispo County where Pacific marine layer, seasonal wind events, and fire-prone chaparral hillsides can leave a property exposed to the elements faster than most homeowners anticipate. When a wildfire ember shower punches through a skylight, a wind-driven branch shatters a sliding door, or a kitchen fire burns through the eave line, the window between the damage event and secondary water or pest intrusion is measured in hours, not days. Coastal Restoration responds to those calls from our Vandenberg Village base, securing Los Berros properties before the next fog bank rolls in or a late-afternoon onshore gust turns an open structure into a funnel.
 
 ## Why Los Berros Properties Face Elevated Board-Up and Tarping Needs
 
@@ -53,4 +53,4 @@ If your property is subject to HOA oversight, common in some of the newer rural 
 
 One thing we've learned working in the Los Berros area and the broader coastal San Luis Obispo corridor: the combination of marine-layer moisture and fire ash creates a particularly corrosive surface condition on exposed metal fasteners and flashing. When we install temporary tarping over a fire-damaged roof in this microclimate, we use hot-dipped galvanized or stainless fasteners rather than standard zinc-plated screws, the latter can begin to rust and stain the underlying roofing material within a week of marine fog exposure, complicating the eventual permanent repair. It's a small detail, but it's the kind of thing that shows up in the final reconstruction estimate if it's ignored at the board-up stage.
 
-If a storm, fire, or impact event has left your Los Berros property open to the elements, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the breaches, secure the structure, and hand you a documentation package that supports your insurance claim from the first conversation with your adjuster.
+If a storm, fire, or impact event has left your Los Berros property open to the elements, call Coastal Restoration at (805) 345-7440. We'll assess the breaches, secure the structure, and hand you a documentation package that supports your insurance claim from the first conversation with your adjuster.

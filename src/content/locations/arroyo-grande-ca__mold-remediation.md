@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Arroyo Grande, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Arroyo Grande, CA | Coastal Restoration"
 h1: "Mold Remediation in Arroyo Grande"
 meta_description: "Mold remediation in Arroyo Grande, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation arroyo grande"
@@ -38,7 +38,7 @@ Affected porous materials, drywall, insulation, wood framing, are removed and ba
 
 ## Reaching Arroyo Grande from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, putting Arroyo Grande well within our primary service corridor along the Highway 1 and US-101 corridor through San Luis Obispo County. The drive is straightforward, south on Highway 1 or US-101 brings us directly into the city. Call us at (805) 345-7440 to schedule an assessment; we'll confirm availability and give you a realistic arrival window based on current conditions.
+Coastal Restoration is based in Vandenberg Village, putting Arroyo Grande well within our primary service corridor along the Highway 1 and US-101 corridor through San Luis Obispo County. The drive is straightforward, south on Highway 1 or US-101 brings us directly into the city. Call us at (805) 345-7440 to schedule an assessment; we'll confirm availability and give you a realistic arrival window based on current conditions.
 
 ## Arroyo Grande Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold claims in California can be complicated. Homeowner policies vary widely in 
 
 One pattern we see consistently in Arroyo Grande's older neighborhoods is mold concealed behind original tongue-and-groove wood paneling, a finish material that was popular in mid-century California construction and is still common in homes throughout the city. Unlike drywall, wood paneling doesn't always show visible staining on its face even when mold is active on the back side against the vapor barrier. If a home has that paneling and a history of any plumbing leak or roof intrusion, we probe behind it before concluding an inspection, because surface-only assessments miss it almost every time.
 
-If mold has shown up in your Arroyo Grande home, whether it's a slow crawl space problem or a more urgent situation following a plumbing failure, call Coastal Restoration Services Inc at (805) 345-7440. We'll walk through what we're seeing, explain the remediation scope honestly, and get your property back to a condition you can document and trust.
+If mold has shown up in your Arroyo Grande home, whether it's a slow crawl space problem or a more urgent situation following a plumbing failure, call Coastal Restoration at (805) 345-7440. We'll walk through what we're seeing, explain the remediation scope honestly, and get your property back to a condition you can document and trust.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in San Luis Obispo, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in San Luis Obispo"
 meta_description: "Odor removal and deodorization in San Luis Obispo, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization san luis obispo"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-San Luis Obispo's coastal-influenced climate, marine layer mornings, warm afternoons, and humidity that lingers longer than visitors expect, creates conditions where odors don't just settle into surfaces, they bond with them. Whether it's smoke from a kitchen fire in a 1960s craftsman bungalow, pet odor soaked into original hardwood floors, or the musty aftermath of a slow roof leak that went unnoticed through a wet winter, persistent smells in SLO homes often require more than ventilation and spray products. Coastal Restoration Services Inc brings professional-grade deodorization equipment and IICRC-certified technicians to San Luis Obispo properties when the odor outlasts the damage that caused it.
+San Luis Obispo's coastal-influenced climate, marine layer mornings, warm afternoons, and humidity that lingers longer than visitors expect, creates conditions where odors don't just settle into surfaces, they bond with them. Whether it's smoke from a kitchen fire in a 1960s craftsman bungalow, pet odor soaked into original hardwood floors, or the musty aftermath of a slow roof leak that went unnoticed through a wet winter, persistent smells in SLO homes often require more than ventilation and spray products. Coastal Restoration brings professional-grade deodorization equipment and IICRC-certified technicians to San Luis Obispo properties when the odor outlasts the damage that caused it.
 
 ## Why San Luis Obispo Properties Hold Odors Longer
 
@@ -51,4 +51,4 @@ All methods are selected based on the specific odor type, the materials present,
 
 San Luis Obispo's significant student rental population and older multi-unit housing stock, particularly the smaller apartment complexes and converted Victorian-era properties near the Cal Poly campus, tend to accumulate layered odor histories: years of cooking, smoking, and pet occupancy absorbed into plaster, original wood trim, and decades-old carpet padding. When a property turns over and the new tenant or buyer notices an odor that cleaning didn't resolve, the source is almost always in the substrate, not the surface. In these buildings, thermal fogging combined with a targeted HVAC cleaning typically produces results that repainting and carpet replacement alone never will. It's a pattern we see consistently in SLO's older residential core, and it's worth knowing before a landlord spends money on cosmetic work that won't move the needle on the smell.
 
-If a persistent odor is affecting your San Luis Obispo property, whether it's smoke, mold, sewage, or something you can't quite identify, call Coastal Restoration Services Inc at **(805) 345-7440**. We serve properties throughout San Luis Obispo and the surrounding Central Coast, and we'll give you a straight assessment of what the odor source is and what it will take to eliminate it.
+If a persistent odor is affecting your San Luis Obispo property, whether it's smoke, mold, sewage, or something you can't quite identify, call Coastal Restoration at **(805) 345-7440**. We serve properties throughout San Luis Obispo and the surrounding Central Coast, and we'll give you a straight assessment of what the odor source is and what it will take to eliminate it.

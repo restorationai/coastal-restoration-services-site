@@ -1,8 +1,8 @@
 ---
 archetype: "service-area"
-title: "Serving All of Santa Maria, CA | Coastal Restoration Services Inc"
+title: "Serving All of Santa Maria, CA | Coastal Restoration"
 h1: "Serving All of Santa Maria"
-meta_description: "Coastal Restoration Services Inc is based in Santa Maria, CA. See the parts of Santa Maria we cover and every service we offer here. Call (805) 345-7440."
+meta_description: "Coastal Restoration is based in Santa Maria, CA. See the parts of Santa Maria we cover and every service we offer here. Call (805) 345-7440."
 primary_keyword: "santa maria service area"
 secondary_keywords: ["santa maria neighborhoods we serve"]
 search_intent: "local_commercial"
@@ -12,14 +12,14 @@ generated_at: "2026-10-02T19:28:44.305294+00:00"
 manual_override: false
 internal_links: ["/service-areas/", "/contact/", "/service-areas/arroyo-grande-ca/", "/service-areas/atascadero-ca/", "/service-areas/avila-beach-ca/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Service Areas", "url": "/service-areas/"}, {"name": "Santa Maria"}]
-faq: [{"question": "How quickly can you respond to a water or fire damage call in Santa Maria?", "answer": "We're based in Santa Maria, so we schedule response without a long drive across town. We can't promise a specific arrival window without seeing the job first, but call (805) 345-7440 and we'll give you a realistic timeline for your property."}, {"question": "What restoration services does Coastal Restoration Services Inc offer in Santa Maria?", "answer": "We handle water damage restoration, fire and smoke damage cleanup, mold remediation, biohazard and trauma cleanup, and the reconstruction work that follows any of those losses. One team manages the drying or demolition and the rebuild, so you're not coordinating multiple contractors."}, {"question": "Does Santa Maria's climate or older housing stock affect how you approach a job?", "answer": "Yes. The Central Coast marine layer and winter rain keep humidity high, which speeds mold growth after any water intrusion, and homes built before the 1980s may have galvanized plumbing or asbestos-containing materials that change how we scope the work. We factor both into the plan before we start."}, {"question": "Can you work directly with my property manager or insurance carrier for a Santa Maria rental or commercial property?", "answer": "Yes. We document the damage with photos and a written scope, communicate with your property manager on access and timeline, and send that documentation to your insurance carrier so the claims process moves without you having to relay every detail yourself."}]
+faq: [{"question": "How quickly can you respond to a water or fire damage call in Santa Maria?", "answer": "We're based in Santa Maria, so we schedule response without a long drive across town. We can't promise a specific arrival window without seeing the job first, but call (805) 345-7440 and we'll give you a realistic timeline for your property."}, {"question": "What restoration services does Coastal Restoration offer in Santa Maria?", "answer": "We handle water damage restoration, fire and smoke damage cleanup, mold remediation, biohazard and trauma cleanup, and the reconstruction work that follows any of those losses. One team manages the drying or demolition and the rebuild, so you're not coordinating multiple contractors."}, {"question": "Does Santa Maria's climate or older housing stock affect how you approach a job?", "answer": "Yes. The Central Coast marine layer and winter rain keep humidity high, which speeds mold growth after any water intrusion, and homes built before the 1980s may have galvanized plumbing or asbestos-containing materials that change how we scope the work. We factor both into the plan before we start."}, {"question": "Can you work directly with my property manager or insurance carrier for a Santa Maria rental or commercial property?", "answer": "Yes. We document the damage with photos and a written scope, communicate with your property manager on access and timeline, and send that documentation to your insurance carrier so the claims process moves without you having to relay every detail yourself."}]
 area_slug: "santa-maria-ca"
 city: "Santa Maria"
 state: "CA"
 primary: true
 rendered: true
 ---
-Coastal Restoration Services Inc handles water, fire, mold, and biohazard cleanup for homes and businesses throughout Santa Maria, from older homes near the downtown core to newer construction on the valley's outer edges. We document the loss for insurance, remove the damaged materials, and dry or rebuild the structure using IICRC-based drying standards, so property owners aren't left guessing about what happens next or who pays for it.
+Coastal Restoration handles water, fire, mold, and biohazard cleanup for homes and businesses throughout Santa Maria, from older homes near the downtown core to newer construction on the valley's outer edges. We document the loss for insurance, remove the damaged materials, and dry or rebuild the structure using IICRC-based drying standards, so property owners aren't left guessing about what happens next or who pays for it.
 
 ## Restoration emergencies common in Santa Maria
 
@@ -45,4 +45,4 @@ Santa Maria's housing stock spans a mid-century core of slab-on-grade and crawls
 
 The valley's sandy loam soils generally drain well, but heavy saturation during a wet winter can still shift moisture against foundations and into crawlspaces. Permits for structural repair or rebuild work within city limits go through the City of Santa Maria's building division, while unincorporated areas nearby fall under Santa Barbara County. Either way, water or fire damage that affects framing or electrical typically triggers a permit before reconstruction can close the wall back up.
 
-If water, fire, smoke, or mold has hit your Santa Maria property, call Coastal Restoration Services Inc at (805) 345-7440. We'll walk the damage with you, explain what the drying or cleanup process actually involves, and get the paperwork moving with your insurance carrier from day one.
+If water, fire, smoke, or mold has hit your Santa Maria property, call Coastal Restoration at (805) 345-7440. We'll walk the damage with you, explain what the drying or cleanup process actually involves, and get the paperwork moving with your insurance carrier from day one.

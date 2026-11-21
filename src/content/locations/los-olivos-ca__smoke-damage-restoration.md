@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Los Olivos, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Smoke Damage Restoration in Los Olivos, CA | Coastal Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Los Olivos"
 meta_description: "24/7 emergency smoke damage restoration in Los Olivos, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "smoke damage restoration los olivos"
@@ -40,4 +40,4 @@ We're based in Santa Maria and run crews out to Los Olivos along Highway 101 and
 
 One thing that catches homeowners off guard in the Santa Ynez Valley: wildfire smoke exposure doesn't require a nearby fire to cause real damage. During regional wildfire seasons, smoke can settle into a closed-up vacation home or a property left unoccupied for a few weeks, and by the time anyone opens it back up, the odor has worked into fabric and wood that never saw a flame. We treat those cases differently than an active structure fire; the damage is lighter but often more widespread across the whole interior, since it entered passively through the HVAC system rather than concentrating near a single point of origin.
 
-Smoke residue doesn't resolve on its own, and the acidic compounds in it keep working on wood, metal, and fabric the longer they sit. If your Los Olivos home or vineyard property has smoke odor or visible soot from a fire or nearby wildfire activity, call Coastal Restoration Services Inc at (805) 345-7440. We're licensed under #11245226 and staffed 24/7 to get assessment and air filtration started right away.
+Smoke residue doesn't resolve on its own, and the acidic compounds in it keep working on wood, metal, and fabric the longer they sit. If your Los Olivos home or vineyard property has smoke odor or visible soot from a fire or nearby wildfire activity, call Coastal Restoration at (805) 345-7440. We're licensed under #11245226 and staffed 24/7 to get assessment and air filtration started right away.

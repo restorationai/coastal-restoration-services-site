@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Vandenberg Village, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Vandenberg Village, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Vandenberg Village"
 meta_description: "Odor removal and deodorization in Vandenberg Village, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization vandenberg village"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Vandenberg Village sits just west of Santa Maria in a coastal-influenced microclimate where marine air rolls in off the Pacific with enough humidity to trap odors deep inside wall cavities, upholstery fibers, and HVAC ductwork. Whether the smell comes from a kitchen fire, a slow slab leak that fed mold behind baseboards, or years of cigarette smoke baked into the drywall of a mid-century ranch home, that damp coastal air makes deodorization more stubborn here than it would be in a drier inland community. Coastal Restoration Services Inc handles odor removal and deodorization throughout Vandenberg Village, using equipment and protocols matched to the specific conditions of this community.
+Vandenberg Village sits just west of Santa Maria in a coastal-influenced microclimate where marine air rolls in off the Pacific with enough humidity to trap odors deep inside wall cavities, upholstery fibers, and HVAC ductwork. Whether the smell comes from a kitchen fire, a slow slab leak that fed mold behind baseboards, or years of cigarette smoke baked into the drywall of a mid-century ranch home, that damp coastal air makes deodorization more stubborn here than it would be in a drier inland community. Coastal Restoration handles odor removal and deodorization throughout Vandenberg Village, using equipment and protocols matched to the specific conditions of this community.
 
 ## Why Vandenberg Village Properties Develop Persistent Odors
 
@@ -51,4 +51,4 @@ Our crews operate out of Santa Maria and reach Vandenberg Village by heading wes
 
 Homes in Vandenberg Village built in the late 1960s and early 1970s frequently have original forced-air duct systems with fiberglass duct liner that has never been replaced. When smoke or mold odors enter the HVAC system, that liner absorbs the compounds and re-releases them every time the system runs, sometimes for months after the visible damage is gone. We inspect duct interiors as part of every smoke and mold-related deodorization job here, because skipping that step is the single most common reason a Vandenberg Village homeowner calls back saying the smell returned after the house was "already treated."
 
-If you're dealing with a persistent odor in Vandenberg Village that hasn't responded to cleaning or store-bought treatments, the source is almost certainly somewhere you haven't looked yet. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule a source assessment and get a clear picture of what's actually driving the smell, and what it will take to eliminate it for good.
+If you're dealing with a persistent odor in Vandenberg Village that hasn't responded to cleaning or store-bought treatments, the source is almost certainly somewhere you haven't looked yet. Call Coastal Restoration at (805) 345-7440 to schedule a source assessment and get a clear picture of what's actually driving the smell, and what it will take to eliminate it for good.

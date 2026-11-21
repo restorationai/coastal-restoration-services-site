@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Los Alamos, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Los Alamos, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Los Alamos"
 meta_description: "Crawl space encapsulation in Los Alamos, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation los alamos"
@@ -40,7 +40,7 @@ Depending on the size of the space and the severity of the moisture history, we 
 
 ## Reaching Los Alamos from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Los Alamos is a straightforward drive north on US-101 through Buellton and up into the valley. The route is reliable year-round, which means scheduling is predictable, call (805) 345-7440 to set up an inspection and we can typically get eyes on a crawl space within a short window rather than putting you on a multiweek waiting list. For homeowners in the Los Alamos area, that matters when you're watching a moisture problem develop after a wet storm system moves through.
+Coastal Restoration is based in Vandenberg Village, and Los Alamos is a straightforward drive north on US-101 through Buellton and up into the valley. The route is reliable year-round, which means scheduling is predictable, call (805) 345-7440 to set up an inspection and we can typically get eyes on a crawl space within a short window rather than putting you on a multiweek waiting list. For homeowners in the Los Alamos area, that matters when you're watching a moisture problem develop after a wet storm system moves through.
 
 ## Equipment and Methods We Use for Crawl Space Encapsulation
 

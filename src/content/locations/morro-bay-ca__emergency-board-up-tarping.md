@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Morro Bay, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Morro Bay"
 meta_description: "Emergency board-up and tarping in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping morro bay"
@@ -38,7 +38,7 @@ Every opening is logged with dimensions and materials used so that the remediati
 
 ## Reaching Morro Bay from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Morro Bay is a regular part of the service area along the Highway 1 and Highway 101 corridor. The drive up the coast via Highway 1 through San Luis Obispo County is straightforward in normal conditions, though summer weekend traffic near Cayucos and the approach to Morro Bay can add time. We factor that into scheduling and communicate arrival windows honestly rather than quoting a minute figure we cannot guarantee.
+Coastal Restoration is based in Vandenberg Village, and Morro Bay is a regular part of the service area along the Highway 1 and Highway 101 corridor. The drive up the coast via Highway 1 through San Luis Obispo County is straightforward in normal conditions, though summer weekend traffic near Cayucos and the approach to Morro Bay can add time. We factor that into scheduling and communicate arrival windows honestly rather than quoting a minute figure we cannot guarantee.
 
 For properties on the hillside streets above the waterfront or near the harbor district, access can involve narrow residential lanes, we use appropriately sized vehicles and carry the full range of board-up materials on the truck so we are not making return trips for supplies.
 
@@ -52,4 +52,4 @@ If your property is managed through a homeowners association or a property manag
 
 One thing that catches out-of-area contractors working in Morro Bay: the persistent marine layer means plywood installed as a temporary board-up can begin to delaminate and swell within a week if it is not sealed on all edges and faces. We apply a rapid-cure exterior primer to cut edges before installation, a step that adds about ten minutes per sheet but significantly extends the integrity of the board-up during the window between emergency mitigation and permanent repairs. On a coastal property where the repair timeline might stretch two to three weeks while insurance adjusters process the claim, that edge sealing is not optional.
 
-If your Morro Bay home or commercial property has sustained fire damage, storm damage, or any breach that leaves the structure exposed, call Coastal Restoration Services Inc at **(805) 345-7440**. We will assess the damage, secure every opening, and give you a clear picture of what comes next, so the building stops getting worse while you work through the recovery process.
+If your Morro Bay home or commercial property has sustained fire damage, storm damage, or any breach that leaves the structure exposed, call Coastal Restoration at **(805) 345-7440**. We will assess the damage, secure every opening, and give you a clear picture of what comes next, so the building stops getting worse while you work through the recovery process.

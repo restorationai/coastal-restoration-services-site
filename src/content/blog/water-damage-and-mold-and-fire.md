@@ -55,10 +55,10 @@ Before any cleanup starts, photograph every room, including ones that look untou
 
 Once the structure is secured and extraction starts, salvageable contents, furniture, textiles, electronics, should get moved to a controlled space rather than left in a room that's still drying. Smoke odor tends to linger in soft materials long after visible soot is gone, which is its own separate cleanup step.
 
-Coastal Restoration Services Inc answers the phone 24/7 and handles fire damage restoration, water extraction, and mold remediation as one coordinated response rather than three separate hires, which keeps your documentation consistent from the first moisture reading to the final clearance test. If you're sorting through a combination loss right now, a single on-site assessment covering fire, water, and mold scope will tell you more in an hour than three separate phone calls will.
+Coastal Restoration answers the phone 24/7 and handles fire damage restoration, water extraction, and mold remediation as one coordinated response rather than three separate hires, which keeps your documentation consistent from the first moisture reading to the final clearance test. If you're sorting through a combination loss right now, a single on-site assessment covering fire, water, and mold scope will tell you more in an hour than three separate phone calls will.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria and the Central Coast, including Arroyo Grande, Orcutt, and the Five Cities area, holding California contractor license 11245226. Their technicians carry IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials and handle water damage restoration, fire damage restoration, mold remediation, odor removal, sewage cleanup, storm damage restoration, and contents restoration and storage across the region. The company answers calls 24/7.
+Coastal Restoration is an IICRC Certified Firm serving Santa Maria and the Central Coast, including Arroyo Grande, Orcutt, and the Five Cities area, holding California contractor license 11245226. Their technicians carry IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials and handle water damage restoration, fire damage restoration, mold remediation, odor removal, sewage cleanup, storm damage restoration, and contents restoration and storage across the region. The company answers calls 24/7.

@@ -87,10 +87,10 @@ For [storm damage restoration](/services/storm-damage-restoration/) that include
 
 If the storm also damaged windows, doors, or left the structure exposed overnight, an emergency board-up can be added to the same claim scope. Keep those receipts separate and clearly labeled.
 
-Coastal Restoration Services Inc handles the interior side of roof leak events: emergency tarping coordination, [water extraction](/services/emergency-water-removal/), structural drying, and the documentation your insurer needs. For the roof repair itself, you will need a licensed roofing contractor. If you are not sure who to call first, start with the water damage, because that clock is running whether the roof is fixed yet or not. [Reach the team](/contact/) at (805) 345-7440.
+Coastal Restoration handles the interior side of roof leak events: emergency tarping coordination, [water extraction](/services/emergency-water-removal/), structural drying, and the documentation your insurer needs. For the roof repair itself, you will need a licensed roofing contractor. If you are not sure who to call first, start with the water damage, because that clock is running whether the roof is fixed yet or not. [Reach the team](/contact/) at (805) 345-7440.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC-certified firm based in Santa Maria, CA (license 11245226), holding Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications. Their crews provide water damage restoration, storm damage restoration, emergency board-up and tarping, mold remediation, and related services across Santa Maria, Lompoc, San Luis Obispo, Arroyo Grande, and the broader Central Coast region.
+Coastal Restoration is an IICRC-certified firm based in Santa Maria, CA (license 11245226), holding Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications. Their crews provide water damage restoration, storm damage restoration, emergency board-up and tarping, mold remediation, and related services across Santa Maria, Lompoc, San Luis Obispo, Arroyo Grande, and the broader Central Coast region.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Pismo Beach, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Pismo Beach, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Pismo Beach"
 meta_description: "Post-construction and specialty cleaning in Pismo Beach, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning pismo beach"
@@ -43,7 +43,7 @@ For vacation rental properties, we can coordinate directly with property manager
 
 ## Reaching Pismo Beach from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, which puts the crew on US-101 heading north toward Pismo Beach, a straightforward run up the coast with no significant routing complications under normal conditions. For projects near the beach corridor or the blufftop neighborhoods above Price Street, parking and equipment staging can require some advance coordination, particularly during summer weekends when street access near the pier area gets congested. We plan for that. When you call (805) 345-7440 to schedule, let us know the property address and any access notes, gated community, shared driveway, or parking restrictions, so we can arrive staged and ready to work without delays.
+Coastal Restoration is based in Vandenberg Village, which puts the crew on US-101 heading north toward Pismo Beach, a straightforward run up the coast with no significant routing complications under normal conditions. For projects near the beach corridor or the blufftop neighborhoods above Price Street, parking and equipment staging can require some advance coordination, particularly during summer weekends when street access near the pier area gets congested. We plan for that. When you call (805) 345-7440 to schedule, let us know the property address and any access notes, gated community, shared driveway, or parking restrictions, so we can arrive staged and ready to work without delays.
 
 ## Equipment and Methods for Coastal Post-Construction Cleaning
 

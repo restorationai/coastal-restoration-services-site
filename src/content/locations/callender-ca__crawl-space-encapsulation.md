@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Callender, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Callender, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Callender"
 meta_description: "Crawl space encapsulation in Callender, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation callender"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Callender sits in a stretch of Northern California where seasonal temperature swings between cold, wet winters and dry, baking summers put crawl spaces through a punishing cycle, moisture intrudes during the rainy months, then that trapped humidity lingers through summer heat, quietly warping floor joists, feeding mold colonies, and degrading insulation before most homeowners notice anything beyond a musty smell drifting up through the floorboards. Coastal Restoration Services Inc works with Callender property owners to stop that cycle with full crawl space encapsulation, sealing the ground, the walls, and the vents so outside air and soil moisture stop dictating what happens inside your home.
+Callender sits in a stretch of Northern California where seasonal temperature swings between cold, wet winters and dry, baking summers put crawl spaces through a punishing cycle, moisture intrudes during the rainy months, then that trapped humidity lingers through summer heat, quietly warping floor joists, feeding mold colonies, and degrading insulation before most homeowners notice anything beyond a musty smell drifting up through the floorboards. Coastal Restoration works with Callender property owners to stop that cycle with full crawl space encapsulation, sealing the ground, the walls, and the vents so outside air and soil moisture stop dictating what happens inside your home.
 
 ## Why Callender Properties Are Especially Vulnerable to Crawl Space Moisture
 
@@ -52,4 +52,4 @@ The age of the local housing stock also shapes the work. Homes with original pie
 
 In Callender and the surrounding area, it's common to find crawl spaces where a previous owner installed standard 6-mil poly sheeting, the kind sold at hardware stores, as a DIY vapor barrier. That material is better than bare soil, but it degrades quickly under UV exposure during any period when the crawl space access door is left open, and it tears easily around posts and pipes, leaving gaps that defeat the purpose. When we find that situation, we document the existing condition with photos before removal so homeowners have a clear before-and-after record, which is also useful if the work is being done in connection with a home sale or refinance appraisal.
 
-If you're seeing higher-than-expected heating or cooling bills, soft spots in your floor, or a persistent earthy or musty smell in the lowest level of your home, the crawl space is the first place to look. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an inspection for your Callender property, the sooner moisture is addressed, the less structural and air-quality damage accumulates.
+If you're seeing higher-than-expected heating or cooling bills, soft spots in your floor, or a persistent earthy or musty smell in the lowest level of your home, the crawl space is the first place to look. Call Coastal Restoration at (805) 345-7440 to schedule an inspection for your Callender property, the sooner moisture is addressed, the less structural and air-quality damage accumulates.

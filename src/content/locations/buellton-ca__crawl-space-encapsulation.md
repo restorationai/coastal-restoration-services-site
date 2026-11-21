@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Buellton, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Buellton, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Buellton"
 meta_description: "Crawl space encapsulation in Buellton, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation buellton"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Buellton sits in the Santa Ynez Valley where the marine layer pushes inland through the Gaviota Pass nearly every night, dropping humidity into crawl spaces long before the sun burns it off each morning. That nightly moisture cycle, mild but relentless, is exactly the kind of condition that turns a bare-dirt crawl space into a slow-motion mold and rot problem. Coastal Restoration Services Inc works throughout the Santa Barbara County interior, and crawl space encapsulation in Buellton requires a specific approach built around that coastal-influence microclimate rather than a one-size-fits-all vapor barrier job.
+Buellton sits in the Santa Ynez Valley where the marine layer pushes inland through the Gaviota Pass nearly every night, dropping humidity into crawl spaces long before the sun burns it off each morning. That nightly moisture cycle, mild but relentless, is exactly the kind of condition that turns a bare-dirt crawl space into a slow-motion mold and rot problem. Coastal Restoration works throughout the Santa Barbara County interior, and crawl space encapsulation in Buellton requires a specific approach built around that coastal-influence microclimate rather than a one-size-fits-all vapor barrier job.
 
 ## Why Buellton Properties See Crawl Space Problems
 
@@ -36,7 +36,7 @@ Once the space is cleared and any remediation needs are addressed, we install a 
 
 ## Reaching Buellton from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Buellton is a straightforward run east on Highway 246 through Lompoc, typically well under an hour under normal conditions. We schedule site visits and project starts with that drive time in mind, and we communicate arrival windows clearly so you are not waiting around with an open crawl space hatch. If you are calling from the Highway 246 corridor or the Santa Ynez Valley side of the pass, getting a crew out for an assessment is a routine part of our service area, not a special trip.
+Coastal Restoration is based in Vandenberg Village, and Buellton is a straightforward run east on Highway 246 through Lompoc, typically well under an hour under normal conditions. We schedule site visits and project starts with that drive time in mind, and we communicate arrival windows clearly so you are not waiting around with an open crawl space hatch. If you are calling from the Highway 246 corridor or the Santa Ynez Valley side of the pass, getting a crew out for an assessment is a routine part of our service area, not a special trip.
 
 ## Equipment and Methods We Use
 
@@ -46,4 +46,4 @@ For Buellton jobs, the tools that matter most are the ones that tell you what yo
 
 One pattern we see specifically in Buellton and the surrounding Santa Ynez Valley is that many homes were built or expanded during the 1970s and 1980s wine-country boom with crawl spaces that were designed to code at the time, which meant vented crawl spaces with minimal vapor retarder requirements. Those code standards have since been updated, but the homes have not been retrofitted. When we pull permits for encapsulation work in Santa Barbara County, the current energy code (Title 24) actually supports sealed, conditioned crawl spaces, which means a proper encapsulation is not just a moisture fix, it brings the assembly into alignment with current standards and can improve the home's energy performance measurably.
 
-If you are dealing with musty odors, soft spots in flooring, or an HVAC system that struggles to keep up in summer, the crawl space is often the first place to look. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule a crawl space assessment in Buellton, we will tell you exactly what is down there and what it will take to fix it.
+If you are dealing with musty odors, soft spots in flooring, or an HVAC system that struggles to keep up in summer, the crawl space is often the first place to look. Call Coastal Restoration at (805) 345-7440 to schedule a crawl space assessment in Buellton, we will tell you exactly what is down there and what it will take to fix it.

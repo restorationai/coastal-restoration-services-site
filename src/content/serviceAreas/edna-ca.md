@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Edna, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Edna, CA | Coastal Restoration"
 h1: "Restoration Services in Edna"
 meta_description: "Serving Edna, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services edna"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a slow roof leak finally shows itself as a ceiling stain, Edna property owners need a restoration crew that already knows the area, not one that has to look it up. Coastal Restoration Services Inc handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Edna and the surrounding San Luis Obispo County corridor. Call us at **(805) 345-7440** to talk through what you're seeing.
+When a pipe bursts behind a wall or a slow roof leak finally shows itself as a ceiling stain, Edna property owners need a restoration crew that already knows the area, not one that has to look it up. Coastal Restoration handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Edna and the surrounding San Luis Obispo County corridor. Call us at **(805) 345-7440** to talk through what you're seeing.
 
 ## Restoration emergencies common in Edna
 
@@ -47,7 +47,7 @@ For larger losses, we can coordinate pack-out of salvageable contents, furniture
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc operates out of Santa Maria, roughly 20 to 25 miles southwest of the Edna Valley via Highway 101 and Los Berros Road or Orcutt Road depending on conditions. That puts Edna well within our regular service area. When you call **(805) 345-7440**, our team will confirm scheduling and give you an honest arrival window based on current crew availability and road conditions, we won't quote you a time we can't keep. Properties throughout the Edna Valley, including the rural parcels off Corbett Canyon Road and the residential areas closer to the 227 corridor toward San Luis Obispo, are all reachable without the extended drive times that affect more remote parts of the county.
+Coastal Restoration operates out of Santa Maria, roughly 20 to 25 miles southwest of the Edna Valley via Highway 101 and Los Berros Road or Orcutt Road depending on conditions. That puts Edna well within our regular service area. When you call **(805) 345-7440**, our team will confirm scheduling and give you an honest arrival window based on current crew availability and road conditions, we won't quote you a time we can't keep. Properties throughout the Edna Valley, including the rural parcels off Corbett Canyon Road and the residential areas closer to the 227 corridor toward San Luis Obispo, are all reachable without the extended drive times that affect more remote parts of the county.
 
 ## Building stock, site conditions, and permits in Edna
 
@@ -55,4 +55,4 @@ Edna is unincorporated, so building permits for structural repair or rebuild com
 
 Basements are rare. Older farmhouses tend to sit on raised perimeter foundations over a vented crawlspace, where wet insulation and joists need direct access, while postwar and later homes are slab-on-grade with plumbing in or under the slab. Expect galvanized or copper supply and cast iron drains in pre-1970s houses, and treat pre-1978 paint and pre-1980s flooring and mastic as suspect until tested.
 
-If you're dealing with water, mold, fire, or smoke damage at an Edna property, the right time to call is before the problem gets larger. Reach Coastal Restoration Services Inc at **(805) 345-7440** and describe what you're seeing, we'll tell you exactly what the next step looks like.
+If you're dealing with water, mold, fire, or smoke damage at an Edna property, the right time to call is before the problem gets larger. Reach Coastal Restoration at **(805) 345-7440** and describe what you're seeing, we'll tell you exactly what the next step looks like.

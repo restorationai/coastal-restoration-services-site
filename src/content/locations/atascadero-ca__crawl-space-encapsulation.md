@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Atascadero, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Atascadero, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Atascadero"
 meta_description: "Crawl space encapsulation in Atascadero, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation atascadero"
@@ -40,7 +40,7 @@ Depending on what the inspection reveals, the project may also include a crawl s
 
 ## Getting to Atascadero from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, roughly 45 miles south of Atascadero via US-101 North. The drive is straightforward, US-101 runs directly into San Luis Obispo County and continues through Atascadero with easy access to both the west-side residential neighborhoods and the areas east of the freeway. Scheduling a crawl space assessment is the right first step; call (805) 345-7440 to set a time that works for your property.
+Coastal Restoration is based in Vandenberg Village, roughly 45 miles south of Atascadero via US-101 North. The drive is straightforward, US-101 runs directly into San Luis Obispo County and continues through Atascadero with easy access to both the west-side residential neighborhoods and the areas east of the freeway. Scheduling a crawl space assessment is the right first step; call (805) 345-7440 to set a time that works for your property.
 
 ## Local Note
 

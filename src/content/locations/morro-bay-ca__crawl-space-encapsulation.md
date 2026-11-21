@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Morro Bay, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Morro Bay"
 meta_description: "Crawl space encapsulation in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation morro bay"
@@ -40,10 +40,10 @@ The result is a conditioned crawl space that behaves more like a dry basement th
 
 ## Reaching Morro Bay from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, roughly 35 miles south of Morro Bay via US-101 North and CA-1. The drive along the coast is straightforward in normal traffic conditions, and our crews are familiar with the route through San Luis Obispo and up through Cayucos. For encapsulation projects, which are scheduled work rather than emergency response, we coordinate arrival windows directly with homeowners so you're not waiting around. Call (805) 345-7440 to schedule an assessment and we'll confirm a time that works.
+Coastal Restoration is based in Vandenberg Village, roughly 35 miles south of Morro Bay via US-101 North and CA-1. The drive along the coast is straightforward in normal traffic conditions, and our crews are familiar with the route through San Luis Obispo and up through Cayucos. For encapsulation projects, which are scheduled work rather than emergency response, we coordinate arrival windows directly with homeowners so you're not waiting around. Call (805) 345-7440 to schedule an assessment and we'll confirm a time that works.
 
 ## Local Note: What Contractors Without Coastal Experience Often Miss
 
 Homes in Morro Bay that were built in the 1950s and 1960s, a common vintage in the neighborhoods that developed around the fishing industry and early tourism, frequently have crawl spaces with access hatches that open from inside a closet or utility room rather than from the exterior. It's a small architectural detail, but it matters: interior-access crawl spaces require more careful staging of equipment and materials to avoid tracking debris through the living area. It also means the encapsulation work has to account for the access panel itself as a potential air and moisture pathway, which gets sealed and gasketed as part of the job. Contractors who primarily work inland don't always flag this, and an unsealed hatch can undermine an otherwise complete encapsulation system.
 
-If you're dealing with a damp, musty crawl space in Morro Bay, the combination of marine climate, older housing stock, and coastal soils makes encapsulation one of the highest-return improvements you can make to the long-term health of the structure. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule a crawl space assessment, we'll tell you honestly what's there and what it will take to fix it.
+If you're dealing with a damp, musty crawl space in Morro Bay, the combination of marine climate, older housing stock, and coastal soils makes encapsulation one of the highest-return improvements you can make to the long-term health of the structure. Call Coastal Restoration at (805) 345-7440 to schedule a crawl space assessment, we'll tell you honestly what's there and what it will take to fix it.

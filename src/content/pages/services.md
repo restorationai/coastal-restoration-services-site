@@ -1,6 +1,6 @@
 ---
 archetype: "services-hub"
-title: "Restoration Services in Vandenberg Village | Coastal Restoration Services Inc"
+title: "Restoration Services in Vandenberg Village | Coastal Restoration"
 h1: "Our Restoration Services"
 meta_description: "Full-service restoration in Vandenberg Village: water, fire, mold, storm, biohazard, and commercial restoration. Prompt scheduling. Call (805) 345-7440."
 primary_keyword: "restoration services vandenberg village"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services"}]
 faq: [{"question": "Do you work with both residential and commercial properties?", "answer": "Yes. The work covers single-family homes, condos, apartment complexes, retail spaces, office buildings, and light industrial properties. Commercial losses often involve business-interruption considerations and larger affected areas, so the scope and crew size are adjusted accordingly, but the process \u2014 assess, mitigate, document, rebuild \u2014 is the same."}, {"question": "What is the difference between mitigation and reconstruction?", "answer": "Mitigation is everything done to stop ongoing damage and stabilize the property: water extraction, structural drying, smoke cleaning, debris removal, mold containment. Reconstruction is the rebuild phase that follows \u2014 replacing the materials that were removed and restoring the space to a livable or usable condition. Both phases are handled in-house, so there is no gap in communication or documentation between them."}, {"question": "Do you handle insurance claims for all of your services?", "answer": "Yes. Water, fire, smoke, storm, biohazard, and mold services all generate the kind of documentation \u2014 moisture readings, photo logs, scope of work, itemized estimates \u2014 that insurance carriers require. The team works directly with adjusters and can bill carriers on most standard property claims, reducing the out-of-pocket coordination you would otherwise have to manage yourself."}]
 rendered: true
 ---
-From a burst pipe flooding a Lompoc rental unit to smoke damage working its way into the walls of a Santa Maria office building, property damage rarely announces itself at a convenient time. Coastal Restoration Services Inc handles the full range of residential, commercial, and multi-family restoration work along the Central Coast, water, fire, mold, biohazard, storm damage, and the reconstruction that follows. One company, one point of contact, from the moment the damage happens to the day you hand back the keys.
+From a burst pipe flooding a Lompoc rental unit to smoke damage working its way into the walls of a Santa Maria office building, property damage rarely announces itself at a convenient time. Coastal Restoration handles the full range of residential, commercial, and multi-family restoration work along the Central Coast, water, fire, mold, biohazard, storm damage, and the reconstruction that follows. One company, one point of contact, from the moment the damage happens to the day you hand back the keys.
 
 ## Emergency restoration services
 
@@ -23,7 +23,7 @@ When water is still moving through a structure, every hour matters, wet framing,
 
 ## Reconstruction and renovation
 
-Mitigation stops the damage; reconstruction restores the property. Once affected materials have been properly removed and the structure is dry and stable, the rebuild phase begins, replacing drywall, framing, flooring, cabinetry, roofing sections, and finishes to pre-loss condition or better. Coastal Restoration Services Inc handles this work directly rather than handing it off to a separate contractor, which means the crew that documented what came out knows exactly what needs to go back in. That continuity matters for insurance documentation, for timeline, and for the quality of the finished result. General contracting services are also available for renovation projects outside of an insurance claim context.
+Mitigation stops the damage; reconstruction restores the property. Once affected materials have been properly removed and the structure is dry and stable, the rebuild phase begins, replacing drywall, framing, flooring, cabinetry, roofing sections, and finishes to pre-loss condition or better. Coastal Restoration handles this work directly rather than handing it off to a separate contractor, which means the crew that documented what came out knows exactly what needs to go back in. That continuity matters for insurance documentation, for timeline, and for the quality of the finished result. General contracting services are also available for renovation projects outside of an insurance claim context.
 
 ## Specialty services
 

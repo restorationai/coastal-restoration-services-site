@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Buellton, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Buellton, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Buellton"
 meta_description: "Post-construction and specialty cleaning in Buellton, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning buellton"
@@ -36,7 +36,7 @@ For specialty cleaning needs, whether that's a restaurant kitchen in a newly bui
 
 ## Reaching Buellton from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, which puts the team on US-101 North with a straightforward run up to Buellton, a corridor the crew travels regularly for jobs throughout Santa Barbara County. Scheduling is handled by calling (805) 345-7440 directly; the team can coordinate site access around active construction schedules, subcontractor timelines, and general contractor punch-list windows so the cleaning crew isn't competing with finish carpenters or flooring installers for workspace.
+Coastal Restoration is based in Vandenberg Village, which puts the team on US-101 North with a straightforward run up to Buellton, a corridor the crew travels regularly for jobs throughout Santa Barbara County. Scheduling is handled by calling (805) 345-7440 directly; the team can coordinate site access around active construction schedules, subcontractor timelines, and general contractor punch-list windows so the cleaning crew isn't competing with finish carpenters or flooring installers for workspace.
 
 For larger projects, commercial builds, multi-unit residential, or phased renovation work, it's worth scheduling a pre-clean walk-through before the project reaches final stage. That conversation with the GC often surfaces scope details (specialty finishes, sensitive equipment already staged, areas still under active work) that prevent re-cleaning and protect the client's investment in high-end materials.
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Los Berros, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Los Berros, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Los Berros"
 meta_description: "Crawl space encapsulation in Los Berros, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation los berros"
@@ -52,4 +52,4 @@ Where existing wood framing shows elevated moisture content (above 19% is the th
 
 One pattern that comes up repeatedly on properties in this part of San Luis Obispo County: older homes that were originally built as agricultural or ranch support structures and later converted to residential use. These buildings were rarely designed with crawl space moisture management in mind, vents are often undersized, misplaced, or blocked by later additions, and the original foundation clearances can be tight. When we encounter these conversions in the Los Berros area, we budget extra time for the inspection phase, because what looks like a straightforward encapsulation job sometimes reveals a foundation drainage issue or a blocked vent that needs to be resolved first. Skipping that step and simply laying liner over an unresolved drainage problem is one of the more common causes of encapsulation failures we're called in to re-do.
 
-If you're dealing with musty odors, soft spots in your flooring, or visible moisture on your foundation walls, call Coastal Restoration Services Inc at **(805) 345-7440** to schedule a crawl space assessment. We serve Los Berros and the surrounding San Luis Obispo County communities from our base in Vandenberg Village, and we'll give you a straight assessment of what your specific crawl space actually needs, not a one-size pitch.
+If you're dealing with musty odors, soft spots in your flooring, or visible moisture on your foundation walls, call Coastal Restoration at **(805) 345-7440** to schedule a crawl space assessment. We serve Los Berros and the surrounding San Luis Obispo County communities from our base in Vandenberg Village, and we'll give you a straight assessment of what your specific crawl space actually needs, not a one-size pitch.

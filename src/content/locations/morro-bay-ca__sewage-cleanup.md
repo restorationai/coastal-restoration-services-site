@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Emergency Sewage Cleanup and Sanitization in Morro Bay, CA | Coastal Restoration"
 h1: "Emergency Sewage Cleanup and Sanitization in Morro Bay"
 meta_description: "Emergency sewage cleanup and sanitization in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "sewage cleanup and sanitization morro bay"
@@ -41,7 +41,7 @@ After demo, affected structural surfaces are treated with EPA-registered disinfe
 
 ## Reaching Morro Bay from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village and serves the Morro Bay area via Highway 1 north through San Luis Obispo. The drive puts crews on the Central Coast corridor that connects the South County to Morro Bay, and the routing is straightforward outside of peak summer tourism traffic when Highway 1 through Cayucos can slow significantly. For scheduling, call (805) 345-7440 to confirm availability and get an accurate arrival estimate based on current conditions, we'll give you a real time, not a marketing figure.
+Coastal Restoration operates out of Vandenberg Village and serves the Morro Bay area via Highway 1 north through San Luis Obispo. The drive puts crews on the Central Coast corridor that connects the South County to Morro Bay, and the routing is straightforward outside of peak summer tourism traffic when Highway 1 through Cayucos can slow significantly. For scheduling, call (805) 345-7440 to confirm availability and get an accurate arrival estimate based on current conditions, we'll give you a real time, not a marketing figure.
 
 ## Insurance and Documentation for Morro Bay Sewage Claims
 
@@ -53,4 +53,4 @@ For rental properties and commercial buildings in Morro Bay, the documentation r
 
 Morro Bay's fishing and tourism economy means a significant share of the housing stock near the waterfront was built in the 1950s and 1960s as seasonal or light-use cottages and later converted to year-round occupancy. Many of these structures have shallow crawl spaces, sometimes less than 18 inches of clearance, that were never intended for regular access. When a sewer line backs up into one of those crawl spaces, standard extraction equipment can't reach the far corners. Our crews carry low-profile extraction wands and flexible hose extensions specifically for confined-space work, which is the only way to fully clear contaminated standing water from a crawl space that a technician can't physically enter.
 
-If you're dealing with a sewage backup or septic overflow anywhere in the Morro Bay area, call Coastal Restoration Services Inc at **(805) 345-7440**. The longer sewage contamination sits in contact with structural materials, the deeper it penetrates, and the more material has to come out. Getting a crew on-site and the source confirmed is the fastest way to limit the damage.
+If you're dealing with a sewage backup or septic overflow anywhere in the Morro Bay area, call Coastal Restoration at **(805) 345-7440**. The longer sewage contamination sits in contact with structural materials, the deeper it penetrates, and the more material has to come out. Getting a crew on-site and the source confirmed is the fastest way to limit the damage.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Pismo Beach, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Pismo Beach, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Pismo Beach"
 meta_description: "Crawl space encapsulation in Pismo Beach, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation pismo beach"
@@ -40,10 +40,10 @@ The final step is a post-installation moisture reading documented in writing, so
 
 ## Reaching Pismo Beach from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which puts Pismo Beach well within our regular service area along the Highway 1 and US-101 corridor. The drive up through Oceano and into Pismo Beach is straightforward, and we schedule jobs throughout the city without a travel surcharge. When you call (805) 345-7440, the team can typically get a crawl space assessment on the calendar within a few business days, sooner if there's an active moisture problem or visible damage prompting the call.
+Coastal Restoration operates out of Vandenberg Village, which puts Pismo Beach well within our regular service area along the Highway 1 and US-101 corridor. The drive up through Oceano and into Pismo Beach is straightforward, and we schedule jobs throughout the city without a travel surcharge. When you call (805) 345-7440, the team can typically get a crawl space assessment on the calendar within a few business days, sooner if there's an active moisture problem or visible damage prompting the call.
 
 ## Local Note
 
 One pattern we've noticed specifically in Pismo Beach homes built close to the dunes, particularly those on streets that back up toward the state beach access areas, is that the crawl spaces tend to accumulate fine wind-blown sand on top of the soil. That sand layer looks dry on the surface but often holds significant moisture just an inch or two down, and it can fool a quick visual inspection. When we're working in these areas, we take soil moisture readings at depth, not just at the surface, before specifying the vapor barrier thickness and dehumidification approach. A barrier that would be adequate for a home a mile inland sometimes needs to be stepped up a grade here.
 
-If your home in Pismo Beach has a crawl space that hasn't been inspected recently, or if you've noticed musty odors, soft spots in the floor, or higher-than-expected heating and cooling bills, call Coastal Restoration Services Inc at (805) 345-7440. Encapsulation is one of the more durable improvements you can make to a coastal home, and addressing it before wood damage sets in keeps the scope and cost manageable.
+If your home in Pismo Beach has a crawl space that hasn't been inspected recently, or if you've noticed musty odors, soft spots in the floor, or higher-than-expected heating and cooling bills, call Coastal Restoration at (805) 345-7440. Encapsulation is one of the more durable improvements you can make to a coastal home, and addressing it before wood damage sets in keeps the scope and cost manageable.

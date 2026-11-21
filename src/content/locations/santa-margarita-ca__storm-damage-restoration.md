@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Santa Margarita, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Santa Margarita"
 meta_description: "Emergency storm damage restoration in Santa Margarita, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration santa margarita"
@@ -41,7 +41,7 @@ From there, the work depends on what the storm left behind. Tree impact damage t
 
 ## Reaching Santa Margarita from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Santa Margarita is a regular part of our service area. The most direct route runs north on U.S. 101 through San Luis Obispo and then east on Highway 58, a drive that, outside of commute windows, typically runs under an hour. For calls that come in during or immediately after a storm event, we stage equipment before dispatch so crews aren't loading trucks after the call.
+Coastal Restoration is based in Vandenberg Village, and Santa Margarita is a regular part of our service area. The most direct route runs north on U.S. 101 through San Luis Obispo and then east on Highway 58, a drive that, outside of commute windows, typically runs under an hour. For calls that come in during or immediately after a storm event, we stage equipment before dispatch so crews aren't loading trucks after the call.
 
 If road access into the valley is affected by debris or flooding, which does happen on the lower stretches of Carrisa Highway and the side roads off Highway 58 during heavy rain events, we route around and communicate arrival windows honestly rather than giving a number we can't keep.
 
@@ -55,4 +55,4 @@ One thing worth knowing: if a neighbor's tree caused the damage to your property
 
 Santa Margarita's valley position means that after a significant storm, the roads into town can clear before the soil on the surrounding hillsides has drained. What looks like a clean job site the morning after can still be actively shedding water from upslope, crawl spaces and sub-grade areas on the uphill side of a property often show rising moisture readings 24 to 48 hours after the rain stops. We've learned to check those areas on follow-up visits even when they looked dry on the initial walkthrough, because hillside drainage in this part of San Luis Obispo County doesn't behave the way flat-lot drainage does.
 
-If your Santa Margarita home or property took a hit in a recent storm, wind damage, a downed tree, roof penetration, or flooding from runoff, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the damage, secure the structure, and walk you through the restoration and insurance process from the first call to the final inspection.
+If your Santa Margarita home or property took a hit in a recent storm, wind damage, a downed tree, roof penetration, or flooding from runoff, call Coastal Restoration at (805) 345-7440. We'll assess the damage, secure the structure, and walk you through the restoration and insurance process from the first call to the final inspection.

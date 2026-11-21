@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Templeton, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Smoke Damage Restoration in Templeton, CA | Coastal Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Templeton"
 meta_description: "24/7 emergency smoke damage restoration in Templeton, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "smoke damage restoration templeton"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-**Smoke damage after a fire in Templeton?** Call Coastal Restoration Services Inc at (805) 345-7440. We answer 24/7 and bring IICRC-trained technicians to assess soot penetration, deodorize structures, and get your home livable again. Whether the source was a kitchen fire, an electrical short in an older outbuilding, or drifting wildfire smoke that settled into the walls, smoke residue acts fast and gets harder to remove the longer it sits.
+**Smoke damage after a fire in Templeton?** Call Coastal Restoration at (805) 345-7440. We answer 24/7 and bring IICRC-trained technicians to assess soot penetration, deodorize structures, and get your home livable again. Whether the source was a kitchen fire, an electrical short in an older outbuilding, or drifting wildfire smoke that settled into the walls, smoke residue acts fast and gets harder to remove the longer it sits.
 
 ## Why Templeton Properties See Smoke Damage Issues
 
@@ -42,4 +42,4 @@ One thing that catches homeowners off guard in this area: vineyard operations ne
 
 Most smoke damage claims in this area come through homeowners' policies covering either a direct structure fire or smoke infiltration from a nearby wildfire event. We document affected materials room by room with photos and moisture or residue readings where relevant, which gives your adjuster a clear basis for the claim. For properties inside a vineyard estate or planned development with an HOA, we coordinate exterior work, dumpster placement, and any required notifications so the restoration doesn't run into avoidable delays.
 
-If smoke has settled into your Templeton home, whether from a structure fire or drifting wildfire haze, the residue only sets deeper into drywall, cabinetry, and fabric the longer it's left untreated. Call Coastal Restoration Services Inc at (805) 345-7440 for smoke damage restoration that accounts for how this area's climate, housing stock, and agricultural surroundings actually affect the cleanup.
+If smoke has settled into your Templeton home, whether from a structure fire or drifting wildfire haze, the residue only sets deeper into drywall, cabinetry, and fabric the longer it's left untreated. Call Coastal Restoration at (805) 345-7440 for smoke damage restoration that accounts for how this area's climate, housing stock, and agricultural surroundings actually affect the cleanup.

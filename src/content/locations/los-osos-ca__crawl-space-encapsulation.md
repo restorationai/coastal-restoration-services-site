@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Los Osos, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Los Osos, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Los Osos"
 meta_description: "Crawl space encapsulation in Los Osos, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation los osos"
@@ -42,7 +42,7 @@ For homes with active condensation on ducts or water lines in the crawl space, w
 
 ## Reaching Los Osos from Vandenberg Village
 
-Coastal Restoration Services is based in Vandenberg Village and regularly schedules work throughout San Luis Obispo County. Los Osos is accessible via Los Osos Valley Road heading west from Highway 101 at San Luis Obispo, and the drive is straightforward outside of morning commute windows. When you call (805) 345-7440, the scheduling team will give you a realistic arrival window based on current crew availability, no vague promises, just a confirmed appointment.
+Coastal Restoration is based in Vandenberg Village and regularly schedules work throughout San Luis Obispo County. Los Osos is accessible via Los Osos Valley Road heading west from Highway 101 at San Luis Obispo, and the drive is straightforward outside of morning commute windows. When you call (805) 345-7440, the scheduling team will give you a realistic arrival window based on current crew availability, no vague promises, just a confirmed appointment.
 
 ## Local Note
 

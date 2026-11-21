@@ -75,7 +75,7 @@ A professional biohazard cleanup follows a set sequence: scene assessment, conta
 
 ## Who Should You Call for Biohazard Cleanup in Santa Maria?
 
-Biohazard cleanup should only be handled by a licensed, trained crew, never attempted as a DIY project, because bloodborne pathogens and decomposition byproducts carry real infection risk that household cleaning products don't address. In Santa Maria, Coastal Restoration Services Inc holds California contractor license #11245226 and operates as an IICRC Certified Firm, answering calls around the clock.
+Biohazard cleanup should only be handled by a licensed, trained crew, never attempted as a DIY project, because bloodborne pathogens and decomposition byproducts carry real infection risk that household cleaning products don't address. In Santa Maria, Coastal Restoration holds California contractor license #11245226 and operates as an IICRC Certified Firm, answering calls around the clock.
 
 If law enforcement or the coroner's office has released the scene, the next call should go to a licensed biohazard remediation company before anyone else enters the space. Document the scope with photos only if it's safe to do so, and avoid touching or cleaning any affected surfaces yourself.
 
@@ -83,8 +83,8 @@ A written scope of work, before you agree to anything, protects you on both the 
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
 The company is an IICRC Certified Firm serving Santa Maria and the surrounding Central Coast, holding California contractor license #11245226. Its technicians handle biohazard cleanup, sewage cleanup, water damage restoration, fire and smoke damage restoration, mold remediation, and related services across the region, with a 5.0 Google rating from 29 reviews and 24/7 phone coverage.
 
-**Need help now?** [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440).
+**Need help now?** [Call Coastal Restoration at (805) 345-7440](tel:+18053457440).

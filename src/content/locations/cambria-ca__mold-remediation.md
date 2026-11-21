@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Cambria, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Cambria, CA | Coastal Restoration"
 h1: "Mold Remediation in Cambria"
 meta_description: "Mold remediation in Cambria, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation cambria"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Cambria sits where the Santa Lucia Range meets the Pacific, and that geography creates a near-constant cycle of marine fog, salt-laden air, and damp coastal soil that makes mold remediation a different challenge here than it is twenty miles inland. When a slow roof leak or a sweating crawl space goes unnoticed through a run of foggy weeks, mold can colonize porous building materials in as little as 24 to 48 hours, and in Cambria's older wood-frame cottages, that growth rarely stays confined to one surface. Coastal Restoration Services Inc responds to mold calls throughout Cambria and can be reached directly at (805) 345-7440.
+Cambria sits where the Santa Lucia Range meets the Pacific, and that geography creates a near-constant cycle of marine fog, salt-laden air, and damp coastal soil that makes mold remediation a different challenge here than it is twenty miles inland. When a slow roof leak or a sweating crawl space goes unnoticed through a run of foggy weeks, mold can colonize porous building materials in as little as 24 to 48 hours, and in Cambria's older wood-frame cottages, that growth rarely stays confined to one surface. Coastal Restoration responds to mold calls throughout Cambria and can be reached directly at (805) 345-7440.
 
 ## Why Cambria Properties See Mold Issues
 
@@ -50,4 +50,4 @@ If your property is managed through a vacation rental program, common in Cambria
 
 One pattern we see repeatedly in Cambria's older redwood-sided homes: redwood is naturally resistant to surface mold, which can create a false sense of security. Homeowners sometimes assume that because the exterior siding looks clean, the wall assembly behind it is fine. In practice, the building paper and framing lumber behind the redwood can be heavily colonized while the siding itself shows nothing unusual. If a musty smell appears after a wet winter, that faint, earthy odor that intensifies when the heat kicks on, it is worth having the wall cavities checked before assuming the source is elsewhere.
 
-If you are noticing signs of mold growth in your Cambria home or rental property, discoloration on walls or ceilings, persistent musty odors, or a history of water intrusion, contact Coastal Restoration Services Inc at (805) 345-7440. We will assess the situation, explain what we find, and give you a clear picture of what remediation involves before any work begins.
+If you are noticing signs of mold growth in your Cambria home or rental property, discoloration on walls or ceilings, persistent musty odors, or a history of water intrusion, contact Coastal Restoration at (805) 345-7440. We will assess the situation, explain what we find, and give you a clear picture of what remediation involves before any work begins.

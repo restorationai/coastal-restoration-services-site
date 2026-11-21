@@ -1,8 +1,8 @@
 ---
 archetype: "blog-index"
-title: "Restoration Blog | Coastal Restoration Services Inc"
+title: "Restoration Blog | Coastal Restoration"
 h1: "Restoration Resources and Insights"
-meta_description: "Guides, checklists, and explainers from Coastal Restoration Services Inc on water, fire, mold, and storm damage restoration."
+meta_description: "Guides, checklists, and explainers from Coastal Restoration on water, fire, mold, and storm damage restoration."
 primary_keyword: "restoration blog vandenberg village"
 secondary_keywords: ["restoration guides", "damage restoration tips", "restoration insights"]
 search_intent: "informational_browse"

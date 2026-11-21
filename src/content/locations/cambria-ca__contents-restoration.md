@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Cambria, CA | Coastal Restoration Services Inc"
+title: "Contents Restoration and Storage in Cambria, CA | Coastal Restoration"
 h1: "Contents Restoration and Storage in Cambria"
 meta_description: "Contents restoration and storage in Cambria, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "contents restoration and storage cambria"
@@ -50,4 +50,4 @@ If your carrier requires a contents specialist's scope before approving work, we
 
 Cambria's older cottages, particularly those in the west village closer to Moonstone Beach, often have original wood window frames and single-pane glass that allow significant moisture infiltration during fog season. Homeowners sometimes don't realize how damp their interior air has become until a loss event reveals mold on the backs of furniture pushed against exterior walls. When we pack out contents from these homes, we flag items that show pre-existing moisture damage separately in the inventory, which protects you from having a prior condition attributed to the current claim, and helps your adjuster understand the full picture.
 
-If your home in Cambria has been affected by water damage, fire, or smoke and you're concerned about your belongings, call Coastal Restoration Services Inc at (805) 345-7440. We'll walk you through what can be restored, what needs to go into storage, and what the timeline looks like, before anything gets packed.
+If your home in Cambria has been affected by water damage, fire, or smoke and you're concerned about your belongings, call Coastal Restoration at (805) 345-7440. We'll walk you through what can be restored, what needs to go into storage, and what the timeline looks like, before anything gets packed.

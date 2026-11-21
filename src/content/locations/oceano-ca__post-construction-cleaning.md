@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Oceano, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Oceano, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Oceano"
 meta_description: "Post-construction and specialty cleaning in Oceano, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning oceano"
@@ -48,4 +48,4 @@ For commercial clients, retail buildouts, restaurant kitchen installations, or o
 
 One thing that catches out-of-area cleaning crews working in Oceano: the afternoon marine layer doesn't just bring moisture, it brings a very fine silica-rich sand that blows in from the Oceano Dunes State Vehicular Recreation Area to the south and west. During construction, doors and windows are open, and this dune sand infiltrates the interior alongside standard construction dust. It's abrasive in a way that ordinary drywall dust is not, and it requires a different approach on hardwood floors and soft-stone countertops. We use non-abrasive microfiber systems and avoid any scrubbing pads on finished surfaces until we've confirmed the grit level on-site, a step that protects a newly installed floor from micro-scratches that only show up under raking light after the client has moved in.
 
-Call Coastal Restoration Services Inc at (805) 345-7440 to schedule your post-construction or specialty clean in Oceano. Whether you're a homeowner finishing a kitchen remodel, a contractor closing out a new build, or a property manager preparing a unit for occupancy, we'll get the site to a standard that holds up to a close inspection, salt air and dune sand included.
+Call Coastal Restoration at (805) 345-7440 to schedule your post-construction or specialty clean in Oceano. Whether you're a homeowner finishing a kitchen remodel, a contractor closing out a new build, or a property manager preparing a unit for occupancy, we'll get the site to a standard that holds up to a close inspection, salt air and dune sand included.

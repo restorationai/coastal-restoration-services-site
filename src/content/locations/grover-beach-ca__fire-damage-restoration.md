@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Grover Beach, CA | Coastal Restoration Services Inc"
+title: "Emergency Fire Damage Restoration in Grover Beach, CA | Coastal Restoration"
 h1: "Emergency Fire Damage Restoration in Grover Beach"
 meta_description: "Emergency fire damage restoration in Grover Beach, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "fire damage restoration grover beach"
@@ -49,7 +49,7 @@ Once the structure is secured, the restoration sequence moves through several di
 
 ## Reaching Grover Beach from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, putting Grover Beach well within our regular service area along the Central Coast. The most direct routing runs south on Highway 1 through Oceano, keeping travel time practical for the Five Cities corridor. If you're calling from the western side of Grover Beach near the dunes, or from the neighborhoods closer to Grand Avenue, let us know your cross streets when you call, (805) 345-7440, so we can route the crew and equipment trailer efficiently.
+Coastal Restoration is based in Vandenberg Village, putting Grover Beach well within our regular service area along the Central Coast. The most direct routing runs south on Highway 1 through Oceano, keeping travel time practical for the Five Cities corridor. If you're calling from the western side of Grover Beach near the dunes, or from the neighborhoods closer to Grand Avenue, let us know your cross streets when you call, (805) 345-7440, so we can route the crew and equipment trailer efficiently.
 
 ## Insurance Coordination After a Grover Beach Fire
 
@@ -61,4 +61,4 @@ If your home is in an HOA community, some associations in the Five Cities area r
 
 Grover Beach's proximity to the Oceano Dunes means fine silica sand finds its way into everything, door tracks, window channels, and the gaps around exterior wall penetrations. After a fire, that sand mixes with wet soot and char debris into an abrasive slurry that can score hardwood floors and scratch tile during cleanup if crews aren't working with the right equipment and technique. It's a small detail that matters when the goal is saving as much of the original flooring as possible rather than replacing it.
 
-If your home or business in Grover Beach has sustained fire or smoke damage, call Coastal Restoration Services Inc at **(805) 345-7440**. The sooner the structure is stabilized and the soot removal process begins, the more of your property, and your contents, can be saved rather than replaced.
+If your home or business in Grover Beach has sustained fire or smoke damage, call Coastal Restoration at **(805) 345-7440**. The sooner the structure is stabilized and the soot removal process begins, the more of your property, and your contents, can be saved rather than replaced.

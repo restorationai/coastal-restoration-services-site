@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Vandenberg AFB, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Vandenberg AFB, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Vandenberg AFB"
 meta_description: "Emergency storm damage restoration in Vandenberg AFB, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration vandenberg afb"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Vandenberg AFB? Call now for emergency service.** Our crew responds fast to secure the property and stop further damage.
 
-Vandenberg AFB sits along one of California's most exposed stretches of coastline, where Pacific storm systems make landfall with little warning and even less mercy. The combination of salt-laden onshore winds, heavy seasonal rains, and the occasional atmospheric river event means that storm damage here isn't just about broken branches, it's about rooflines, saturated insulation, and water finding its way into structures that were built to military specification but weren't designed to shed a week's worth of rain in 48 hours. When a storm tears through the base and surrounding areas, Coastal Restoration Services Inc is based nearby in Vandenberg Village and ready to help you recover.
+Vandenberg AFB sits along one of California's most exposed stretches of coastline, where Pacific storm systems make landfall with little warning and even less mercy. The combination of salt-laden onshore winds, heavy seasonal rains, and the occasional atmospheric river event means that storm damage here isn't just about broken branches, it's about rooflines, saturated insulation, and water finding its way into structures that were built to military specification but weren't designed to shed a week's worth of rain in 48 hours. When a storm tears through the base and surrounding areas, Coastal Restoration is based nearby in Vandenberg Village and ready to help you recover.
 
 ## Why Vandenberg AFB Properties See Distinct Storm Damage Patterns
 
@@ -49,4 +49,4 @@ Our office in Vandenberg Village puts us close to the Highway 1 corridor that ru
 
 One thing that catches property owners off guard after heavy storms at Vandenberg AFB is subsurface water migration. The sandy coastal soils drain quickly on the surface, which can make it look like the ground has dried out within a day or two of a storm. But that same drainage characteristic means water moves laterally underground and can pool against foundation walls, crawl spaces, and slab edges in ways that don't show up until you're inside the structure smelling the musty aftermath. We probe crawl spaces and check foundation perimeters as a standard part of our post-storm assessment here, it's a step that's easy to skip but consistently reveals hidden moisture in this specific coastal environment.
 
-If your property at Vandenberg AFB took a hit in a recent storm, whether it's a compromised roof, a downed tree, water in the walls, or damage you haven't fully scoped yet, call Coastal Restoration Services Inc at (805) 345-7440. We know this coastline, we know how these storms behave, and we'll give you a straight assessment of what needs to happen and in what order.
+If your property at Vandenberg AFB took a hit in a recent storm, whether it's a compromised roof, a downed tree, water in the walls, or damage you haven't fully scoped yet, call Coastal Restoration at (805) 345-7440. We know this coastline, we know how these storms behave, and we'll give you a straight assessment of what needs to happen and in what order.

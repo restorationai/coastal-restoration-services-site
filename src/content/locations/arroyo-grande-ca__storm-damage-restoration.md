@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Arroyo Grande, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Arroyo Grande, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Arroyo Grande"
 meta_description: "Emergency storm damage restoration in Arroyo Grande, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration arroyo grande"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Arroyo Grande? Call now for emergency service.** Our crew responds fast to secure the property and stop further damage.
 
-Arroyo Grande sits in a narrow coastal valley where Pacific storm systems funnel off the ocean and stall against the Santa Lucia foothills, turning routine winter rain events into something more damaging than the forecast suggests. When a storm drops two inches of rain in three hours, not unusual here between November and March, the combination of saturated clay soils, aging drainage infrastructure, and the mix of mid-century ranch homes and newer hillside construction creates a specific kind of damage pattern: water pooling against foundations, wind-driven rain penetrating older wood-framed window assemblies, and debris from eucalyptus and pepper trees punching through rooflines. Coastal Restoration Services Inc responds to that pattern every season.
+Arroyo Grande sits in a narrow coastal valley where Pacific storm systems funnel off the ocean and stall against the Santa Lucia foothills, turning routine winter rain events into something more damaging than the forecast suggests. When a storm drops two inches of rain in three hours, not unusual here between November and March, the combination of saturated clay soils, aging drainage infrastructure, and the mix of mid-century ranch homes and newer hillside construction creates a specific kind of damage pattern: water pooling against foundations, wind-driven rain penetrating older wood-framed window assemblies, and debris from eucalyptus and pepper trees punching through rooflines. Coastal Restoration responds to that pattern every season.
 
 ## Why Arroyo Grande Properties See Concentrated Storm Damage
 
@@ -53,4 +53,4 @@ Storm damage claims on the Central Coast tend to involve a specific friction poi
 
 One pattern we see repeatedly in Arroyo Grande's valley-floor properties: homes with raised wood-frame floors and unvented or poorly vented crawl spaces accumulate storm moisture for weeks after the rain event ends. The clay soil retains water at grade level, vapor migrates upward into the crawl, and subfloor framing begins to show elevated moisture readings long after the homeowner assumes the storm damage is resolved. If your home was built before 1980 and sits on a pier-and-beam foundation, a post-storm crawl space inspection is worth scheduling even if you didn't see obvious interior water intrusion, what's happening six inches below your floor can determine whether you're dealing with a drying job now or a mold remediation job in three months.
 
-If a storm has left your Arroyo Grande home with a compromised roof, standing water in a crawl space, or structural damage from a fallen tree, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the damage, walk you through the documentation your insurance carrier needs, and get the work sequenced correctly so nothing is missed.
+If a storm has left your Arroyo Grande home with a compromised roof, standing water in a crawl space, or structural damage from a fallen tree, call Coastal Restoration at (805) 345-7440. We'll assess the damage, walk you through the documentation your insurance carrier needs, and get the work sequenced correctly so nothing is missed.

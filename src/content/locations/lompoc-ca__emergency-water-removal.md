@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in Lompoc, CA | Coastal Restoration Services Inc"
+title: "Emergency Water Removal & Cleanup in Lompoc, CA | Coastal Restoration"
 h1: "Emergency Water Removal & Cleanup in Lompoc"
 meta_description: "emergency water removal and cleanup in Lompoc, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency water removal lompoc"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Emergency Water Removal & Cleanup"
 rendered: true
 ---
-Lompoc sits in a coastal valley where marine layer moisture and clay-heavy soils create conditions that make water damage move faster and dry slower than in many inland California communities. When a supply line fails, a water heater lets go, or a storm pushes water through a foundation vent, getting the water out immediately becomes the priority. Coastal Restoration Services Inc responds to emergency water removal and cleanup calls in Lompoc with IICRC-certified technicians trained in rapid extraction and pumping, because in this climate, fast removal of standing water determines how much further damage a property will see.
+Lompoc sits in a coastal valley where marine layer moisture and clay-heavy soils create conditions that make water damage move faster and dry slower than in many inland California communities. When a supply line fails, a water heater lets go, or a storm pushes water through a foundation vent, getting the water out immediately becomes the priority. Coastal Restoration responds to emergency water removal and cleanup calls in Lompoc with IICRC-certified technicians trained in rapid extraction and pumping, because in this climate, fast removal of standing water determines how much further damage a property will see.
 
 ## Why Lompoc Properties See Water Damage Issues
 
@@ -36,7 +36,7 @@ Once the moisture map is complete, extraction and pumping begin. High-capacity t
 
 ## Reaching Lompoc from Santa Maria
 
-Coastal Restoration Services Inc is based in Santa Maria, and Lompoc is a regular service area for our crews. The primary route is Highway 1 north through Orcutt, connecting to Lompoc via the Highway 135 corridor into the city center. Depending on traffic and time of day, that drive runs roughly 30 to 40 minutes under normal conditions. For properties on the north end of the city near the Vandenberg perimeter roads, we route through Ocean Avenue to reach those addresses efficiently.
+Coastal Restoration is based in Santa Maria, and Lompoc is a regular service area for our crews. The primary route is Highway 1 north through Orcutt, connecting to Lompoc via the Highway 135 corridor into the city center. Depending on traffic and time of day, that drive runs roughly 30 to 40 minutes under normal conditions. For properties on the north end of the city near the Vandenberg perimeter roads, we route through Ocean Avenue to reach those addresses efficiently.
 
 When you call (805) 345-7440, our dispatch team will give you an honest arrival estimate based on current crew location and routing, not a number designed to win the call.
 

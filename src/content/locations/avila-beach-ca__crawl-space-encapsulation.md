@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Avila Beach, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Avila Beach, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Avila Beach"
 meta_description: "Crawl space encapsulation in Avila Beach, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation avila beach"
@@ -44,7 +44,7 @@ The result is a crawl space that behaves more like a conditioned basement than a
 
 ## Reaching Avila Beach from Our Vandenberg Village Location
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which puts Avila Beach within a straightforward drive down US-101 South and onto Avila Beach Drive. The route is direct, and we schedule Avila Beach appointments without the extended lead times that contractors based in Santa Barbara or the Bay Area typically require. For property managers overseeing multiple units in the area, that proximity matters when you're trying to coordinate access and minimize tenant disruption.
+Coastal Restoration operates out of Vandenberg Village, which puts Avila Beach within a straightforward drive down US-101 South and onto Avila Beach Drive. The route is direct, and we schedule Avila Beach appointments without the extended lead times that contractors based in Santa Barbara or the Bay Area typically require. For property managers overseeing multiple units in the area, that proximity matters when you're trying to coordinate access and minimize tenant disruption.
 
 If you're calling to schedule an inspection or get a quote, reach us at **(805) 345-7440**. We'll confirm availability and set a time that works with your schedule.
 
@@ -54,4 +54,4 @@ One pattern we've observed consistently in Avila Beach properties is that the cr
 
 If your home is on or near the Avila Beach waterfront and you haven't had a crawl space inspection in the last five years, the access hatch framing alone is worth a look before the next rainy season.
 
-Crawl space problems in Avila Beach don't announce themselves loudly, they show up as musty odors in the living room, floors that feel soft underfoot, or heating costs that don't match your neighbors'. If any of those sound familiar, call Coastal Restoration Services Inc at **(805) 345-7440** and let's take a look before the next marine layer season makes it worse.
+Crawl space problems in Avila Beach don't announce themselves loudly, they show up as musty odors in the living room, floors that feel soft underfoot, or heating costs that don't match your neighbors'. If any of those sound familiar, call Coastal Restoration at **(805) 345-7440** and let's take a look before the next marine layer season makes it worse.

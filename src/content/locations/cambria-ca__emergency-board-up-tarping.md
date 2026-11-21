@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Cambria, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Cambria, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Cambria"
 meta_description: "Emergency board-up and tarping in Cambria, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping cambria"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Cambria? Call now for emergency service.** Our crew responds fast to secure broken windows, doors and roofs.
 
-Cambria sits on a narrow coastal shelf where Pacific storms roll in fast, wildfire embers drift down from the Santa Lucia Range, and the salt air works on wood-framed structures year-round. When a broken window, a fire-damaged wall, or a storm-peeled roof section leaves your property exposed, every hour of delay compounds the loss, marine moisture finds open cavities quickly, and a structure that was stable at noon can have saturated insulation and swelling framing by nightfall. Coastal Restoration Services Inc responds to board-up and tarping calls throughout Cambria, securing properties before secondary damage takes hold.
+Cambria sits on a narrow coastal shelf where Pacific storms roll in fast, wildfire embers drift down from the Santa Lucia Range, and the salt air works on wood-framed structures year-round. When a broken window, a fire-damaged wall, or a storm-peeled roof section leaves your property exposed, every hour of delay compounds the loss, marine moisture finds open cavities quickly, and a structure that was stable at noon can have saturated insulation and swelling framing by nightfall. Coastal Restoration responds to board-up and tarping calls throughout Cambria, securing properties before secondary damage takes hold.
 
 ## Why Cambria Properties Are Especially Vulnerable After Structural Damage
 
@@ -55,4 +55,4 @@ If your property is part of a homeowners association, some Cambria HOAs have aes
 
 Cambria's proximity to the coast means the marine layer isn't just a weather condition, it's a material factor in how long temporary protection needs to hold. A tarp or board installation that would be adequate for two weeks in an inland climate may need reinforcement or replacement after one week here, because salt-laden fog cycles through daily, degrading adhesives, accelerating rust on exposed fasteners, and softening the surface fibers of uncoated plywood. When we install temporary protection in Cambria, we spec materials and fastener types for coastal exposure from the start, not as an afterthought.
 
-If your Cambria home or business has suffered storm damage, fire damage, or any breach that's left the structure open to the elements, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the situation, secure the property, and give you a clear picture of what comes next.
+If your Cambria home or business has suffered storm damage, fire damage, or any breach that's left the structure open to the elements, call Coastal Restoration at (805) 345-7440. We'll assess the situation, secure the property, and give you a clear picture of what comes next.

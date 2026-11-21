@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Los Osos, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Los Osos, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Los Osos"
 meta_description: "Post-construction and specialty cleaning in Los Osos, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning los osos"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Post-Construction and Specialty Cleaning"
 rendered: true
 ---
-Los Osos sits in a narrow coastal strip where marine air rolls in off Morro Bay nearly every afternoon, leaving a fine salt haze on freshly installed windows and a persistent dampness that can turn construction dust into a gritty paste on new surfaces before the last subcontractor has packed up. If you've just finished a remodel or new build in this community, whether it's a bungalow near the bay or a newer home farther inland, that combination of sea air, fine silica dust, and coastal humidity means a standard sweep-and-mop won't cut it. Coastal Restoration Services Inc handles the full scope of post-construction and specialty cleaning for Los Osos properties, from the rough clean through the final white-glove pass.
+Los Osos sits in a narrow coastal strip where marine air rolls in off Morro Bay nearly every afternoon, leaving a fine salt haze on freshly installed windows and a persistent dampness that can turn construction dust into a gritty paste on new surfaces before the last subcontractor has packed up. If you've just finished a remodel or new build in this community, whether it's a bungalow near the bay or a newer home farther inland, that combination of sea air, fine silica dust, and coastal humidity means a standard sweep-and-mop won't cut it. Coastal Restoration handles the full scope of post-construction and specialty cleaning for Los Osos properties, from the rough clean through the final white-glove pass.
 
 ## Why Los Osos Properties Present Unique Post-Construction Cleaning Challenges
 

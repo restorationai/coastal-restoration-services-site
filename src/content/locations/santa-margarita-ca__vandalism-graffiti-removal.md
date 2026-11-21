@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Graffiti Removal & Vandalism Cleanup in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Graffiti Removal & Vandalism Cleanup in Santa Margarita, CA | Coastal Restoration"
 h1: "Graffiti Removal & Vandalism Cleanup in Santa Margarita"
 meta_description: "Graffiti removal and vandalism cleanup in Santa Margarita, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "graffiti removal santa margarita"
@@ -46,4 +46,4 @@ Vandalism is a covered peril under most standard homeowners and commercial prope
 
 One thing that comes up specifically in Santa Margarita and the surrounding unincorporated areas of San Luis Obispo County: many properties here have older stucco applied over wood lath rather than modern cement board, a construction method common in California ranch homes built before the 1970s. When graffiti paint soaks into this type of stucco, aggressive chemical stripping or high-pressure washing can fracture the surface or pull it away from the lath underneath. We test a small inconspicuous area first and adjust the method accordingly, it takes a little longer, but it avoids turning a graffiti problem into a stucco repair problem.
 
-If your Santa Margarita property has been vandalized, whether it's spray paint on a fence line, smashed windows on a shop front along Highway 58, or more extensive property damage, call Coastal Restoration Services Inc at (805) 345-7440. We'll walk through what happened, explain the cleanup process clearly, and get your property back to the way it looked before.
+If your Santa Margarita property has been vandalized, whether it's spray paint on a fence line, smashed windows on a shop front along Highway 58, or more extensive property damage, call Coastal Restoration at (805) 345-7440. We'll walk through what happened, explain the cleanup process clearly, and get your property back to the way it looked before.

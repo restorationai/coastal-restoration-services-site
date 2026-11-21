@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Smoke Damage Restoration in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Emergency Smoke Damage Restoration in Santa Margarita, CA | Coastal Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Santa Margarita"
 meta_description: "24/7 emergency smoke damage restoration in Santa Margarita, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "smoke damage restoration santa margarita"

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in San Luis Obispo, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in San Luis Obispo"
 meta_description: "Post-construction and specialty cleaning in San Luis Obispo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning san luis obispo"
@@ -42,10 +42,10 @@ Specialty cleaning needs, post-sandblast cleanup, pressure-wash residue on exter
 
 ## Reaching San Luis Obispo from Vandenberg Village
 
-Coastal Restoration Services operates out of Vandenberg Village and runs crews regularly up the 101 corridor into San Luis Obispo. The drive is straightforward under normal conditions, and we schedule San Luis Obispo jobs to account for the Highway 101 congestion that builds around the Pismo Beach and Arroyo Grande interchange during morning and late-afternoon windows. For projects with strict contractor handover deadlines, we coordinate arrival times directly with the general contractor or property manager to make sure the cleaning crew isn't waiting in a parking lot while trades finish up, or worse, working around active finish work.
+Coastal Restoration operates out of Vandenberg Village and runs crews regularly up the 101 corridor into San Luis Obispo. The drive is straightforward under normal conditions, and we schedule San Luis Obispo jobs to account for the Highway 101 congestion that builds around the Pismo Beach and Arroyo Grande interchange during morning and late-afternoon windows. For projects with strict contractor handover deadlines, we coordinate arrival times directly with the general contractor or property manager to make sure the cleaning crew isn't waiting in a parking lot while trades finish up, or worse, working around active finish work.
 
 ## Local Note
 
 One thing that catches out-of-area cleaning crews on San Luis Obispo renovation projects: the city's older residential neighborhoods have a high proportion of homes with original single-pane wood-frame windows, and post-construction cleaning solvents that are safe on modern vinyl or aluminum frames can lift the paint or swell the wood on those originals. We identify window frame material during the initial walkthrough and select cleaning chemistry accordingly, it's a small detail that prevents a repair call after the job is supposedly done.
 
-If your project in San Luis Obispo is ready for final clean or needs specialty cleaning after a specific trade, call Coastal Restoration Services Inc at (805) 345-7440. We'll scope the work, give you a clear timeline, and make sure the space is genuinely ready for occupancy, not just swept.
+If your project in San Luis Obispo is ready for final clean or needs specialty cleaning after a specific trade, call Coastal Restoration at (805) 345-7440. We'll scope the work, give you a clear timeline, and make sure the space is genuinely ready for occupancy, not just swept.

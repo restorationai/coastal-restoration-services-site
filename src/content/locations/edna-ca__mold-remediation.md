@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Edna, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Edna, CA | Coastal Restoration"
 h1: "Mold Remediation in Edna"
 meta_description: "Mold remediation in Edna, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation edna"
@@ -36,7 +36,7 @@ Once the scope is defined, the affected area is sealed off with physical contain
 
 ## Reaching Edna from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which puts Edna within a straightforward drive south on US-101 and into the Santa Maria Valley. Scheduling is handled during business hours, call (805) 345-7440 to describe what you're seeing and get a prompt assessment appointment on the calendar. Because mold remediation scopes can vary widely depending on how long moisture has been present, an on-site evaluation is almost always the right first step before any work begins.
+Coastal Restoration operates out of Vandenberg Village, which puts Edna within a straightforward drive south on US-101 and into the Santa Maria Valley. Scheduling is handled during business hours, call (805) 345-7440 to describe what you're seeing and get a prompt assessment appointment on the calendar. Because mold remediation scopes can vary widely depending on how long moisture has been present, an on-site evaluation is almost always the right first step before any work begins.
 
 ## Edna Insurance Coordination
 
@@ -48,4 +48,4 @@ When you call us, we photograph and document the affected areas in detail from t
 
 One pattern that comes up repeatedly in Edna-area properties is mold that originates not from plumbing failures but from drip irrigation systems installed too close to foundation stem walls. The slow, consistent moisture from an emitter that's been slightly misdirected for a season or two can saturate the soil against a foundation, wick into the sill plate, and begin colonizing the bottom of a stud bay before there's any visible sign inside the home. If you're investigating a musty smell in a room that faces the yard and you haven't had any obvious plumbing issues, it's worth checking whether irrigation heads are directing water toward the foundation before assuming the problem is internal.
 
-Mold doesn't wait for a convenient time to become a problem. If something in your Edna home or property smells off or looks suspicious after any kind of moisture event, call Coastal Restoration Services Inc at **(805) 345-7440** to schedule an assessment. The earlier mold remediation begins, the smaller the scope, and the lower the cost.
+Mold doesn't wait for a convenient time to become a problem. If something in your Edna home or property smells off or looks suspicious after any kind of moisture event, call Coastal Restoration at **(805) 345-7440** to schedule an assessment. The earlier mold remediation begins, the smaller the scope, and the lower the cost.

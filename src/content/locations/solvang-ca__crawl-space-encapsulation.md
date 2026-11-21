@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Solvang, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Solvang, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Solvang"
 meta_description: "Crawl space encapsulation in Solvang, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation solvang"
@@ -52,4 +52,4 @@ For humidity control, we use commercial-grade dehumidifiers with automatic drain
 
 Solvang's older homes, particularly those on the west side of town closer to the Alisal area, were frequently built on raised foundations with very shallow crawl space clearances, sometimes as little as 18 inches. That tight access changes the labor calculus significantly: encapsulation in a low-clearance space takes longer, requires smaller equipment, and demands more attention to seam integrity because there's less room to work carefully. If you're getting quotes and one comes in dramatically lower than others, ask specifically how the contractor handles low-clearance access, it's a detail that separates thorough work from a rushed liner drop.
 
-For scheduling or a crawl space assessment, call Coastal Restoration Services Inc at (805) 345-7440. A proper encapsulation in Solvang's climate is a long-term investment in your floor structure, your indoor air quality, and the resale value of your home, and it starts with an honest look at what's actually happening beneath your feet.
+For scheduling or a crawl space assessment, call Coastal Restoration at (805) 345-7440. A proper encapsulation in Solvang's climate is a long-term investment in your floor structure, your indoor air quality, and the resale value of your home, and it starts with an honest look at what's actually happening beneath your feet.

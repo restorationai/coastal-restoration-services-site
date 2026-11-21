@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Vandenberg Village, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Vandenberg Village, CA | Coastal Restoration"
 h1: "Mold Remediation in Vandenberg Village"
 meta_description: "Mold remediation in Vandenberg Village, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation vandenberg village"
@@ -46,4 +46,4 @@ If your insurer requires a scope of work before approving remediation, we can pr
 
 One thing that comes up repeatedly in Vandenberg Village homes built during the 1970s development boom is the use of paper-faced fiberglass batt insulation inside exterior walls, a product that was standard at the time but acts like a sponge once moisture gets past the stucco. Unlike modern foam or mineral wool, this material cannot be dried in place once it's been saturated; it has to come out. Homeowners who've had a previous "water damage repair" that didn't include insulation removal sometimes discover mold years later when they renovate, because the original remediation left the wet insulation behind the drywall. If your home is from that era and you've had any past water event, it's worth having the wall cavities checked before assuming the problem was fully resolved.
 
-For questions about mold removal in Vandenberg Village or to schedule an assessment, call Coastal Restoration Services Inc at (805) 345-7440. The sooner mold containment begins, the smaller the remediation scope tends to be, and the lower the disruption to your home.
+For questions about mold removal in Vandenberg Village or to schedule an assessment, call Coastal Restoration at (805) 345-7440. The sooner mold containment begins, the smaller the remediation scope tends to be, and the lower the disruption to your home.

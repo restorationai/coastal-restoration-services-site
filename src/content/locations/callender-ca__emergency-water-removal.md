@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in Callender, CA | Coastal Restoration Services Inc"
+title: "Emergency Water Removal & Cleanup in Callender, CA | Coastal Restoration"
 h1: "Emergency Water Removal & Cleanup in Callender"
 meta_description: "emergency water removal and cleanup in Callender, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency water removal callender"
@@ -45,7 +45,7 @@ The first priority on any job is stopping the source. If a supply line is still 
 
 ## Reaching Callender from Santa Maria
 
-Coastal Restoration Services operates out of Santa Maria, and Callender is a meaningful drive north through the Central Valley corridor. We are straightforward about that geography: this is not a market where we can promise a crew at your door in under an hour. What we can do is dispatch promptly, communicate an honest arrival window when you call, and make sure the crew that arrives is properly equipped for the full scope of the job rather than making a preliminary visit and returning later with gear. Call (805) 345-7440 and we will give you a real estimate of when we can be on site.
+Coastal Restoration operates out of Santa Maria, and Callender is a meaningful drive north through the Central Valley corridor. We are straightforward about that geography: this is not a market where we can promise a crew at your door in under an hour. What we can do is dispatch promptly, communicate an honest arrival window when you call, and make sure the crew that arrives is properly equipped for the full scope of the job rather than making a preliminary visit and returning later with gear. Call (805) 345-7440 and we will give you a real estimate of when we can be on site.
 
 ## Working with Insurance on Callender Water Damage Claims
 

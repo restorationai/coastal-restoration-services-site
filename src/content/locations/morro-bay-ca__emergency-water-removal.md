@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Removal & Cleanup in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Emergency Water Removal & Cleanup in Morro Bay, CA | Coastal Restoration"
 h1: "Emergency Water Removal & Cleanup in Morro Bay"
 meta_description: "emergency water removal and cleanup in Morro Bay, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency water removal morro bay"

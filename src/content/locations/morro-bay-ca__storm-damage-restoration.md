@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Morro Bay, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Morro Bay"
 meta_description: "Emergency storm damage restoration in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration morro bay"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in Morro Bay? Call now for emergency service.** Our crew responds fast to secure the property and stop further damage.
 
-Morro Bay sits at the edge of the Pacific where marine weather systems don't just pass through, they stall, intensify, and unload. When a winter atmospheric river or a late-season Pacific storm makes landfall along this stretch of San Luis Obispo County coastline, the combination of saturated soils, salt-laden wind, and aging coastal building stock can turn a rough night into a serious structural event. Coastal Restoration Services Inc responds to storm damage calls throughout Morro Bay, bringing the equipment and experience needed to stabilize properties before secondary damage compounds the loss.
+Morro Bay sits at the edge of the Pacific where marine weather systems don't just pass through, they stall, intensify, and unload. When a winter atmospheric river or a late-season Pacific storm makes landfall along this stretch of San Luis Obispo County coastline, the combination of saturated soils, salt-laden wind, and aging coastal building stock can turn a rough night into a serious structural event. Coastal Restoration responds to storm damage calls throughout Morro Bay, bringing the equipment and experience needed to stabilize properties before secondary damage compounds the loss.
 
 ## Why Morro Bay Properties Are Vulnerable to Storm Damage
 
@@ -41,7 +41,7 @@ Debris removal, downed branches, displaced roofing material, damaged siding, is 
 
 ## Reaching Morro Bay from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Morro Bay is a regular service area along the Highway 1 corridor. The route north through San Luis Obispo and up the coast is straightforward, and our crews are familiar with the access patterns throughout Morro Bay's residential and commercial areas. If you're calling after a storm has affected your property, reach us at **(805) 345-7440** to schedule an assessment and get a crew dispatched.
+Coastal Restoration is based in Vandenberg Village, and Morro Bay is a regular service area along the Highway 1 corridor. The route north through San Luis Obispo and up the coast is straightforward, and our crews are familiar with the access patterns throughout Morro Bay's residential and commercial areas. If you're calling after a storm has affected your property, reach us at **(805) 345-7440** to schedule an assessment and get a crew dispatched.
 
 ## Morro Bay Insurance Coordination
 
@@ -53,4 +53,4 @@ If your property is part of a homeowners association, storm damage repairs to ex
 
 One pattern we see repeatedly in Morro Bay: homes within a few blocks of the back bay tend to have crawl spaces that retain moisture year-round due to the proximity to tidal influence and the area's marine fog. After a storm event drives additional water into those crawl spaces, the drying timeline is longer than it would be for an inland property, the baseline moisture content of the soil and framing is already elevated. We factor that into our drying protocols rather than applying a standard inland timeline, which would result in a job being closed out before the structure is actually dry.
 
-If your home or business in Morro Bay sustained damage from a recent storm, whether it's a compromised roof, a downed tree, water intrusion, or wind-damaged siding, call Coastal Restoration Services Inc at **(805) 345-7440**. The sooner a crew can assess and stabilize the property, the smaller the gap between what the storm caused and what you'll need to repair.
+If your home or business in Morro Bay sustained damage from a recent storm, whether it's a compromised roof, a downed tree, water intrusion, or wind-damaged siding, call Coastal Restoration at **(805) 345-7440**. The sooner a crew can assess and stabilize the property, the smaller the gap between what the storm caused and what you'll need to repair.

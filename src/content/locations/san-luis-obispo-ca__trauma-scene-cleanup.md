@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Trauma Scene Cleanup in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Trauma Scene Cleanup in San Luis Obispo, CA | Coastal Restoration"
 h1: "24/7 Emergency Trauma Scene Cleanup in San Luis Obispo"
 meta_description: "24/7 emergency trauma scene cleanup in San Luis Obispo, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "trauma scene cleanup san luis obispo"
@@ -24,7 +24,7 @@ rendered: true
 <!-- emergency-open -->
 **Need biohazard or trauma cleanup in San Luis Obispo? We answer 24/7.** Call now and our crew heads out to handle the cleanup with discretion and care.
 
-**Trauma scene cleanup in San Luis Obispo is not something anyone plans for, and it is not something that should wait.** Whether the incident happened in a downtown apartment, a hillside home off one of the canyon roads, or a rental near Cal Poly, the priority is the same: a discreet, thorough response that restores the space and protects the people who still have to live or work there. Coastal Restoration Services Inc handles this work with the same clinical care whether the property is a century-old bungalow near the historic core or a newer build on the city's edge.
+**Trauma scene cleanup in San Luis Obispo is not something anyone plans for, and it is not something that should wait.** Whether the incident happened in a downtown apartment, a hillside home off one of the canyon roads, or a rental near Cal Poly, the priority is the same: a discreet, thorough response that restores the space and protects the people who still have to live or work there. Coastal Restoration handles this work with the same clinical care whether the property is a century-old bungalow near the historic core or a newer build on the city's edge.
 
 ## Why San Luis Obispo Properties Call for Specialized Trauma Cleanup
 
@@ -46,4 +46,4 @@ Most trauma cleanup claims in San Luis Obispo move through homeowners insurance,
 
 One detail that matters in San Luis Obispo specifically: many of the city's older multi-unit buildings, especially converted single-family homes near downtown, share crawl spaces or subfloor systems between units. If contamination has reached the subfloor, we check adjoining units as part of the assessment, even when the incident was confined to a single space, because fluids can travel further than the visible floor area suggests.
 
-If you are facing a trauma scene cleanup in San Luis Obispo, you do not need to manage it alone or attempt it yourself. Call Coastal Restoration Services Inc at (805) 345-7440. We answer 24/7, and our licensed, IICRC certified team will walk you through what happens next before a single step of the work begins.
+If you are facing a trauma scene cleanup in San Luis Obispo, you do not need to manage it alone or attempt it yourself. Call Coastal Restoration at (805) 345-7440. We answer 24/7, and our licensed, IICRC certified team will walk you through what happens next before a single step of the work begins.

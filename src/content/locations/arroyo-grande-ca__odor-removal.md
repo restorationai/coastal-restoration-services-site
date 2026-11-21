@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Arroyo Grande, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Arroyo Grande, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Arroyo Grande"
 meta_description: "Odor removal and deodorization in Arroyo Grande, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization arroyo grande"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Arroyo Grande sits in a coastal microclimate where marine layer mornings give way to warm afternoons, a daily humidity swing that causes odor molecules to reactivate long after the original source is gone. A house fire in the Village, a sewage backup near Brisco Road, or years of pet odors trapped in a 1960s ranch home on the east side of town can all leave smells that surface cleaning simply cannot reach. Coastal Restoration Services Inc brings industrial-grade deodorization equipment and IICRC-certified technicians to Arroyo Grande properties when the smell itself has become the problem.
+Arroyo Grande sits in a coastal microclimate where marine layer mornings give way to warm afternoons, a daily humidity swing that causes odor molecules to reactivate long after the original source is gone. A house fire in the Village, a sewage backup near Brisco Road, or years of pet odors trapped in a 1960s ranch home on the east side of town can all leave smells that surface cleaning simply cannot reach. Coastal Restoration brings industrial-grade deodorization equipment and IICRC-certified technicians to Arroyo Grande properties when the smell itself has become the problem.
 
 ## Why Arroyo Grande Properties Hold Odors Longer
 
@@ -55,4 +55,4 @@ All deodorization work is documented with before-and-after readings where applic
 
 Older homes in Arroyo Grande, particularly those built in the 1950s through 1970s in the neighborhoods flanking Fair Oaks Avenue and the areas east of Highway 101, frequently have original cellulose insulation in the attic. Cellulose is highly absorbent and will hold smoke and biological odors for years, even after the rest of the home has been cleaned. Homeowners are often surprised when a smell returns months after a DIY cleanup; in most of those cases, the attic insulation was never addressed. We inspect attic assemblies as part of any whole-home odor assessment, and when contaminated cellulose is the culprit, we coordinate removal and replacement as part of the remediation scope.
 
-If your Arroyo Grande home or commercial property has a smell that has outlasted every cleaning attempt, call Coastal Restoration Services Inc at **(805) 345-7440**. We will assess the source, explain the appropriate treatment method, and give you a written scope before any work begins.
+If your Arroyo Grande home or commercial property has a smell that has outlasted every cleaning attempt, call Coastal Restoration at **(805) 345-7440**. We will assess the source, explain the appropriate treatment method, and give you a written scope before any work begins.

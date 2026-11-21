@@ -37,7 +37,7 @@ Most emergency water removal jobs in Santa Barbara County run between $350 and $
 | Crawl space or basement standing water | $1,000 - $3,500 |
 | Structural drying add-on (air movers, dehumidifiers, per day) | $150 - $450/day |
 
-These are typical industry figures for the region, not a quote. Every loss is different, and [Coastal Restoration Services Inc](/) provides a written scope before any work begins so you know the number before equipment goes in.
+These are typical industry figures for the region, not a quote. Every loss is different, and [Coastal Restoration](/) provides a written scope before any work begins so you know the number before equipment goes in.
 
 ## What Factors Drive the Cost of Emergency Water Removal?
 
@@ -74,12 +74,12 @@ This is the same framework laid out in our [step-by-step water damage restoratio
 
 If water is actively pooling, shut off the source if you can safely reach it, move anything you can lift off the floor, and avoid running a shop vac on more than an inch or two of water. Call for extraction before the water has a chance to wick into drywall and flooring, since every hour it sits adds to the drying cost later.
 
-If you're in Santa Maria, Orcutt, Vandenberg Village, or anywhere else in Santa Barbara County, [call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) for a water damage assessment and a written scope before anything gets torn out. Our [emergency water removal page](/services/emergency-water-removal/) has more on what the first visit covers, and the [flood damage restoration](/services/flood-damage-restoration/) and [water damage restoration](/services/water-damage-restoration/) pages cover what happens after extraction, when drying and repairs begin.
+If you're in Santa Maria, Orcutt, Vandenberg Village, or anywhere else in Santa Barbara County, [call Coastal Restoration at (805) 345-7440](tel:+18053457440) for a water damage assessment and a written scope before anything gets torn out. Our [emergency water removal page](/services/emergency-water-removal/) has more on what the first visit covers, and the [flood damage restoration](/services/flood-damage-restoration/) and [water damage restoration](/services/water-damage-restoration/) pages cover what happens after extraction, when drying and repairs begin.
 
 A flooded room is stressful, but the cost is rarely as unpredictable as it feels once someone actually measures the water category and the square footage affected. Get that scope in writing before you agree to anything, and keep your insurance adjuster in the loop once mitigation starts.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm (CSLB license #11245226) serving Santa Maria and the surrounding Central Coast, including Orcutt, Lompoc, Santa Ynez, and Arroyo Grande. Their technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials and handle water damage, flood response, mold remediation, fire and smoke cleanup, sewage removal, and crawl space encapsulation across the region, answering the phone 24/7.
+Coastal Restoration is an IICRC Certified Firm (CSLB license #11245226) serving Santa Maria and the surrounding Central Coast, including Orcutt, Lompoc, Santa Ynez, and Arroyo Grande. Their technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials and handle water damage, flood response, mold remediation, fire and smoke cleanup, sewage removal, and crawl space encapsulation across the region, answering the phone 24/7.

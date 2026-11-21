@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Los Osos, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Los Osos, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Los Osos"
 meta_description: "Odor removal and deodorization in Los Osos, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization los osos"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Los Osos sits in a coastal fog belt where marine air rolls in off Morro Bay almost every morning, keeping humidity elevated for hours before it burns off, and that persistent dampness does something insidious to odors. Whether it's smoke residue from a kitchen fire, the sour smell of a slow slab leak that went unnoticed for weeks, or mildew that crept into wall cavities during the rainy season, moisture-saturated air causes odor molecules to bind deeper into porous materials. Standard masking sprays don't touch it. Coastal Restoration Services Inc brings professional-grade deodorization equipment and a structured process to Los Osos properties, so the smell is actually eliminated rather than temporarily covered.
+Los Osos sits in a coastal fog belt where marine air rolls in off Morro Bay almost every morning, keeping humidity elevated for hours before it burns off, and that persistent dampness does something insidious to odors. Whether it's smoke residue from a kitchen fire, the sour smell of a slow slab leak that went unnoticed for weeks, or mildew that crept into wall cavities during the rainy season, moisture-saturated air causes odor molecules to bind deeper into porous materials. Standard masking sprays don't touch it. Coastal Restoration brings professional-grade deodorization equipment and a structured process to Los Osos properties, so the smell is actually eliminated rather than temporarily covered.
 
 ## Why Los Osos Properties See Persistent Odor Problems
 
@@ -48,10 +48,10 @@ For HVAC systems, a common odor distribution pathway in homes throughout Los Oso
 
 ## Reaching Los Osos from Santa Maria
 
-Coastal Restoration Services Inc is based in Santa Maria and reaches Los Osos via Los Osos Valley Road off Highway 101, a route the crew knows well from regular service calls along the San Luis Obispo County coast. Scheduling is handled by phone at (805) 345-7440, and the team coordinates arrival windows directly with property owners so there's no ambiguity about when equipment is showing up.
+Coastal Restoration is based in Santa Maria and reaches Los Osos via Los Osos Valley Road off Highway 101, a route the crew knows well from regular service calls along the San Luis Obispo County coast. Scheduling is handled by phone at (805) 345-7440, and the team coordinates arrival windows directly with property owners so there's no ambiguity about when equipment is showing up.
 
 ## Local Note
 
 One thing that catches property owners off guard in Los Osos: homes built on the valley floor in the 1960s and 1970s often have original forced-air furnaces with duct systems that run through unconditioned crawlspaces. When a smoke or sewage event happens, those ducts pull odor-laden air from the crawlspace and distribute it through every room every time the heat runs. We check crawlspace duct integrity on every odor job here, it's a detail that gets missed when a crew isn't familiar with the local housing stock, and it's one of the most common reasons a deodorization job seems complete until the furnace kicks on.
 
-If your Los Osos property has a persistent odor that hasn't responded to cleaning or store-bought treatments, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll assess the source, explain which deodorization methods apply to your specific situation, and give you a clear picture of what the process looks like before any work begins.
+If your Los Osos property has a persistent odor that hasn't responded to cleaning or store-bought treatments, call Coastal Restoration at **(805) 345-7440**. We'll assess the source, explain which deodorization methods apply to your specific situation, and give you a clear picture of what the process looks like before any work begins.

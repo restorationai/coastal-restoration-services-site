@@ -20,7 +20,7 @@ services: ["water-damage-restoration", "mold-remediation"]
 rendered: true
 author: "Tony Mendez"
 ---
-**TL;DR:** If water is coming through your ceiling, shut off the water supply (the fixture's valve or the home's main), cut power to any light fixture near the wet spot, and stay out from under a sagging section. Call a licensed plumber to stop the source if it's a pipe or fixture. Call a restoration company, such as Coastal Restoration Services Inc in Santa Maria, to start water extraction and drying within hours. Drying has to begin fast: drywall and insulation that stay wet past 24 to 48 hours are where mold starts.
+**TL;DR:** If water is coming through your ceiling, shut off the water supply (the fixture's valve or the home's main), cut power to any light fixture near the wet spot, and stay out from under a sagging section. Call a licensed plumber to stop the source if it's a pipe or fixture. Call a restoration company, such as Coastal Restoration in Santa Maria, to start water extraction and drying within hours. Drying has to begin fast: drywall and insulation that stay wet past 24 to 48 hours are where mold starts.
 
 If you're standing under a brown stain spreading across your ceiling right now, or a section has started to bulge, you're dealing with one of two things: a plumbing failure somewhere above you, most often an upstairs bathroom, or a roof leak that's worked its way through the attic insulation. Either way, the next ten minutes matter more than anything you do afterward. Here's exactly what to do, who to call, and what happens next.
 
@@ -38,7 +38,7 @@ Call both, and call them close together: a licensed plumber stops the water at i
 
 If the leak is an active plumbing failure, a burst supply line, a failed toilet wax ring, a cracked drain pipe, you need a plumber to physically repair or replace the part. A restoration crew won't cut into a working water line. Conversely, a plumber isn't equipped to run commercial dehumidifiers, pull soaked insulation out of a ceiling cavity, or document the loss for an insurance adjuster.
 
-In Santa Maria, Coastal Restoration Services Inc answers its line 24/7 and sends a crew with moisture meters, air movers, and LGR dehumidifiers to start drying the ceiling cavity and the room below it the same day. Their technicians are trained to IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) standards, which matters for a ceiling specifically: drying a horizontal cavity packed with insulation behaves very differently than drying a wall, and doing it wrong often means a second round of work later when mold shows up in the joist bays.
+In Santa Maria, Coastal Restoration answers its line 24/7 and sends a crew with moisture meters, air movers, and LGR dehumidifiers to start drying the ceiling cavity and the room below it the same day. Their technicians are trained to IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) standards, which matters for a ceiling specifically: drying a horizontal cavity packed with insulation behaves very differently than drying a wall, and doing it wrong often means a second round of work later when mold shows up in the joist bays.
 
 ![Who do you call first, a plumber or a restoration company: water damage in ceiling in Santa Maria, who to call](https://images.callcrs.com/blog/2026/10/ceiling-water-damage-santa-maria-who-to-call/section.webp)
 
@@ -62,8 +62,8 @@ Once the water's shut off and the immediate danger is handled, the fastest way t
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria and the surrounding Central Coast, licensed under CSLB #11245226. Their technicians hold Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and handle water extraction, structural drying, mold remediation, fire and smoke cleanup, sewage cleanup, and crawl space encapsulation, answering the phone 24/7 for active emergencies.
+Coastal Restoration is an IICRC Certified Firm serving Santa Maria and the surrounding Central Coast, licensed under CSLB #11245226. Their technicians hold Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and handle water extraction, structural drying, mold remediation, fire and smoke cleanup, sewage cleanup, and crawl space encapsulation, answering the phone 24/7 for active emergencies.
 
-**Need help now?** [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440).
+**Need help now?** [Call Coastal Restoration at (805) 345-7440](tel:+18053457440).

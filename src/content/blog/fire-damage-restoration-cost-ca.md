@@ -78,12 +78,12 @@ For a full walkthrough of each phase, see our guide to [the fire damage restorat
 
 Wait for the fire department to formally clear the structure before re-entering, then call your insurance company and a restoration company the same day to get board-up service started before weather or secondary damage sets in. Coastal fog common across the Santa Maria Valley adds humidity that can push smoke odor deeper into drywall and insulation if a damaged structure sits open overnight, so speed matters here more than in drier inland climates.
 
-Homeowners from Orcutt to Vandenberg Village deal with a mix of older wood-frame homes and newer stucco construction, and both absorb smoke differently, which is exactly why a written scope matters before any demolition starts. [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) for a same-day assessment and a documented scope before any cleanup begins.
+Homeowners from Orcutt to Vandenberg Village deal with a mix of older wood-frame homes and newer stucco construction, and both absorb smoke differently, which is exactly why a written scope matters before any demolition starts. [Call Coastal Restoration at (805) 345-7440](tel:+18053457440) for a same-day assessment and a documented scope before any cleanup begins.
 
 A fire loss is never just the burned room. Getting the smoke, soot, and water addressed together, on one documented timeline, is what keeps a six-figure rebuild from happening when a $10,000 cleanup would have done the job.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria and the surrounding Central Coast, holding California contractor license #11245226. Their technicians carry WRT and ASD certifications and handle fire and smoke cleanup, contents restoration and storage, odor removal, emergency board-up and tarping, water damage restoration, mold remediation, and related services across the region, answering calls 24/7.
+Coastal Restoration is an IICRC Certified Firm serving Santa Maria and the surrounding Central Coast, holding California contractor license #11245226. Their technicians carry WRT and ASD certifications and handle fire and smoke cleanup, contents restoration and storage, odor removal, emergency board-up and tarping, water damage restoration, mold remediation, and related services across the region, answering calls 24/7.

@@ -80,10 +80,10 @@ This split matters for two reasons. First, mitigation needs to start within hour
 
 A company that handles both phases under one scope, rather than handing the rebuild off to a separate general contractor, typically keeps the two numbers aligned and the claim moving faster.
 
-If a fire just happened in Santa Maria, Orcutt, or anywhere near the Santa Maria Valley, getting a documented scope of damage within the first 24 to 48 hours is what keeps both the cleanup and the claim on track. [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) for an on-site assessment, or [request an estimate](/contact/) if the fire department has already cleared the property.
+If a fire just happened in Santa Maria, Orcutt, or anywhere near the Santa Maria Valley, getting a documented scope of damage within the first 24 to 48 hours is what keeps both the cleanup and the claim on track. [Call Coastal Restoration at (805) 345-7440](tel:+18053457440) for an on-site assessment, or [request an estimate](/contact/) if the fire department has already cleared the property.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm based in Santa Maria, CA (CSLB license #11245226), holding Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications. The company answers calls 24/7 and handles fire and smoke damage restoration, odor removal, contents restoration, water damage restoration, and related services across Santa Maria, Orcutt, Lompoc, and the surrounding Central Coast. This post was written with the Coastal Restoration Services Inc team, led by Tony Mendez.
+Coastal Restoration is an IICRC Certified Firm based in Santa Maria, CA (CSLB license #11245226), holding Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications. The company answers calls 24/7 and handles fire and smoke damage restoration, odor removal, contents restoration, water damage restoration, and related services across Santa Maria, Orcutt, Lompoc, and the surrounding Central Coast. This post was written with the Coastal Restoration team, led by Tony Mendez.

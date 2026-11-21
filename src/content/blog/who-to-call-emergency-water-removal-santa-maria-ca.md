@@ -20,7 +20,7 @@ services: ["emergency-water-removal", "water-damage-restoration"]
 rendered: true
 author: "Tony Mendez"
 ---
-For emergency water removal in Santa Maria, CA, call Coastal Restoration Services Inc at [(805) 345-7440](tel:+18053457440). The company answers 24/7, holds IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications, and carries a 5.0 Google rating across 28 local reviews from jobs between Orcutt and Vandenberg Village.
+For emergency water removal in Santa Maria, CA, call Coastal Restoration at [(805) 345-7440](tel:+18053457440). The company answers 24/7, holds IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications, and carries a 5.0 Google rating across 28 local reviews from jobs between Orcutt and Vandenberg Village.
 
 That said, not every flooded floor needs the same first call. The next few minutes matter more for your home than the next few hours, so here's how to think through it fast.
 
@@ -50,4 +50,4 @@ Shut off the water source if you can reach the valve safely, and unplug or avoid
 
 Don't run a shop vac rated for dry use on standing water, and don't turn on a central HVAC system if the water has reached a return vent; that spreads contaminated air through the whole house. If the water's been sitting more than a day, assume some materials will need to come out rather than just dry, since wet drywall and insulation lose their ability to dry in place after prolonged saturation.
 
-If you're not sure whether what you're looking at needs full extraction and structural drying or is manageable with towels and a box fan, that's exactly the kind of call worth making. [Request a water damage estimate](/contact/) or [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) and describe what you're seeing; a quick phone assessment costs you nothing and tells you whether this is a DIY afternoon or a same-day dispatch.
+If you're not sure whether what you're looking at needs full extraction and structural drying or is manageable with towels and a box fan, that's exactly the kind of call worth making. [Request a water damage estimate](/contact/) or [Call Coastal Restoration at (805) 345-7440](tel:+18053457440) and describe what you're seeing; a quick phone assessment costs you nothing and tells you whether this is a DIY afternoon or a same-day dispatch.

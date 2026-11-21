@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Lompoc, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Lompoc, CA | Coastal Restoration"
 h1: "Mold Remediation in Lompoc"
 meta_description: "Mold remediation in Lompoc, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation lompoc"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Mold Remediation"
 rendered: true
 ---
-Lompoc sits in a coastal valley where marine layer fog rolls in from the Pacific most mornings and lingers well into the afternoon, keeping indoor humidity elevated for hours at a stretch. That persistent dampness, combined with the region's older housing stock and the temperature swings between cool nights and warm afternoons, creates exactly the conditions mold needs to take hold inside walls, under subfloors, and behind bathroom tile. If you've noticed a musty odor, discoloration on drywall, or a recent water intrusion that wasn't fully dried out, mold colonization can begin within 24 to 48 hours of moisture exposure. Coastal Restoration Services Inc, based in nearby Vandenberg Village, handles mold remediation throughout Lompoc and the surrounding Santa Barbara County area.
+Lompoc sits in a coastal valley where marine layer fog rolls in from the Pacific most mornings and lingers well into the afternoon, keeping indoor humidity elevated for hours at a stretch. That persistent dampness, combined with the region's older housing stock and the temperature swings between cool nights and warm afternoons, creates exactly the conditions mold needs to take hold inside walls, under subfloors, and behind bathroom tile. If you've noticed a musty odor, discoloration on drywall, or a recent water intrusion that wasn't fully dried out, mold colonization can begin within 24 to 48 hours of moisture exposure. Coastal Restoration, based in nearby Vandenberg Village, handles mold remediation throughout Lompoc and the surrounding Santa Barbara County area.
 
 ## Why Lompoc Properties See Mold Issues
 
@@ -38,7 +38,7 @@ Drying comes next. We deploy commercial-grade dehumidifiers and air movers calib
 
 ## Reaching Lompoc from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which places us just a short drive from Lompoc via Highway 1 and the Santa Rosa Road corridor. That proximity matters when a slow leak has been running inside a wall or a crawlspace inspection turns up active mold growth, the sooner containment is established, the less material typically needs to be removed.
+Coastal Restoration operates out of Vandenberg Village, which places us just a short drive from Lompoc via Highway 1 and the Santa Rosa Road corridor. That proximity matters when a slow leak has been running inside a wall or a crawlspace inspection turns up active mold growth, the sooner containment is established, the less material typically needs to be removed.
 
 We serve all areas of Lompoc, including properties near the historic downtown corridor along Ocean Avenue and residential neighborhoods on the city's north and south sides. For scheduling and availability, call (805) 345-7440 during business hours and a project coordinator will assess your situation and arrange an inspection.
 
@@ -52,4 +52,4 @@ If your carrier requires a third-party industrial hygienist report or post-remed
 
 One pattern we see repeatedly in Lompoc's older residential neighborhoods: homes with original hardwood floors laid over a dirt crawlspace often show mold on the underside of the subfloor long before the hardwood itself shows any visible damage. Because the finished floor looks fine, homeowners assume the crawlspace is fine too. In Lompoc's climate, where ground moisture is elevated much of the year, it's worth having the crawlspace inspected any time a musty odor appears, even if every surface inside the house looks clean and dry.
 
-If you're dealing with visible mold growth, an unexplained smell, or a recent water event that may not have dried completely, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the situation in Lompoc, explain exactly what we find, and walk you through the remediation process before any work begins.
+If you're dealing with visible mold growth, an unexplained smell, or a recent water event that may not have dried completely, call Coastal Restoration at (805) 345-7440. We'll assess the situation in Lompoc, explain exactly what we find, and walk you through the remediation process before any work begins.

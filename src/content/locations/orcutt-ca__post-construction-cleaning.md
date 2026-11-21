@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Orcutt, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Orcutt, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Orcutt"
 meta_description: "Post-construction and specialty cleaning in Orcutt, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning orcutt"
@@ -50,4 +50,4 @@ For window glass with construction adhesive or paint overspray, a controlled scr
 
 One thing that comes up repeatedly on Orcutt jobs: newer tract homes built in the last decade often have whole-house fan systems designed for the valley's warm evenings. Contractors frequently leave these fans running during the build to ventilate, which is practical, but it pulls construction dust directly into the attic space and can coat the fan blades and housing. If your build or renovation used the whole-house fan during construction, it's worth having the housing cleaned and the attic access point inspected before you run the system regularly. It's a small item that gets missed on standard post-construction punch lists.
 
-If your Orcutt property is ready for a final clean or you're coordinating a specialty cleaning scope around a renovation, call Coastal Restoration Services Inc at (805) 345-7440. The team works out of Vandenberg Village and covers Orcutt and the surrounding Santa Maria Valley, bring them in before you schedule your final walkthrough.
+If your Orcutt property is ready for a final clean or you're coordinating a specialty cleaning scope around a renovation, call Coastal Restoration at (805) 345-7440. The team works out of Vandenberg Village and covers Orcutt and the surrounding Santa Maria Valley, bring them in before you schedule your final walkthrough.

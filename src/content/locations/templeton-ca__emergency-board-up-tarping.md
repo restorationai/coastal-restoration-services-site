@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Templeton, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Templeton, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Templeton"
 meta_description: "Emergency board-up and tarping in Templeton, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping templeton"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Templeton? Call now for emergency service.** Our crew responds fast to secure broken windows, doors and roofs.
 
-Templeton sits in a narrow corridor of San Luis Obispo County where dry, grassy hillsides meet oak-studded ranchland, and the same Santa Ana-adjacent wind events that push embers across Paso Robles can strip shingles off an older farmhouse or drive a branch through a window before a homeowner has time to react. When that happens, the gap between the damage and the repair is the most dangerous window of all, rain, wildlife, and opportunistic theft can turn a manageable loss into a gut-renovation. Coastal Restoration Services Inc responds to those calls, securing Templeton properties with structural board-up and heavy-duty roof tarping until permanent repairs can begin.
+Templeton sits in a narrow corridor of San Luis Obispo County where dry, grassy hillsides meet oak-studded ranchland, and the same Santa Ana-adjacent wind events that push embers across Paso Robles can strip shingles off an older farmhouse or drive a branch through a window before a homeowner has time to react. When that happens, the gap between the damage and the repair is the most dangerous window of all, rain, wildlife, and opportunistic theft can turn a manageable loss into a gut-renovation. Coastal Restoration responds to those calls, securing Templeton properties with structural board-up and heavy-duty roof tarping until permanent repairs can begin.
 
 ## Why Templeton Properties Are Especially Vulnerable After a Loss
 
@@ -39,7 +39,7 @@ For roof damage, we use reinforced polyethylene tarps rated for UV exposure and 
 
 ## Reaching Templeton from Our Base
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, roughly 45 miles south of Templeton via Highway 101. That route is straightforward in normal conditions, a direct freeway run up the coast and into the Salinas River valley. We stage equipment in a fully stocked service vehicle, so there's no warehouse stop between dispatch and arrival. When you call (805) 345-7440, you'll speak with someone who can confirm scheduling and give you a realistic arrival window based on current conditions and crew availability.
+Coastal Restoration operates out of Vandenberg Village, roughly 45 miles south of Templeton via Highway 101. That route is straightforward in normal conditions, a direct freeway run up the coast and into the Salinas River valley. We stage equipment in a fully stocked service vehicle, so there's no warehouse stop between dispatch and arrival. When you call (805) 345-7440, you'll speak with someone who can confirm scheduling and give you a realistic arrival window based on current conditions and crew availability.
 
 ## Working with Insurance After a Templeton Loss
 
@@ -49,4 +49,4 @@ Most homeowners' policies in California cover emergency protective measures, boa
 
 One thing that catches homeowners off guard in the Templeton area: many of the older ranch properties here have detached garages, barns, or equipment sheds with corrugated metal roofing that was never fastened to modern wind-uplift standards. After a wind event, that metal can peel back and create a secondary hazard, sharp edges, exposed fasteners, and gaps that funnel water directly into a structure's framing. We carry tin snips, roofing screws, and metal-compatible tarp hardware specifically because standard plywood board-up techniques don't apply to corrugated metal assemblies. If your property has outbuildings, mention it when you call so we bring the right materials on the first trip.
 
-If a storm, fire, or accident has left your Templeton home or commercial property exposed, the right move is to secure it now and sort out the repair timeline later. Call Coastal Restoration Services Inc at **(805) 345-7440** to schedule emergency board-up and tarping, we'll document everything your insurer needs and leave the structure stable until your contractor is ready to begin.
+If a storm, fire, or accident has left your Templeton home or commercial property exposed, the right move is to secure it now and sort out the repair timeline later. Call Coastal Restoration at **(805) 345-7440** to schedule emergency board-up and tarping, we'll document everything your insurer needs and leave the structure stable until your contractor is ready to begin.

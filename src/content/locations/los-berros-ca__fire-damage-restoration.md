@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Los Berros, CA | Coastal Restoration Services Inc"
+title: "Emergency Fire Damage Restoration in Los Berros, CA | Coastal Restoration"
 h1: "Emergency Fire Damage Restoration in Los Berros"
 meta_description: "Emergency fire damage restoration in Los Berros, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "fire damage restoration los berros"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Fire damage emergency in Los Berros? Call now for emergency service.** Our crew responds fast to secure the property and start the recovery.
 
-Fire moves fast in the dry chaparral-edged terrain around Los Berros. When a kitchen fire or electrical fault scorches a home here, the low humidity that defines San Luis Obispo County's inland pockets doesn't just feed the initial burn, it also pulls smoke residue deeper into porous building materials before the fire department has finished rolling hose. Coastal Restoration Services Inc responds to fire and smoke damage in the Los Berros area, working from our base in Vandenberg Village to help homeowners move from crisis to a livable home again.
+Fire moves fast in the dry chaparral-edged terrain around Los Berros. When a kitchen fire or electrical fault scorches a home here, the low humidity that defines San Luis Obispo County's inland pockets doesn't just feed the initial burn, it also pulls smoke residue deeper into porous building materials before the fire department has finished rolling hose. Coastal Restoration responds to fire and smoke damage in the Los Berros area, working from our base in Vandenberg Village to help homeowners move from crisis to a livable home again.
 
 ## Why Los Berros Properties Face Particular Fire Damage Challenges
 
@@ -55,4 +55,4 @@ Fire losses in rural San Luis Obispo County often involve insurers who classify 
 
 One pattern we've observed in the Los Berros area: homes with wood-burning stoves or pellet stoves that were added as secondary heat sources, common in properties that predate central HVAC, often have informal chimney penetrations through interior walls that were never properly fire-blocked. When a fire occurs elsewhere in the home, these unblocked cavities act as smoke highways into wall assemblies that look clean from the surface. Opening those walls during the scope phase, rather than discovering the hidden soot months later when odor returns, is something we specifically check for on properties in this part of San Luis Obispo County.
 
-If your home in Los Berros has sustained fire or smoke damage, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll assess the full extent of the damage, visible and hidden, and walk you through a clear restoration plan so you understand every step before work begins.
+If your home in Los Berros has sustained fire or smoke damage, call Coastal Restoration at **(805) 345-7440**. We'll assess the full extent of the damage, visible and hidden, and walk you through a clear restoration plan so you understand every step before work begins.

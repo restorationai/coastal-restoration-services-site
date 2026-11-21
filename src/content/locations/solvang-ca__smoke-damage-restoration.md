@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Solvang, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Smoke Damage Restoration in Solvang, CA | Coastal Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Solvang"
 meta_description: "24/7 emergency smoke damage restoration in Solvang, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "smoke damage restoration solvang"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-**Smoke damage emergency in Solvang?** Call Coastal Restoration Services Inc at (805) 345-7440 any time, day or night, and we'll get a crew moving toward the Santa Ynez Valley right away. Smoke doesn't wait for business hours, and neither do we. Whether the source was a kitchen fire inside one of Solvang's Danish-style cottages or wildfire smoke drifting down from the surrounding hillsides, the soot and odor compounds start bonding to surfaces within minutes, and every hour of delay makes the cleanup longer and more expensive.
+**Smoke damage emergency in Solvang?** Call Coastal Restoration at (805) 345-7440 any time, day or night, and we'll get a crew moving toward the Santa Ynez Valley right away. Smoke doesn't wait for business hours, and neither do we. Whether the source was a kitchen fire inside one of Solvang's Danish-style cottages or wildfire smoke drifting down from the surrounding hillsides, the soot and odor compounds start bonding to surfaces within minutes, and every hour of delay makes the cleanup longer and more expensive.
 
 ## Why Solvang Properties See Smoke Damage Issues
 
@@ -42,4 +42,4 @@ Many Solvang properties, especially those near the tourist corridor, are managed
 
 Because Solvang draws heavy tourist foot traffic through its downtown core, smoke odor in a ground-floor shop or tasting room isn't just a comfort issue, it's a business issue. We prioritize getting air scrubbers and odor treatment running in customer-facing spaces first, even if deeper structural cleaning in back rooms or storage takes another pass, so a business isn't sitting dark during peak season over lingering smoke smell.
 
-If smoke has settled into your Solvang home or storefront, don't wait for the odor to fade on its own, it won't. Coastal Restoration Services Inc is licensed under #11245226 and available around the clock at (805) 345-7440 to start smoke residue cleanup, odor treatment, and post-fire restoration before the damage spreads further into the structure.
+If smoke has settled into your Solvang home or storefront, don't wait for the odor to fade on its own, it won't. Coastal Restoration is licensed under #11245226 and available around the clock at (805) 345-7440 to start smoke residue cleanup, odor treatment, and post-fire restoration before the damage spreads further into the structure.

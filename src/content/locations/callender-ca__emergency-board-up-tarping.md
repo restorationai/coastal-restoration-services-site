@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Callender, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Callender, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Callender"
 meta_description: "Emergency board-up and tarping in Callender, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping callender"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Callender? Call now for emergency service.** Our crew responds fast to secure broken windows, doors and roofs.
 
-Callender sits in the Sacramento Valley foothills where dry, fire-prone summers and occasional winter storm systems can leave a home exposed in a matter of hours, a broken window from wind-driven debris, a roof torn open by a falling oak limb, or a fire-damaged wall that needs to be sealed before the next weather system rolls through. When that happens, every hour the structure stays open invites deeper damage: smoke odor migrating into unaffected rooms, rain soaking into framing, or opportunistic entry into a vacant property. Coastal Restoration Services Inc responds to those calls from our base in Vandenberg Village and gets to work securing your property before the situation compounds.
+Callender sits in the Sacramento Valley foothills where dry, fire-prone summers and occasional winter storm systems can leave a home exposed in a matter of hours, a broken window from wind-driven debris, a roof torn open by a falling oak limb, or a fire-damaged wall that needs to be sealed before the next weather system rolls through. When that happens, every hour the structure stays open invites deeper damage: smoke odor migrating into unaffected rooms, rain soaking into framing, or opportunistic entry into a vacant property. Coastal Restoration responds to those calls from our base in Vandenberg Village and gets to work securing your property before the situation compounds.
 
 ## Why Callender Properties Face Distinct Board-Up and Tarping Risks
 
@@ -55,4 +55,4 @@ One thing worth knowing in this part of California: some rural and foothill prop
 
 In the Sacramento Valley foothills around Callender, late-summer and early-fall fire events often leave roof damage that isn't visible from the ground, embers land on the roof, char the surface, and the homeowner assumes the structure is intact until rain season arrives and water starts coming through. When we tarp after a fire event in this area, we do a close-up inspection of the full roof plane before we cover it, because tarping over a hidden penetration just moves the water entry point rather than stopping it. That extra step has caught concealed damage on more than a few jobs in this region and saved property owners from a second, more expensive claim.
 
-If your Callender home or commercial property has been damaged and you need it secured now, call Coastal Restoration Services Inc at (805) 345-7440. Describe what you're seeing, and we'll tell you exactly what we can do and when we can be there.
+If your Callender home or commercial property has been damaged and you need it secured now, call Coastal Restoration at (805) 345-7440. Describe what you're seeing, and we'll tell you exactly what we can do and when we can be there.

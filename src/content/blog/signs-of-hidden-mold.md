@@ -87,4 +87,4 @@ After remediation, the underlying moisture problem must be permanently corrected
 
 ---
 
-If several of the signs above sound familiar, the next step is an honest assessment of what's actually behind your walls, not guesswork. Coastal Restoration Services Inc handles [mold remediation](/services/mold-remediation/) in Vandenberg Village and the surrounding Central Coast area. Call (805) 345-7440 to schedule an inspection before a manageable problem becomes a structural one.
+If several of the signs above sound familiar, the next step is an honest assessment of what's actually behind your walls, not guesswork. Coastal Restoration handles [mold remediation](/services/mold-remediation/) in Vandenberg Village and the surrounding Central Coast area. Call (805) 345-7440 to schedule an inspection before a manageable problem becomes a structural one.

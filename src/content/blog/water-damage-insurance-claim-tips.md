@@ -50,7 +50,7 @@ Keep a written list of every damaged item with estimated age and replacement cos
 
 No. In California, you have the right to choose any licensed contractor to perform restoration work on your property. Your insurance company may recommend or "prefer" certain vendors, but they cannot require you to use them as a condition of your claim.
 
-The [California Department of Insurance](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-prop-claim.cfm) is explicit on this point: the insurer must pay a reasonable amount for the work regardless of who performs it, as long as the contractor is properly licensed. In California, restoration contractors should hold a valid license from the [Contractors State License Board (CSLB)](https://www.cslb.ca.gov/). Verify any contractor's license at the CSLB website before signing anything. Coastal Restoration Services Inc holds CSLB license 11245226 and is an IICRC Certified Firm with WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications.
+The [California Department of Insurance](https://www.insurance.ca.gov/01-consumers/105-type/95-guides/03-res/res-prop-claim.cfm) is explicit on this point: the insurer must pay a reasonable amount for the work regardless of who performs it, as long as the contractor is properly licensed. In California, restoration contractors should hold a valid license from the [Contractors State License Board (CSLB)](https://www.cslb.ca.gov/). Verify any contractor's license at the CSLB website before signing anything. Coastal Restoration holds CSLB license 11245226 and is an IICRC Certified Firm with WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications.
 
 The practical implication: get at least one independent estimate from a contractor you choose. Compare it to any estimate the insurer's preferred vendor provides. If there is a significant gap, ask the adjuster to explain the line-item differences in writing.
 
@@ -130,10 +130,10 @@ If the dispute continues, you can:
 - Hire a licensed public adjuster to represent your interests.
 - Consult a property insurance attorney (most work on contingency for claim disputes).
 
-Coastal Restoration Services Inc provides detailed written scopes and documentation packages specifically designed to support the claims process, including moisture logs, psychrometric data, and photo documentation organized for adjuster review. To request a water damage assessment, call (805) 345-7440 or visit our [water damage restoration](/services/water-damage-restoration/) page.
+Coastal Restoration provides detailed written scopes and documentation packages specifically designed to support the claims process, including moisture logs, psychrometric data, and photo documentation organized for adjuster review. To request a water damage assessment, call (805) 345-7440 or visit our [water damage restoration](/services/water-damage-restoration/) page.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria, San Luis Obispo, Lompoc, and the surrounding Central Coast since their founding (CSLB license 11245226). Their certified crews hold WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) credentials and handle water damage restoration, mold remediation, fire damage restoration, sewage cleanup, storm damage, biohazard cleanup, contents restoration, crawl space encapsulation, odor removal, emergency board-up and tarping, and vandalism cleanup across Santa Barbara and San Luis Obispo counties.
+Coastal Restoration is an IICRC Certified Firm serving Santa Maria, San Luis Obispo, Lompoc, and the surrounding Central Coast since their founding (CSLB license 11245226). Their certified crews hold WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) credentials and handle water damage restoration, mold remediation, fire damage restoration, sewage cleanup, storm damage, biohazard cleanup, contents restoration, crawl space encapsulation, odor removal, emergency board-up and tarping, and vandalism cleanup across Santa Barbara and San Luis Obispo counties.

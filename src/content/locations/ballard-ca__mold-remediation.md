@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Ballard, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Ballard, CA | Coastal Restoration"
 h1: "Mold Remediation in Ballard"
 meta_description: "Mold remediation in Ballard, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation ballard"
@@ -38,7 +38,7 @@ Drying is not rushed. In Ballard's coastal climate, ambient outdoor humidity can
 
 ## Reaching Ballard from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which puts Ballard well within our regular service corridor along the Central Coast. Scheduling is handled through our office at (805) 345-7440, call during business hours to get a same-day or next-day assessment on the calendar. For mold work specifically, a prompt inspection appointment matters: the longer active moisture sits in a contained space, the wider the remediation footprint typically becomes.
+Coastal Restoration operates out of Vandenberg Village, which puts Ballard well within our regular service corridor along the Central Coast. Scheduling is handled through our office at (805) 345-7440, call during business hours to get a same-day or next-day assessment on the calendar. For mold work specifically, a prompt inspection appointment matters: the longer active moisture sits in a contained space, the wider the remediation footprint typically becomes.
 
 ## Ballard Insurance Coordination
 
@@ -48,4 +48,4 @@ Mold remediation coverage varies significantly depending on whether the mold res
 
 One pattern that comes up repeatedly in Ballard's older single-story homes: original hardwood subfloors over unvented crawl spaces act as a sponge during wet seasons, absorbing ground moisture from below while the finished floor above looks and feels completely normal. By the time homeowners notice a slight softness underfoot or a persistent earthy smell, the joists underneath may already show visible mold growth. If your home was built before 1970 and has a dirt or gravel crawl space, a proactive crawl space inspection after any significant rainfall event is worth the time, catching early-stage growth before it reaches the subfloor framing can be the difference between a contained remediation and a full structural drying and rebuild.
 
-If you are seeing discoloration on walls, smelling something musty that does not go away after airing out the house, or dealing with the aftermath of a recent water intrusion in Ballard, call Coastal Restoration Services Inc at (805) 345-7440. A proper inspection is the only way to know the true scope, and in mold remediation, scope determines cost, timeline, and whether the problem stays solved.
+If you are seeing discoloration on walls, smelling something musty that does not go away after airing out the house, or dealing with the aftermath of a recent water intrusion in Ballard, call Coastal Restoration at (805) 345-7440. A proper inspection is the only way to know the true scope, and in mold remediation, scope determines cost, timeline, and whether the problem stays solved.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Templeton, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Templeton, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Templeton"
 meta_description: "Post-construction and specialty cleaning in Templeton, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning templeton"
@@ -38,7 +38,7 @@ Final walk-throughs are conducted with the property owner or general contractor 
 
 ## Reaching Templeton from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, roughly 60 miles south of Templeton via US-101 North. For scheduled post-construction cleans, which are almost always planned rather than emergency calls, that distance is straightforward to manage. Crews are dispatched with equipment loaded the prior evening for early-morning starts, which keeps the workday productive and avoids the mid-morning traffic that builds around the Highway 46 and 101 interchange near Templeton's commercial corridor. Property owners and general contractors can reach the team directly at (805) 345-7440 to schedule a walkthrough or confirm a start date.
+Coastal Restoration operates out of Vandenberg Village, roughly 60 miles south of Templeton via US-101 North. For scheduled post-construction cleans, which are almost always planned rather than emergency calls, that distance is straightforward to manage. Crews are dispatched with equipment loaded the prior evening for early-morning starts, which keeps the workday productive and avoids the mid-morning traffic that builds around the Highway 46 and 101 interchange near Templeton's commercial corridor. Property owners and general contractors can reach the team directly at (805) 345-7440 to schedule a walkthrough or confirm a start date.
 
 ## Local Note
 

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Fire Damage Restoration in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Emergency Fire Damage Restoration in Morro Bay, CA | Coastal Restoration"
 h1: "Emergency Fire Damage Restoration in Morro Bay"
 meta_description: "Emergency fire damage restoration in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "fire damage restoration morro bay"
@@ -39,7 +39,7 @@ Structural drying runs concurrently with debris removal. Given the coastal humid
 
 ## Reaching Morro Bay from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, roughly 35 miles south of Morro Bay via Highway 1 and US-101. The route through Pismo Beach and San Luis Obispo is straightforward in off-peak hours, though summer tourist traffic on Highway 1 north of Pismo can add time during peak season. For properties closer to the waterfront or along the Embarcadero corridor, we coordinate access logistics in advance, parking for a restoration trailer and equipment staging can be tight on the narrower streets near the bay, and we factor that into our arrival planning rather than discovering it on-site.
+Coastal Restoration operates out of Vandenberg Village, roughly 35 miles south of Morro Bay via Highway 1 and US-101. The route through Pismo Beach and San Luis Obispo is straightforward in off-peak hours, though summer tourist traffic on Highway 1 north of Pismo can add time during peak season. For properties closer to the waterfront or along the Embarcadero corridor, we coordinate access logistics in advance, parking for a restoration trailer and equipment staging can be tight on the narrower streets near the bay, and we factor that into our arrival planning rather than discovering it on-site.
 
 ## Morro Bay Insurance Coordination
 
@@ -49,4 +49,4 @@ Fire losses generate substantial documentation requirements, and carriers vary i
 
 One thing that comes up repeatedly on Morro Bay fire jobs is the interaction between older redwood siding and smoke residue. Redwood is naturally porous and was widely used on mid-century homes along this coast because of its resistance to moisture and insects. It absorbs smoke oils deeply, which means surface cleaning alone rarely eliminates odor, the wood needs to be treated with a penetrating sealant after cleaning, or the smell returns with the next warm day. Homeowners who've had a contractor clean the exterior and declare it done are sometimes surprised when summer heat pulls the odor back out of the siding months later. It's a detail that matters specifically in this region's housing stock.
 
-If your home or business in Morro Bay has been through a fire, whether it's a contained kitchen event or a loss that touched multiple rooms, call Coastal Restoration Services Inc at (805) 345-7440. The sooner the assessment begins, the more options you have for salvage, and the shorter the overall timeline to getting your property back.
+If your home or business in Morro Bay has been through a fire, whether it's a contained kitchen event or a loss that touched multiple rooms, call Coastal Restoration at (805) 345-7440. The sooner the assessment begins, the more options you have for salvage, and the shorter the overall timeline to getting your property back.

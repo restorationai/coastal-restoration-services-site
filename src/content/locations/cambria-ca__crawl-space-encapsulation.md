@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Cambria, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Cambria, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Cambria"
 meta_description: "Crawl space encapsulation in Cambria, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation cambria"

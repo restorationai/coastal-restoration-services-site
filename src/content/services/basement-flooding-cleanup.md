@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Emergency Basement Flooding Cleanup in Santa Maria | Coastal Restoration Services Inc"
+title: "Emergency Basement Flooding Cleanup in Santa Maria | Coastal Restoration"
 h1: "Emergency Basement Flooding Cleanup in Santa Maria"
 meta_description: "Emergency basement flooding cleanup in Santa Maria and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "basement flooding cleanup santa maria"

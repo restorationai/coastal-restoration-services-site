@@ -21,7 +21,7 @@ author: "Tony Mendez"
 ---
 Property damage doesn't check a calendar before it happens. A pipe fails, a storm rolls through, a tenant moves out and leaves a mess, and it's a Saturday. What happens next, and how fast someone with the right training shows up, often decides how big or small the eventual repair bill gets.
 
-One Coastal Restoration Services customer, George, ran into exactly that kind of weekend situation. Here's what he had to say about it:
+One Coastal Restoration customer, George, ran into exactly that kind of weekend situation. Here's what he had to say about it:
 
 > Yes i highly recommend. Coastal rushed to the scene on the weekend and promptly provided valued feedback. We were able to move forward with our situation forthwith. Very satisfied with outcome.
 >
@@ -61,7 +61,7 @@ On a drying job, that verification typically means moisture readings back at or 
 
 George's five-star review and the phrase "very satisfied with outcome" line up with that kind of closed-loop finish: a problem that got addressed, verified, and resolved, not just tackled halfway.
 
-If you're dealing with sudden property damage over a weekend or after hours, don't wait until Monday to make the call. A same-day scope and a documented plan protect both your property and your insurance claim. Reach Coastal Restoration Services Inc at (805) 345-7440 to get a technician started on an assessment.
+If you're dealing with sudden property damage over a weekend or after hours, don't wait until Monday to make the call. A same-day scope and a documented plan protect both your property and your insurance claim. Reach Coastal Restoration at (805) 345-7440 to get a technician started on an assessment.
 
 ## FAQ
 

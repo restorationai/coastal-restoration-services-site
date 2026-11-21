@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Edna, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Edna, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Edna"
 meta_description: "Crawl space encapsulation in Edna, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation edna"
@@ -44,10 +44,10 @@ The result is a conditioned, sealed space that protects the structural framing a
 
 ## Getting to Edna from Our Vandenberg Village Base
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which puts the Edna area well within our regular service territory along the San Luis Obispo County corridor. The drive connects through the familiar stretch of Highway 1 and inland county roads, and our crews are accustomed to navigating both the rural property access points and the tighter residential lots that characterize different parts of the region. If you're scheduling an inspection or a full encapsulation project, call us at (805) 345-7440 to confirm availability and get a same-week appointment on the calendar.
+Coastal Restoration operates out of Vandenberg Village, which puts the Edna area well within our regular service territory along the San Luis Obispo County corridor. The drive connects through the familiar stretch of Highway 1 and inland county roads, and our crews are accustomed to navigating both the rural property access points and the tighter residential lots that characterize different parts of the region. If you're scheduling an inspection or a full encapsulation project, call us at (805) 345-7440 to confirm availability and get a same-week appointment on the calendar.
 
 ## Local Note
 
 One pattern we've noticed on Edna-area properties with older agricultural outbuildings converted to residential use: the original crawl space venting was often sized for a barn or equipment storage structure, not a living space. That means the vent-to-floor-area ratio is frequently out of spec even before you account for California's updated Title 24 requirements on vapor retarders. When we encounter these converted structures, we typically recommend closing off the oversized vents entirely as part of the encapsulation scope, rather than trying to rebalance a venting system that was never designed for residential occupancy. It saves the homeowner from a second call down the road.
 
-If moisture has already worked its way into your subfloor framing or you've noticed soft spots in your flooring, musty odors coming up through registers, or higher-than-usual energy bills, those are signs the crawl space is already affecting the living space above it. Encapsulation stops the cycle. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an assessment for your Edna property, the sooner the space is sealed, the less remediation work it's likely to need later.
+If moisture has already worked its way into your subfloor framing or you've noticed soft spots in your flooring, musty odors coming up through registers, or higher-than-usual energy bills, those are signs the crawl space is already affecting the living space above it. Encapsulation stops the cycle. Call Coastal Restoration at (805) 345-7440 to schedule an assessment for your Edna property, the sooner the space is sealed, the less remediation work it's likely to need later.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Ballard, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Ballard, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Ballard"
 meta_description: "Emergency board-up and tarping in Ballard, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping ballard"
@@ -38,7 +38,7 @@ Roof tarping in Ballard's coastal wind environment means we don't rely on light-
 
 ## Reaching Ballard from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Ballard falls within our active service area along the Central Coast corridor. Routing from Vandenberg Village to Ballard follows Highway 1 and the connecting surface roads through the coastal communities between, a stretch our crews travel regularly for both emergency calls and ongoing restoration work. We don't publish a guaranteed minute figure because honest response time depends on traffic, crew availability, and the specifics of what's already on the board, but we prioritize structural exposure calls because every hour of open-air contact matters.
+Coastal Restoration is based in Vandenberg Village, and Ballard falls within our active service area along the Central Coast corridor. Routing from Vandenberg Village to Ballard follows Highway 1 and the connecting surface roads through the coastal communities between, a stretch our crews travel regularly for both emergency calls and ongoing restoration work. We don't publish a guaranteed minute figure because honest response time depends on traffic, crew availability, and the specifics of what's already on the board, but we prioritize structural exposure calls because every hour of open-air contact matters.
 
 When you call (805) 345-7440, describe the breach type and approximate size so we can stage the right materials before departure. Arriving with the correct plywood dimensions and tarp footage on the truck means no mid-job supply runs.
 

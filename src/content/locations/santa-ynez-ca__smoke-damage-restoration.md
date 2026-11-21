@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Santa Ynez, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Smoke Damage Restoration in Santa Ynez, CA | Coastal Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Santa Ynez"
 meta_description: "24/7 emergency smoke damage restoration in Santa Ynez, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "smoke damage restoration santa ynez"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-**Smoke damage emergency in Santa Ynez?** Call Coastal Restoration Services Inc at (805) 345-7440. We answer 24/7, and when wildfire smoke or a structure fire has pushed soot and ash deep into a Santa Ynez Valley home, waiting even a day lets acidic residue etch into wood finishes, wine cellar racking, and HVAC ductwork that's harder to pull clean the longer it sits.
+**Smoke damage emergency in Santa Ynez?** Call Coastal Restoration at (805) 345-7440. We answer 24/7, and when wildfire smoke or a structure fire has pushed soot and ash deep into a Santa Ynez Valley home, waiting even a day lets acidic residue etch into wood finishes, wine cellar racking, and HVAC ductwork that's harder to pull clean the longer it sits.
 
 ## Why Santa Ynez Properties See Smoke Damage Issues
 
@@ -42,4 +42,4 @@ Smoke damage claims in this part of Santa Barbara County often involve larger pa
 
 A detail that catches a lot of homeowners off guard: many Santa Ynez properties rely on well water and standalone HVAC or swamp cooler systems rather than municipal utilities, and ash drawn through an evaporative cooler's water pad can recirculate odor through the house long after the exterior air has cleared. We check and, when needed, service these cooling systems as part of the smoke cleanup rather than treating the interior air separately from the equipment pulling outside air in.
 
-If smoke or ash has worked its way into your Santa Ynez home, whether from a nearby wildfire or a fire inside the structure itself, Coastal Restoration Services Inc can get a crew on the road and start the cleanup before odor and residue set deeper into wood, cork, and fabric. Call (805) 345-7440 any time, day or night, to get started.
+If smoke or ash has worked its way into your Santa Ynez home, whether from a nearby wildfire or a fire inside the structure itself, Coastal Restoration can get a crew on the road and start the cleanup before odor and residue set deeper into wood, cork, and fabric. Call (805) 345-7440 any time, day or night, to get started.

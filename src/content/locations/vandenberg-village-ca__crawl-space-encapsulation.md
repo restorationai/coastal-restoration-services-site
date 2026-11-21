@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Vandenberg Village, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Vandenberg Village, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Vandenberg Village"
 meta_description: "Crawl space encapsulation in Vandenberg Village, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation vandenberg village"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Vandenberg Village sits just outside the main gate of Vandenberg Space Force Base on California's Central Coast, where marine air rolls in off the Pacific nearly every afternoon and nighttime temperatures drop sharply even in summer. That combination, persistent coastal humidity, sandy loam soils that drain unevenly, and a housing stock built largely during the base-adjacent boom of the 1960s and 70s, creates crawl space conditions that can quietly deteriorate for years before a homeowner notices the musty smell in the living room or the soft spot developing in the subfloor. Coastal Restoration Services Inc is based here in Vandenberg Village and handles crawl space encapsulation for exactly these homes.
+Vandenberg Village sits just outside the main gate of Vandenberg Space Force Base on California's Central Coast, where marine air rolls in off the Pacific nearly every afternoon and nighttime temperatures drop sharply even in summer. That combination, persistent coastal humidity, sandy loam soils that drain unevenly, and a housing stock built largely during the base-adjacent boom of the 1960s and 70s, creates crawl space conditions that can quietly deteriorate for years before a homeowner notices the musty smell in the living room or the soft spot developing in the subfloor. Coastal Restoration is based here in Vandenberg Village and handles crawl space encapsulation for exactly these homes.
 
 ## Why Vandenberg Village Properties Are Prone to Crawl Space Moisture Problems
 
@@ -52,4 +52,4 @@ For homes in this area, we typically recommend a sealed, conditioned crawl space
 
 Homes in Vandenberg Village that were originally built as military family housing or converted from base-adjacent contractor developments often have non-standard crawl space access hatches, sometimes located inside closets, under bathroom vanities, or in garages rather than on the exterior foundation. Before scheduling work, it's worth confirming access location with us over the phone, because tight interior access points can affect equipment staging and add time to the job. We've worked in enough of these homes to come prepared, but a quick heads-up saves everyone time on the first day.
 
-Call Coastal Restoration Services Inc at **(805) 345-7440** to schedule a crawl space inspection in Vandenberg Village. We'll give you a clear picture of what's happening under your home and a straightforward recommendation, whether that's a full encapsulation system or a more targeted repair, so you can make an informed decision before the next marine layer season sets in.
+Call Coastal Restoration at **(805) 345-7440** to schedule a crawl space inspection in Vandenberg Village. We'll give you a clear picture of what's happening under your home and a straightforward recommendation, whether that's a full encapsulation system or a more targeted repair, so you can make an informed decision before the next marine layer season sets in.

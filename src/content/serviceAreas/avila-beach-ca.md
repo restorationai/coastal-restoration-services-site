@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Avila Beach, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Avila Beach, CA | Coastal Restoration"
 h1: "Restoration Services in Avila Beach"
 meta_description: "Serving Avila Beach, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services avila beach"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Coastal Restoration Services Inc responds to water damage, mold, fire, and smoke emergencies for homeowners and property managers throughout Avila Beach. Whether it's a vacation rental on the bluff that woke up to a burst pipe, a commercial property near the pier dealing with storm intrusion, or a condo showing signs of long-running moisture damage behind the walls, we handle the assessment, mitigation, and reconstruction, and we work directly with insurance carriers to keep the process from falling on your shoulders.
+Coastal Restoration responds to water damage, mold, fire, and smoke emergencies for homeowners and property managers throughout Avila Beach. Whether it's a vacation rental on the bluff that woke up to a burst pipe, a commercial property near the pier dealing with storm intrusion, or a condo showing signs of long-running moisture damage behind the walls, we handle the assessment, mitigation, and reconstruction, and we work directly with insurance carriers to keep the process from falling on your shoulders.
 
 ## Restoration emergencies common in Avila Beach
 
@@ -59,4 +59,4 @@ Avila Beach is unincorporated, so permits for structural repair, re-roofing, or 
 
 The older cottages here are wood-frame with stucco or wood siding over raised floors, and those crawlspaces hold marine moisture long after the leak is fixed. Expect galvanized supply and cast-iron drains in that vintage, copper in mid-century work, and PEX in newer construction. Newer slab-on-grade homes hide leaks under flooring instead, so we locate before we open anything.
 
-If you are dealing with a water, fire, mold, or smoke emergency in Avila Beach, call Coastal Restoration Services Inc at **(805) 345-7440**. We will assess the situation honestly, explain what the work involves, and get the process moving.
+If you are dealing with a water, fire, mold, or smoke emergency in Avila Beach, call Coastal Restoration at **(805) 345-7440**. We will assess the situation honestly, explain what the work involves, and get the process moving.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Mission Hills, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Mission Hills, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Mission Hills"
 meta_description: "Crawl space encapsulation in Mission Hills, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation mission hills"
@@ -40,10 +40,10 @@ The San Fernando Valley's low annual rainfall can create a false sense of securi
 
 ## Reaching Mission Hills from Vandenberg Village
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, and the team travels regularly to the greater Los Angeles area for encapsulation and restoration work. Mission Hills is accessible via the 101 to the 405 corridor, and scheduling is handled directly by phone at (805) 345-7440. Because encapsulation is a planned project rather than an emergency call, we coordinate arrival windows in advance so you are not waiting around, contact us to discuss scheduling for your address.
+Coastal Restoration is headquartered in Vandenberg Village, and the team travels regularly to the greater Los Angeles area for encapsulation and restoration work. Mission Hills is accessible via the 101 to the 405 corridor, and scheduling is handled directly by phone at (805) 345-7440. Because encapsulation is a planned project rather than an emergency call, we coordinate arrival windows in advance so you are not waiting around, contact us to discuss scheduling for your address.
 
 ## Local Note
 
 One thing that comes up repeatedly in Mission Hills crawl space work: homes built on sloped lots along the northern edge of the Valley, particularly where the terrain starts rising toward the hills, often have crawl spaces with highly variable ceiling heights, sometimes dropping to less than 18 inches in sections. That confined geometry slows liner installation considerably and occasionally requires smaller crew members or specialized low-profile equipment to reach the back corners properly. If your home sits on anything other than a flat lot, mention it when you call, it helps us give you an accurate time and cost estimate rather than a number that changes once we open the access hatch.
 
-If your home's crawl space has been ignored since it was built, or if you have noticed musty odors, higher-than-expected heating and cooling bills, or soft spots in flooring, encapsulation is likely the most cost-effective single improvement you can make to the home's long-term health. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an inspection for your Mission Hills property.
+If your home's crawl space has been ignored since it was built, or if you have noticed musty odors, higher-than-expected heating and cooling bills, or soft spots in flooring, encapsulation is likely the most cost-effective single improvement you can make to the home's long-term health. Call Coastal Restoration at (805) 345-7440 to schedule an inspection for your Mission Hills property.

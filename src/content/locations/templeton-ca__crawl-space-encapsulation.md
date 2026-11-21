@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Templeton, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Templeton, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Templeton"
 meta_description: "Crawl space encapsulation in Templeton, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation templeton"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Crawl Space Encapsulation"
 rendered: true
 ---
-Templeton sits in a narrow inland valley where marine air pushes through the Templeton Gap most evenings, dropping temperatures quickly and leaving moisture to settle wherever it can find a foothold, including beneath your home. That daily cycle of warm afternoons and cool, damp nights creates exactly the kind of humidity fluctuation that turns an unencapsulated crawl space into a breeding ground for wood rot, mold colonies, and pest intrusion. Coastal Restoration Services Inc works with Templeton homeowners to seal that vulnerability before it migrates into living spaces above.
+Templeton sits in a narrow inland valley where marine air pushes through the Templeton Gap most evenings, dropping temperatures quickly and leaving moisture to settle wherever it can find a foothold, including beneath your home. That daily cycle of warm afternoons and cool, damp nights creates exactly the kind of humidity fluctuation that turns an unencapsulated crawl space into a breeding ground for wood rot, mold colonies, and pest intrusion. Coastal Restoration works with Templeton homeowners to seal that vulnerability before it migrates into living spaces above.
 
 ## Why Templeton Properties Are Prone to Crawl Space Moisture Problems
 
@@ -45,7 +45,7 @@ The completed system is documented with photos and a moisture baseline reading s
 
 ## Reaching Templeton from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, roughly 60 miles south of Templeton on US-101. Scheduling is handled directly by phone at (805) 345-7440. For encapsulation projects, which are planned-scope jobs rather than emergency calls, most Templeton homeowners schedule an initial inspection within a few business days of first contact, with the encapsulation work following once scope and materials are confirmed.
+Coastal Restoration is based in Vandenberg Village, roughly 60 miles south of Templeton on US-101. Scheduling is handled directly by phone at (805) 345-7440. For encapsulation projects, which are planned-scope jobs rather than emergency calls, most Templeton homeowners schedule an initial inspection within a few business days of first contact, with the encapsulation work following once scope and materials are confirmed.
 
 ## Local Note
 

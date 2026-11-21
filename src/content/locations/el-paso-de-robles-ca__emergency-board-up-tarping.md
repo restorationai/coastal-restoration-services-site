@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in El Paso de Robles, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in El Paso de Robles, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in El Paso de Robles"
 meta_description: "Emergency board-up and tarping in El Paso de Robles, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping el paso de robles"
@@ -41,7 +41,7 @@ For roof tarping, we use reinforced poly tarps rated for UV exposure, critical i
 
 ## Reaching El Paso de Robles from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and the primary route to Paso Robles runs north on US-101 through San Luis Obispo and up the Cuesta Grade. Actual travel time varies by traffic and road conditions, the Cuesta Grade can slow significantly during peak commute hours or when fog reduces visibility near the summit. When you call (805) 345-7440, the team will give you an honest estimate of when the crew can be on-site rather than a number that sounds good but doesn't account for current conditions.
+Coastal Restoration is based in Vandenberg Village, and the primary route to Paso Robles runs north on US-101 through San Luis Obispo and up the Cuesta Grade. Actual travel time varies by traffic and road conditions, the Cuesta Grade can slow significantly during peak commute hours or when fog reduces visibility near the summit. When you call (805) 345-7440, the team will give you an honest estimate of when the crew can be on-site rather than a number that sounds good but doesn't account for current conditions.
 
 For properties on the north side of town near the Salinas River corridor, access from 101 via Spring Street tends to be the most direct. Properties further east toward the wine country roads may require additional coordination depending on whether any rural roads are affected by the same weather event that caused the damage.
 
@@ -55,4 +55,4 @@ The crew documents every opening before and after securing it: photographs with 
 
 One pattern that comes up specifically in Paso Robles: the area's dramatic diurnal temperature swings, sometimes 40 to 50 degrees between a summer afternoon high and the same night's low, cause standard blue poly tarps to become brittle and crack at the fold lines within a single season if they aren't UV-stabilized. We've seen tarps installed by well-meaning property owners or general handymen fail at the creases after just a few weeks of summer heat, leaving the roof open again before the insurance repair is even scheduled. For any tarp installation in this climate, UV-rated reinforced material isn't optional, it's the baseline.
 
-If your Paso Robles property has been damaged by fire, storm, vandalism, or any event that has left it exposed to the elements, call Coastal Restoration Services Inc at (805) 345-7440. The crew will assess every vulnerable opening, secure the structure with materials rated for the Central Coast's climate extremes, and hand you documentation your insurance carrier can use from day one.
+If your Paso Robles property has been damaged by fire, storm, vandalism, or any event that has left it exposed to the elements, call Coastal Restoration at (805) 345-7440. The crew will assess every vulnerable opening, secure the structure with materials rated for the Central Coast's climate extremes, and hand you documentation your insurance carrier can use from day one.

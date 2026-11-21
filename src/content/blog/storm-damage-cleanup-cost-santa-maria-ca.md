@@ -37,7 +37,7 @@ Typical storm damage cleanup in Santa Maria runs from a few hundred dollars for 
 | Full storm restoration (moderate wind and rain intrusion) | $3,000 - $12,000 |
 | Major structural damage (roof failure, multiple rooms affected) | $15,000 - $50,000+ |
 
-These are typical industry ranges for the Central Coast, not a quote. Every loss is different, and [Coastal Restoration Services Inc](/services/storm-damage-restoration/) provides a written scope before any work begins.
+These are typical industry ranges for the Central Coast, not a quote. Every loss is different, and [Coastal Restoration](/services/storm-damage-restoration/) provides a written scope before any work begins.
 
 ## What drives the price of storm damage cleanup?
 
@@ -75,10 +75,10 @@ Storm cleanup moves in a set sequence: stop the intrusion first, document everyt
 
 If you're still monitoring an active storm, the [National Weather Service](https://www.weather.gov/) is the most reliable source for local warnings and rainfall totals, which can also support your claim timeline.
 
-If you're looking at a roof breach or standing water right now, the priority is stopping further intrusion, not deciding on a full repair budget. [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) to get a technician scheduled and a written scope started before the next system moves through.
+If you're looking at a roof breach or standing water right now, the priority is stopping further intrusion, not deciding on a full repair budget. [Call Coastal Restoration at (805) 345-7440](tel:+18053457440) to get a technician scheduled and a written scope started before the next system moves through.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm (license #11245226) serving Santa Maria and the surrounding Central Coast, including Orcutt, Lompoc, and Vandenberg Village. Their technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and answer the phone 24/7. The company handles storm damage restoration, emergency board-up and tarping, water and flood damage restoration, mold remediation, and fire and smoke cleanup across the region.
+Coastal Restoration is an IICRC Certified Firm (license #11245226) serving Santa Maria and the surrounding Central Coast, including Orcutt, Lompoc, and Vandenberg Village. Their technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and answer the phone 24/7. The company handles storm damage restoration, emergency board-up and tarping, water and flood damage restoration, mold remediation, and fire and smoke cleanup across the region.

@@ -39,7 +39,7 @@ Here is a plain breakdown of each piece of equipment, what it does, and how long
 | Desiccant dehumidifier | Handles very low humidity targets or cold environments | Specialty jobs only |
 | Floor drying mat system | Dries hardwood floors from below without sanding | 3 to 7 days |
 
-The crew from Coastal Restoration Services Inc arrives with this equipment staged and ready. Their technicians hold both WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications through the IICRC, which means the drying plan is built on measured data, not guesswork.
+The crew from Coastal Restoration arrives with this equipment staged and ready. Their technicians hold both WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) certifications through the IICRC, which means the drying plan is built on measured data, not guesswork.
 
 ## Why can't you just use box fans from the hardware store?
 
@@ -92,10 +92,10 @@ The crew checks readings daily and removes equipment section by section as areas
 
 If your claim is still open while the equipment runs, [Water Damage Insurance Claim Tips: 12 Things to Do Before Anyone Tears Out Drywall](/blog/water-damage-insurance-claim-tips/) covers how to document the process in a way that protects your payout.
 
-For questions about scheduling a moisture assessment or getting a written scope of work for your loss, contact Coastal Restoration Services Inc at (805) 345-7440 or visit the [water damage restoration service page](/services/water-damage-restoration/).
+For questions about scheduling a moisture assessment or getting a written scope of work for your loss, contact Coastal Restoration at (805) 345-7440 or visit the [water damage restoration service page](/services/water-damage-restoration/).
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC-certified firm serving Santa Maria, CA and the surrounding Central Coast since its founding (license 11245226). Their technicians hold WRT and ASD certifications and handle water damage restoration, storm damage restoration, fire damage restoration, sewage cleanup, mold remediation, biohazard cleanup, [contents restoration](/services/contents-restoration/), crawl space encapsulation, emergency board-up and tarping, odor removal, post-construction cleaning, and vandalism cleanup across the region.
+Coastal Restoration is an IICRC-certified firm serving Santa Maria, CA and the surrounding Central Coast since its founding (license 11245226). Their technicians hold WRT and ASD certifications and handle water damage restoration, storm damage restoration, fire damage restoration, sewage cleanup, mold remediation, biohazard cleanup, [contents restoration](/services/contents-restoration/), crawl space encapsulation, emergency board-up and tarping, odor removal, post-construction cleaning, and vandalism cleanup across the region.

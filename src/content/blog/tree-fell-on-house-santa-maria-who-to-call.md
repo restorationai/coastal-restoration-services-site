@@ -20,7 +20,7 @@ services: ["storm-damage-restoration", "emergency-board-up-tarping"]
 rendered: true
 author: "Tony Mendez"
 ---
-A eucalyptus limb just split across your roofline during a Central Coast wind event, and rainwater is already finding its way into the attic insulation. For tree damage to a home in Santa Maria, call Coastal Restoration Services Inc at (805) 345-7440; the company answers the phone 24/7 and handles the emergency tarp, board-up, and water extraction once the tree itself is off the structure.
+A eucalyptus limb just split across your roofline during a Central Coast wind event, and rainwater is already finding its way into the attic insulation. For tree damage to a home in Santa Maria, call Coastal Restoration at (805) 345-7440; the company answers the phone 24/7 and handles the emergency tarp, board-up, and water extraction once the tree itself is off the structure.
 
 But the restoration company is not always the first call. Depending on what's on your roof right now, you may need 911, a tree removal crew, or a restoration crew, in that order. Here's how to sort it out fast.
 
@@ -66,8 +66,8 @@ If a tree has come down on your Santa Maria home, get the tree crew moving first
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-This post was written with the Coastal Restoration Services Inc team. Coastal Restoration Services Inc is an IICRC Certified Firm (CSLB license #11245226) serving Santa Maria and the surrounding Central Coast, including Orcutt, Lompoc, and Vandenberg Village. Its technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials and handle storm damage, emergency board-up and tarping, and water damage restoration across the region, answering calls 24/7.
+This post was written with the Coastal Restoration team. Coastal Restoration is an IICRC Certified Firm (CSLB license #11245226) serving Santa Maria and the surrounding Central Coast, including Orcutt, Lompoc, and Vandenberg Village. Its technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) credentials and handle storm damage, emergency board-up and tarping, and water damage restoration across the region, answering calls 24/7.
 
-**Need help now?** [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440).
+**Need help now?** [Call Coastal Restoration at (805) 345-7440](tel:+18053457440).

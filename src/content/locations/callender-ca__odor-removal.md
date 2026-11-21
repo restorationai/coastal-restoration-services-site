@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Callender, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Callender, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Callender"
 meta_description: "Odor removal and deodorization in Callender, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization callender"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Callender sits in a stretch of Northern California where hot, dry summers bake smoke and pet odors deep into porous building materials, and cooler, damp winters give those same materials little chance to fully off-gas on their own. That climate swing, intense heat followed by humidity that creeps back in, means odors that seem to disappear in July can return with a vengeance by November. Coastal Restoration Services Inc brings professional-grade deodorization equipment and IICRC-certified technicians to Callender properties when surface sprays and open windows have already failed.
+Callender sits in a stretch of Northern California where hot, dry summers bake smoke and pet odors deep into porous building materials, and cooler, damp winters give those same materials little chance to fully off-gas on their own. That climate swing, intense heat followed by humidity that creeps back in, means odors that seem to disappear in July can return with a vengeance by November. Coastal Restoration brings professional-grade deodorization equipment and IICRC-certified technicians to Callender properties when surface sprays and open windows have already failed.
 
 ## Why Callender Properties Hold Odors Longer Than You'd Expect
 
@@ -46,4 +46,4 @@ For wildfire smoke infiltration into HVAC systems, a recurring issue for propert
 
 One pattern we see repeatedly on properties in this part of California: homes with evaporative (swamp) coolers rather than central air conditioning. Evaporative coolers draw outside air directly into the living space with minimal filtration, which means during a wildfire smoke event, the cooler itself becomes a primary odor source, the pads, the reservoir, and the housing all absorb smoke compounds. Replacing the pads and deodorizing the cooler housing is a step that gets skipped when a restoration crew isn't familiar with how common this equipment is in the Central Valley and foothills. We account for it as part of every smoke odor assessment in Callender.
 
-If you're dealing with a persistent smell that hasn't responded to cleaning or airing out, the source is almost certainly somewhere you haven't looked yet. Call Coastal Restoration Services Inc at **(805) 345-7440** to schedule an odor assessment in Callender, we'll find it, treat it at the source, and document the process so you have a clear record of what was done and why.
+If you're dealing with a persistent smell that hasn't responded to cleaning or airing out, the source is almost certainly somewhere you haven't looked yet. Call Coastal Restoration at **(805) 345-7440** to schedule an odor assessment in Callender, we'll find it, treat it at the source, and document the process so you have a clear record of what was done and why.

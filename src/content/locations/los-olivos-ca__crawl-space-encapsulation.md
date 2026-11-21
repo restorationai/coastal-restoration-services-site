@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Los Olivos, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Los Olivos, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Los Olivos"
 meta_description: "Crawl space encapsulation in Los Olivos, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation los olivos"
@@ -44,7 +44,7 @@ In Los Olivos, the clay-heavy soils common to the valley floor affect how we app
 
 ## Reaching Los Olivos from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, which puts Los Olivos roughly an hour's drive northeast via U.S. 101 and CA-154 through the San Marcos Pass, or along the valley floor via CA-246 depending on conditions. We schedule Los Olivos appointments with that drive time factored in so crews arrive with equipment staged and ready rather than making a second trip for supplies. For encapsulation projects, which typically run one to three days depending on crawl space square footage, we coordinate start times to make efficient use of the full workday.
+Coastal Restoration operates out of Vandenberg Village, which puts Los Olivos roughly an hour's drive northeast via U.S. 101 and CA-154 through the San Marcos Pass, or along the valley floor via CA-246 depending on conditions. We schedule Los Olivos appointments with that drive time factored in so crews arrive with equipment staged and ready rather than making a second trip for supplies. For encapsulation projects, which typically run one to three days depending on crawl space square footage, we coordinate start times to make efficient use of the full workday.
 
 ## Local Note
 
@@ -52,4 +52,4 @@ One pattern we've seen specifically in older Los Olivos-area properties: homes t
 
 If your home in the Los Olivos area has a mixed foundation type and you've noticed a persistent musty smell or cold floors that don't respond to added insulation, that transition zone is worth a close look before any other remediation work begins.
 
-Call Coastal Restoration Services Inc at (805) 345-7440 to schedule a crawl space assessment in Los Olivos. We'll give you an honest picture of what's happening under your home and a clear scope of work, no pressure, no upselling services your crawl space doesn't need.
+Call Coastal Restoration at (805) 345-7440 to schedule a crawl space assessment in Los Olivos. We'll give you an honest picture of what's happening under your home and a clear scope of work, no pressure, no upselling services your crawl space doesn't need.

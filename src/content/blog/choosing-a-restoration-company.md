@@ -77,4 +77,4 @@ Also check the California Department of Consumer Affairs complaint database and 
 
 ## When You're Ready to Move Forward
 
-If you're in Vandenberg Village or the surrounding Santa Barbara County area and you've already done the vetting, or you want to start with a company that can walk you through these questions in real time, Coastal Restoration Services Inc handles water damage, fire and smoke restoration, and mold remediation for residential and commercial properties throughout the region. Call (805) 345-7440 to talk through what you're seeing and get a straight answer about next steps.
+If you're in Vandenberg Village or the surrounding Santa Barbara County area and you've already done the vetting, or you want to start with a company that can walk you through these questions in real time, Coastal Restoration handles water damage, fire and smoke restoration, and mold remediation for residential and commercial properties throughout the region. Call (805) 345-7440 to talk through what you're seeing and get a straight answer about next steps.

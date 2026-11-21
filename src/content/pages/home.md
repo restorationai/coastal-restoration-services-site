@@ -1,8 +1,8 @@
 ---
 archetype: "home"
-title: "Water Damage Restoration in Santa Maria, CA | Coastal Restoration Services Inc"
+title: "Water Damage Restoration in Santa Maria, CA | Coastal Restoration"
 h1: "Water Damage Restoration in Santa Maria, CA"
-meta_description: "Coastal Restoration Services Inc provides water damage restoration in Santa Maria, CA. IICRC certified. Call (805) 345-7440 now."
+meta_description: "Coastal Restoration provides water damage restoration in Santa Maria, CA. IICRC certified. Call (805) 345-7440 now."
 primary_keyword: "water damage restoration santa maria"
 secondary_keywords: ["best restoration company in santa maria", "restoration company santa maria", "water damage restoration near me"]
 search_intent: "local_commercial"
@@ -15,7 +15,7 @@ breadcrumb: [{"name": "Home", "url": "/"}]
 faq: [{"question": "How quickly can you get to my property?", "answer": "Response time depends on current job volume and your location within our service area. Call (805) 345-7440 directly and we'll give you an honest estimate of when we can be on-site. We prioritize active water intrusion and situations where delay will significantly worsen the damage."}, {"question": "Will you bill my insurance company directly?", "answer": "Yes, in most cases. We document the loss with photos, moisture readings, and a written scope of work in a format most major carriers accept, and we bill them directly where the policy allows. We'll walk you through what to expect from the claims process before any work begins."}, {"question": "What should I do while I wait for you to arrive?", "answer": "For water damage, shut off the source if you can safely reach the main valve, and move valuables off wet flooring. Avoid running fans or HVAC through a space with suspected mold \u2014 that can spread spores. Don't discard any damaged material before we document it, since that documentation matters for your insurance claim."}, {"question": "Do you offer free estimates?", "answer": "Yes. We provide a written estimate before any work begins so you know exactly what's included and why. There's no obligation to proceed, and we won't pressure you to approve work on the spot."}, {"question": "Do you handle both residential and commercial properties?", "answer": "Yes. We work with homeowners, landlords, property managers, and small commercial property owners throughout the Santa Maria area. The documentation and communication we provide is suited to both individual owners navigating a claim and property managers coordinating with multiple stakeholders."}]
 rendered: true
 ---
-When water soaks through your subfloor, smoke odor settles into your drywall, or mold starts spreading behind a cabinet, you need someone who knows exactly what to do next. Coastal Restoration Services Inc handles residential and commercial property damage in Santa Maria and the surrounding Central Coast, from the first call through the final repair.
+When water soaks through your subfloor, smoke odor settles into your drywall, or mold starts spreading behind a cabinet, you need someone who knows exactly what to do next. Coastal Restoration handles residential and commercial property damage in Santa Maria and the surrounding Central Coast, from the first call through the final repair.
 
 ## Services we handle
 
@@ -29,7 +29,7 @@ When water soaks through your subfloor, smoke odor settles into your drywall, or
 
 ## Why homeowners and property managers call us
 
-Property damage is stressful on its own. Dealing with an unfamiliar contractor on top of it shouldn't be. Coastal Restoration Services Inc is based right here in Santa Maria, not a franchise dispatched from hours away, so response times stay short and the crew showing up knows the local housing stock, the older construction common in neighborhoods near Lompoc, and the moisture patterns that come with being close to the coast.
+Property damage is stressful on its own. Dealing with an unfamiliar contractor on top of it shouldn't be. Coastal Restoration is based right here in Santa Maria, not a franchise dispatched from hours away, so response times stay short and the crew showing up knows the local housing stock, the older construction common in neighborhoods near Lompoc, and the moisture patterns that come with being close to the coast.
 
 We work directly with most major insurance carriers. That means we document the loss thoroughly, photographs, moisture readings, written scope, and submit it in a format adjusters recognize. For most claims, you are not writing a check to us and waiting to be reimbursed; we bill the carrier directly.
 

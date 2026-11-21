@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Santa Margarita, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Santa Margarita"
 meta_description: "Emergency board-up and tarping in Santa Margarita, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping santa margarita"
@@ -41,7 +41,7 @@ Documentation runs parallel to the physical work. We photograph every opening be
 
 ## Reaching Santa Margarita from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Santa Margarita is accessible via US-101 North to Highway 58 East, or through the Cuesta Grade on US-101 depending on the origin point within the county. The route through Atascadero and then south on US-101 is typically the most direct corridor. Because Santa Margarita is a smaller, more rural community than the coastal cities in the county, we coordinate access details when we take the call, some properties sit on private ranch roads or easements off the main county routes, and knowing that before dispatch saves time on arrival.
+Coastal Restoration is based in Vandenberg Village, and Santa Margarita is accessible via US-101 North to Highway 58 East, or through the Cuesta Grade on US-101 depending on the origin point within the county. The route through Atascadero and then south on US-101 is typically the most direct corridor. Because Santa Margarita is a smaller, more rural community than the coastal cities in the county, we coordinate access details when we take the call, some properties sit on private ranch roads or easements off the main county routes, and knowing that before dispatch saves time on arrival.
 
 ## Santa Margarita Insurance Coordination
 
@@ -53,4 +53,4 @@ We document the scope of work in a format that aligns with standard adjuster wor
 
 One thing that comes up specifically in Santa Margarita and the surrounding rural SLO County corridor: older ranch properties frequently have corrugated metal roofing over wood purlins rather than standard asphalt shingle over plywood decking. Tarping corrugated metal requires a different approach, standard cap-nail attachment points don't hold reliably on the profile, and the metal's thermal expansion means a tarp secured too tightly at one temperature can tear loose as the metal moves. We use a batten-and-rope system on these roofs that accounts for the profile and the movement, which is something a crew unfamiliar with agricultural construction in this region might not anticipate.
 
-If your Santa Margarita property has been damaged by fire, storm, or impact and you need openings secured before conditions worsen, call Coastal Restoration Services Inc at (805) 345-7440. We serve the Santa Margarita area and can walk you through next steps, coordinate with your insurer, and get a crew moving toward your property.
+If your Santa Margarita property has been damaged by fire, storm, or impact and you need openings secured before conditions worsen, call Coastal Restoration at (805) 345-7440. We serve the Santa Margarita area and can walk you through next steps, coordinate with your insurer, and get a crew moving toward your property.

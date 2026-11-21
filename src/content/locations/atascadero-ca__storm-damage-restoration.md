@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Atascadero, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Atascadero, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Atascadero"
 meta_description: "Emergency storm damage restoration in Atascadero, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration atascadero"
@@ -55,4 +55,4 @@ Our team travels north on US-101 to reach Atascadero, a route that typically run
 
 Atascadero's older residential streets were largely developed before the city adopted its current grading and drainage ordinances, which means many properties have lot drainage patterns that direct runoff toward the structure rather than away from it. After a significant storm, that design quirk can keep water pooling against foundation stems and under subfloor crawl spaces long after the rain stops, sometimes for days. If your home was built before the mid-1980s and you're seeing moisture in the crawl space after a storm, the source is often not a roof breach at all, but surface water that has nowhere to go. We check both during every assessment.
 
-If storm damage has left your Atascadero home exposed, whether it's a tree through the roof, standing water under the floor, or wind-driven rain that found its way into a wall cavity, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the damage, stop further intrusion, and walk you through exactly what comes next.
+If storm damage has left your Atascadero home exposed, whether it's a tree through the roof, standing water under the floor, or wind-driven rain that found its way into a wall cavity, call Coastal Restoration at (805) 345-7440. We'll assess the damage, stop further intrusion, and walk you through exactly what comes next.

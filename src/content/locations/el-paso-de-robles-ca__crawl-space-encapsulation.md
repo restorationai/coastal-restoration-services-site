@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in El Paso de Robles, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in El Paso de Robles, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in El Paso de Robles"
 meta_description: "Crawl space encapsulation in El Paso de Robles, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation el paso de robles"
@@ -46,7 +46,7 @@ Final moisture readings are taken and documented so you have a baseline for futu
 
 ## Reaching El Paso de Robles from Vandenberg Village
 
-Coastal Restoration Services is based in Vandenberg Village and serves the Paso Robles area via US-101 North. The drive runs roughly 45 miles through Santa Maria and San Luis Obispo, and our crews are familiar with the route. When you call (805) 345-7440, our scheduling team can give you a realistic arrival window based on current crew availability, we'd rather give you an honest time than a number we can't keep.
+Coastal Restoration is based in Vandenberg Village and serves the Paso Robles area via US-101 North. The drive runs roughly 45 miles through Santa Maria and San Luis Obispo, and our crews are familiar with the route. When you call (805) 345-7440, our scheduling team can give you a realistic arrival window based on current crew availability, we'd rather give you an honest time than a number we can't keep.
 
 ## Equipment & Methods We Use for Crawl Space Encapsulation
 
@@ -56,4 +56,4 @@ The tools and materials on a crawl space job matter more than most homeowners re
 
 One pattern we see specifically in Paso Robles: homes on the west side of town near the older agricultural parcels sometimes have crawl spaces that were used for irrigation equipment storage at some point, leaving behind soil disturbance, old pipe stubs, and occasionally residual standing water in low corners. If your property has any agricultural history, even going back a generation, it's worth mentioning when you call. We'll bring extra equipment on the initial visit rather than discovering mid-job that we need to make a second trip for a sump pump or additional barrier material.
 
-If moisture is compromising your home's structure, air quality, or energy efficiency, the right time to address it is before the next rainy season. Call Coastal Restoration Services at **(805) 345-7440** to schedule a crawl space assessment in El Paso de Robles, we'll tell you exactly what's there and what it will take to fix it.
+If moisture is compromising your home's structure, air quality, or energy efficiency, the right time to address it is before the next rainy season. Call Coastal Restoration at **(805) 345-7440** to schedule a crawl space assessment in El Paso de Robles, we'll tell you exactly what's there and what it will take to fix it.

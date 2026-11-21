@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in San Luis Obispo, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in San Luis Obispo"
 meta_description: "Emergency board-up and tarping in San Luis Obispo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping san luis obispo"
@@ -43,7 +43,7 @@ Roof tarping follows the IICRC and industry standard approach of running tarps f
 
 ## Reaching San Luis Obispo from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, roughly 35 miles south of San Luis Obispo via US-101 North. The route is straightforward in off-peak hours, though the Cuesta Grade between Santa Margarita and the city can slow travel during morning commute windows or when Caltrans has lane restrictions active. For properties in the southern part of the city, near the Edna Valley corridor or off Tank Farm Road, the approach from the south on 101 is typically the fastest path. Properties closer to the Cal Poly campus or the northern neighborhoods are most efficiently reached by continuing to the Grand Avenue or Monterey Street exits.
+Coastal Restoration operates out of Vandenberg Village, roughly 35 miles south of San Luis Obispo via US-101 North. The route is straightforward in off-peak hours, though the Cuesta Grade between Santa Margarita and the city can slow travel during morning commute windows or when Caltrans has lane restrictions active. For properties in the southern part of the city, near the Edna Valley corridor or off Tank Farm Road, the approach from the south on 101 is typically the fastest path. Properties closer to the Cal Poly campus or the northern neighborhoods are most efficiently reached by continuing to the Grand Avenue or Monterey Street exits.
 
 When you call (805) 345-7440, the team will confirm your address and the best access point, especially if the property has alley access or a shared driveway that affects where equipment can stage.
 

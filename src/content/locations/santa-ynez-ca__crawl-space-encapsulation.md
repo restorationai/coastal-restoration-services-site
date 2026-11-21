@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Santa Ynez, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Santa Ynez, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Santa Ynez"
 meta_description: "Crawl space encapsulation in Santa Ynez, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation santa ynez"
@@ -44,10 +44,10 @@ For the liner itself, we use products rated for ground contact with reinforced s
 
 ## Reaching Santa Ynez from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Santa Ynez is a straightforward drive east via Highway 246 through Lompoc and Buellton. The route is direct, and the team is familiar with the valley's geography from Buellton to the eastern end of the Santa Ynez Valley. When you call (805) 345-7440, the team can confirm scheduling and give you a realistic arrival window based on current workload.
+Coastal Restoration is based in Vandenberg Village, and Santa Ynez is a straightforward drive east via Highway 246 through Lompoc and Buellton. The route is direct, and the team is familiar with the valley's geography from Buellton to the eastern end of the Santa Ynez Valley. When you call (805) 345-7440, the team can confirm scheduling and give you a realistic arrival window based on current workload.
 
 ## Local Note
 
 One thing that comes up repeatedly on Santa Ynez properties, particularly on the older agricultural parcels and equestrian estates that make up a significant share of the housing stock here, is that crawl spaces were sometimes backfilled with decomposed granite or loose gravel rather than left as native soil. That material drains better than clay, but it also means the vapor barrier installation requires more careful anchoring because the surface is uneven and friable. A liner that looks flat on day one can shift and gap at seams within a season if it isn't properly weighted and fastened at the edges. It's a detail that matters in this valley in a way it simply doesn't in a tract home on a flat concrete stem wall.
 
-If your Santa Ynez home has a crawl space that smells musty after rain, shows signs of sagging insulation, or has never had a proper vapor barrier installed, encapsulation is one of the highest-return improvements you can make to the long-term health of the structure. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an assessment, the conversation is straightforward, and the inspection will tell you exactly what the space needs.
+If your Santa Ynez home has a crawl space that smells musty after rain, shows signs of sagging insulation, or has never had a proper vapor barrier installed, encapsulation is one of the highest-return improvements you can make to the long-term health of the structure. Call Coastal Restoration at (805) 345-7440 to schedule an assessment, the conversation is straightforward, and the inspection will tell you exactly what the space needs.

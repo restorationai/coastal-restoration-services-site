@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Los Olivos, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Los Olivos, CA | Coastal Restoration"
 h1: "Mold Remediation in Los Olivos"
 meta_description: "Mold remediation in Los Olivos, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation los olivos"
@@ -36,7 +36,7 @@ Once the moisture source is identified and controlled, we establish negative air
 
 ## Reaching Los Olivos from Vandenberg Village
 
-Coastal Restoration Services operates out of Vandenberg Village, and Los Olivos is accessible via Highway 1 north to Highway 135, then east through the Santa Ynez Valley corridor, a route that keeps travel time predictable on most days. The valley road network is straightforward, though some of the rural property addresses off Foxen Canyon Road or the side roads north of town can add a few minutes for crews unfamiliar with the area. We confirm property access details when you call so there are no delays once the crew is en route. Reach us at (805) 345-7440 to schedule an assessment.
+Coastal Restoration operates out of Vandenberg Village, and Los Olivos is accessible via Highway 1 north to Highway 135, then east through the Santa Ynez Valley corridor, a route that keeps travel time predictable on most days. The valley road network is straightforward, though some of the rural property addresses off Foxen Canyon Road or the side roads north of town can add a few minutes for crews unfamiliar with the area. We confirm property access details when you call so there are no delays once the crew is en route. Reach us at (805) 345-7440 to schedule an assessment.
 
 ## Los Olivos Insurance Coordination
 
@@ -46,4 +46,4 @@ Mold claims in California can be complicated by the distinction between sudden-a
 
 One pattern we see specifically in Los Olivos and the surrounding valley: properties with mature landscaping and drip irrigation systems installed close to the foundation. When irrigation emitters fail or schedules aren't adjusted seasonally, water saturates the soil immediately adjacent to the stem wall and wicks into the crawl space or slab edge. The mold that develops in those crawl spaces is often well-established before the homeowner notices any indoor air quality change, because the affected area is below the living space and not regularly inspected. If your property has mature plantings within two feet of the foundation, it's worth having the crawl space checked after any extended wet period.
 
-If you're dealing with visible mold growth, an unexplained musty odor, or a recent water intrusion in a Los Olivos property, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll assess the extent of the problem, explain the remediation scope in plain terms, and work with your insurance carrier to move the process forward without unnecessary delays.
+If you're dealing with visible mold growth, an unexplained musty odor, or a recent water intrusion in a Los Olivos property, call Coastal Restoration at **(805) 345-7440**. We'll assess the extent of the problem, explain the remediation scope in plain terms, and work with your insurance carrier to move the process forward without unnecessary delays.

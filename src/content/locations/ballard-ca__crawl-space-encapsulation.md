@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Ballard, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Ballard, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Ballard"
 meta_description: "Crawl space encapsulation in Ballard, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation ballard"
@@ -46,4 +46,4 @@ For properties where previous moisture intrusion has already caused insulation d
 
 One pattern that comes up repeatedly in homes along this stretch of the California coast: original builders in the mid-twentieth century often installed fiberglass batt insulation between floor joists with the kraft paper facing oriented downward, toward the crawl space, rather than upward toward the conditioned floor. In a dry climate that installation detail is a minor code curiosity. In Ballard's persistently humid conditions, it means the vapor retarder is on the wrong side of the assembly, actively trapping moisture against the wood rather than managing it. When the crew finds this configuration during inspection, the batts typically need to come out before encapsulation proceeds. It is a detail that does not show up in a surface-level estimate but makes a significant difference in long-term performance.
 
-If you are noticing soft flooring, condensation on ductwork beneath the house, or a persistent damp smell that worsens in the morning, those are reliable indicators that the crawl space is driving the problem. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an inspection, the sooner the moisture source is addressed in Ballard's climate, the less secondary damage accumulates in the structure above it.
+If you are noticing soft flooring, condensation on ductwork beneath the house, or a persistent damp smell that worsens in the morning, those are reliable indicators that the crawl space is driving the problem. Call Coastal Restoration at (805) 345-7440 to schedule an inspection, the sooner the moisture source is addressed in Ballard's climate, the less secondary damage accumulates in the structure above it.

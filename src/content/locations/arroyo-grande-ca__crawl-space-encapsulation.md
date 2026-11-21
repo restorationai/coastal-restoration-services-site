@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Arroyo Grande, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Arroyo Grande, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Arroyo Grande"
 meta_description: "Crawl space encapsulation in Arroyo Grande, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation arroyo grande"
@@ -43,10 +43,10 @@ From there, the process follows a logical sequence:
 
 ## Reaching Arroyo Grande from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, which puts the Arroyo Grande area well within our regular service corridor along the Highway 1 and US-101 corridor through San Luis Obispo County. The drive between our headquarters and Arroyo Grande is straightforward, and we schedule crawl space assessments throughout the week. If you're calling to set up an inspection, reach us at (805) 345-7440 and we'll confirm availability and a scheduling window that works for your household.
+Coastal Restoration is based in Vandenberg Village, which puts the Arroyo Grande area well within our regular service corridor along the Highway 1 and US-101 corridor through San Luis Obispo County. The drive between our headquarters and Arroyo Grande is straightforward, and we schedule crawl space assessments throughout the week. If you're calling to set up an inspection, reach us at (805) 345-7440 and we'll confirm availability and a scheduling window that works for your household.
 
 ## Local Note: What Contractors Working This Valley Know
 
 Homes built on the lower-elevation sections of Arroyo Grande, particularly those closer to the Arroyo Grande Creek drainage, tend to have shallower crawl spaces than properties on higher ground, sometimes as little as 18 to 24 inches of clearance. That tight access slows liner installation and makes seam sealing more physically demanding. It also means that any sump or drainage work requires careful planning to avoid disturbing the footings. Experienced encapsulation crews account for this in their material staging and timeline estimates; a job quoted without a physical site visit in this area is likely to carry surprises. We always inspect in person before providing a final scope.
 
-If you're dealing with musty odors, soft spots in your flooring, or simply want to protect a home you've owned in Arroyo Grande for years, a properly installed encapsulation system is one of the highest-return improvements you can make to the envelope of the house. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an on-site crawl space assessment, we'll walk you through exactly what the space needs and what it will cost before any work begins.
+If you're dealing with musty odors, soft spots in your flooring, or simply want to protect a home you've owned in Arroyo Grande for years, a properly installed encapsulation system is one of the highest-return improvements you can make to the envelope of the house. Call Coastal Restoration at (805) 345-7440 to schedule an on-site crawl space assessment, we'll walk you through exactly what the space needs and what it will cost before any work begins.

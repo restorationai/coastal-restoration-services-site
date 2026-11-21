@@ -76,7 +76,7 @@ A proper encapsulation job follows a specific sequence, and skipping steps is ho
 
 This is a moisture-control job, not a handyman weekend project, because a liner installed wrong traps moisture instead of blocking it. If your crawl space already shows signs of mold or standing water, you want a crew that can remediate and encapsulate in one engagement rather than hiring two separate contractors.
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria, Orcutt, and the surrounding Central Coast, and handles both the mold remediation and the encapsulation scope when a crawl space needs both. [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) for a moisture assessment before deciding on a scope of work.
+Coastal Restoration is an IICRC Certified Firm serving Santa Maria, Orcutt, and the surrounding Central Coast, and handles both the mold remediation and the encapsulation scope when a crawl space needs both. [Call Coastal Restoration at (805) 345-7440](tel:+18053457440) for a moisture assessment before deciding on a scope of work.
 
 If you've noticed [signs of hidden mold](/blog/signs-of-hidden-mold/) in your home beyond the crawl space, worth checking that separately, since crawl space moisture and attic or wall-cavity moisture don't always share a cause.
 
@@ -84,6 +84,6 @@ Get a written scope and a line-item quote before any crew starts work. A legitim
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm (license #11245226) serving Santa Maria, CA and the surrounding Central Coast since answering calls 24/7. Their technicians hold WRT and ASD certifications and handle water damage restoration, mold remediation, and crawl space encapsulation across Santa Maria, Orcutt, Lompoc, and neighboring communities.
+Coastal Restoration is an IICRC Certified Firm (license #11245226) serving Santa Maria, CA and the surrounding Central Coast since answering calls 24/7. Their technicians hold WRT and ASD certifications and handle water damage restoration, mold remediation, and crawl space encapsulation across Santa Maria, Orcutt, Lompoc, and neighboring communities.

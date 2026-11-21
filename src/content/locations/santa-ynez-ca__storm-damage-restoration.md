@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Santa Ynez, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Santa Ynez, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Santa Ynez"
 meta_description: "Emergency storm damage restoration in Santa Ynez, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration santa ynez"
@@ -43,7 +43,7 @@ Demolition of saturated materials follows, then industrial drying with high-capa
 
 ## Reaching Santa Ynez from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village. From there, the most direct route to Santa Ynez runs east on Highway 246, which connects the two communities through Buellton. Under normal conditions, that's a straightforward drive through the valley. After a major storm, Highway 246 can see debris or localized flooding near the low-lying stretches between Buellton and the Santa Ynez town core, so the team monitors road conditions and routes accordingly. If you're calling from the eastern end of the valley closer to the Solvang border, the approach timing is similar, the valley is compact enough that the whole corridor is reachable without the delays you'd face in a larger metro area.
+Coastal Restoration is based in Vandenberg Village. From there, the most direct route to Santa Ynez runs east on Highway 246, which connects the two communities through Buellton. Under normal conditions, that's a straightforward drive through the valley. After a major storm, Highway 246 can see debris or localized flooding near the low-lying stretches between Buellton and the Santa Ynez town core, so the team monitors road conditions and routes accordingly. If you're calling from the eastern end of the valley closer to the Solvang border, the approach timing is similar, the valley is compact enough that the whole corridor is reachable without the delays you'd face in a larger metro area.
 
 ## Santa Ynez Insurance Coordination
 
@@ -55,4 +55,4 @@ The documentation process starts at the first site visit: photographs of every a
 
 One thing that comes up specifically in the Santa Ynez Valley: many of the older ranch properties here have wood-framed outbuildings, horse barns, equipment sheds, guest casitas, that sit on pier-and-beam foundations with minimal anchor bolting by today's standards. During a wind event, these structures can rack or partially collapse in ways that damage adjacent utility lines or block access to the main residence. Restoration work on the primary structure sometimes has to be sequenced around stabilizing or demolishing a compromised outbuilding first. It's not a situation you run into often in suburban markets, but in this valley it's common enough that it's worth asking about on the first call.
 
-If a storm has left your Santa Ynez property with a breached roof, standing water in a crawl space, or a downed tree through a structure, call Coastal Restoration Services Inc at (805) 345-7440. The sooner the building envelope is secured and drying begins, the less material ends up in a dumpster, and the faster you're back to normal.
+If a storm has left your Santa Ynez property with a breached roof, standing water in a crawl space, or a downed tree through a structure, call Coastal Restoration at (805) 345-7440. The sooner the building envelope is secured and drying begins, the less material ends up in a dumpster, and the faster you're back to normal.

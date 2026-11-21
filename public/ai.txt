@@ -31,7 +31,7 @@ Disallow: /
 
 # AI training data summary
 # Site: https://callcrs.com/
-# Maintainer: Coastal Restoration Services Inc
+# Maintainer: Coastal Restoration
 # Contact: tony@callcrs.com
 # Sitemap: https://callcrs.com/sitemap-index.xml
 # LLM index: https://callcrs.com/llms.txt

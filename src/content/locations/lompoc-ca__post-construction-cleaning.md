@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Post-Construction and Specialty Cleaning in Lompoc, CA | Coastal Restoration Services Inc"
+title: "Post-Construction and Specialty Cleaning in Lompoc, CA | Coastal Restoration"
 h1: "Post-Construction and Specialty Cleaning in Lompoc"
 meta_description: "Post-construction and specialty cleaning in Lompoc, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "post-construction and specialty cleaning lompoc"
@@ -44,7 +44,7 @@ For specialty cleaning needs, post-renovation deep cleans, move-out cleans for r
 
 ## Reaching Lompoc from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, which puts Lompoc well within our regular service area. The drive up Highway 1 or via the surface streets through the Vandenberg Village corridor is straightforward, and we schedule Lompoc jobs without treating them as outlying calls. Whether the project is on the north end of the city near the historic district or closer to the agricultural edges of town, we're not adding travel surcharges or deprioritizing scheduling.
+Coastal Restoration is based in Vandenberg Village, which puts Lompoc well within our regular service area. The drive up Highway 1 or via the surface streets through the Vandenberg Village corridor is straightforward, and we schedule Lompoc jobs without treating them as outlying calls. Whether the project is on the north end of the city near the historic district or closer to the agricultural edges of town, we're not adding travel surcharges or deprioritizing scheduling.
 
 For general contractors and property managers coordinating multiple trades, we're accustomed to working around punch-list schedules and final inspection windows. Call (805) 345-7440 to discuss your project timeline.
 
@@ -52,4 +52,4 @@ For general contractors and property managers coordinating multiple trades, we'r
 
 One thing that catches out-of-area cleaning crews working in Lompoc: the valley's diurnal temperature swing, warm afternoons dropping to cool evenings, causes newly installed materials to expand and contract noticeably during the first weeks after construction. On hardwood and LVP floors, this means acclimation gaps can open up slightly overnight, and dust that seemed cleaned out of seams reappears by morning. On final-clean day, we do a second pass on flooring seams specifically because of this pattern. It's a small detail, but it's the kind of thing that separates a clean that holds through final inspection from one that generates a callback.
 
-When your Lompoc project is ready for its final clean, or if you need a specialty deep clean after a renovation, call Coastal Restoration Services Inc at **(805) 345-7440** to schedule a walkthrough and get a scope-specific quote.
+When your Lompoc project is ready for its final clean, or if you need a specialty deep clean after a renovation, call Coastal Restoration at **(805) 345-7440** to schedule a walkthrough and get a scope-specific quote.

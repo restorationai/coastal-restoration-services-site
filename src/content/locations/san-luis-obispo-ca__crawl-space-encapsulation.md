@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in San Luis Obispo, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in San Luis Obispo"
 meta_description: "Crawl space encapsulation in San Luis Obispo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation san luis obispo"
@@ -40,7 +40,7 @@ In San Luis Obispo homes where the crawl space is tight, pier-and-beam construct
 
 ## Reaching San Luis Obispo from Vandenberg Village
 
-Coastal Restoration Services operates out of Vandenberg Village, which puts the San Luis Obispo area well within our regular service corridor along the 101 corridor. The drive up Highway 101 north to SLO is a straightforward run, and we schedule jobs throughout the city and surrounding areas without subcontracting the work out. Whether the property is near the Cal Poly campus, closer to the Edna Valley edge of the city, or in one of the neighborhoods tucked against the Santa Lucia foothills, we're familiar with the area and the access considerations that come with it.
+Coastal Restoration operates out of Vandenberg Village, which puts the San Luis Obispo area well within our regular service corridor along the 101 corridor. The drive up Highway 101 north to SLO is a straightforward run, and we schedule jobs throughout the city and surrounding areas without subcontracting the work out. Whether the property is near the Cal Poly campus, closer to the Edna Valley edge of the city, or in one of the neighborhoods tucked against the Santa Lucia foothills, we're familiar with the area and the access considerations that come with it.
 
 For scheduling, call us at **(805) 345-7440** and we'll get a site assessment on the calendar promptly.
 
@@ -48,4 +48,4 @@ For scheduling, call us at **(805) 345-7440** and we'll get a site assessment on
 
 One thing that comes up repeatedly on San Luis Obispo jobs: homes in the older residential streets near downtown were often built with crawl space clearances well under 24 inches, sometimes as low as 14 to 16 inches. That's below what most encapsulation crews are willing to work in comfortably, and some contractors will quote the job and then walk away when they see the actual access. Our team is equipped and trained for confined-space work, and we don't quote a job we haven't assessed in person. If you've had contractors decline or give you a vague estimate without going under the house, that's worth asking about before you sign anything.
 
-If you're dealing with musty odors, high humidity readings in your living space, or visible deterioration on wood framing in your San Luis Obispo crawl space, the underlying moisture problem won't resolve on its own. Encapsulation is a one-time investment that protects your framing, your insulation, and the air quality in the rooms above. Call Coastal Restoration Services at **(805) 345-7440** to schedule an on-site assessment, we'll give you a straight answer about what the space needs.
+If you're dealing with musty odors, high humidity readings in your living space, or visible deterioration on wood framing in your San Luis Obispo crawl space, the underlying moisture problem won't resolve on its own. Encapsulation is a one-time investment that protects your framing, your insulation, and the air quality in the rooms above. Call Coastal Restoration at **(805) 345-7440** to schedule an on-site assessment, we'll give you a straight answer about what the space needs.

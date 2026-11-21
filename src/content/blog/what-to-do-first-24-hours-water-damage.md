@@ -95,4 +95,4 @@ The total timeline for a typical water loss, a burst pipe affecting one or two r
 
 ---
 
-If your situation is beyond a quick mop-up, if water reached your walls, your subfloor, or more than one room, the team at Coastal Restoration Services Inc handles water damage throughout Vandenberg Village and the surrounding area. Reach them at **(805) 345-7440** to talk through what you are seeing and get guidance on next steps.
+If your situation is beyond a quick mop-up, if water reached your walls, your subfloor, or more than one room, the team at Coastal Restoration handles water damage throughout Vandenberg Village and the surrounding area. Reach them at **(805) 345-7440** to talk through what you are seeing and get guidance on next steps.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Trauma Scene Cleanup in Vandenberg AFB, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Trauma Scene Cleanup in Vandenberg AFB, CA | Coastal Restoration"
 h1: "24/7 Emergency Trauma Scene Cleanup in Vandenberg AFB"
 meta_description: "24/7 emergency trauma scene cleanup in Vandenberg AFB, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "trauma scene cleanup vandenberg afb"
@@ -21,7 +21,7 @@ service_display: "Trauma Scene Cleanup"
 content_guardrails: "sensitive"
 rendered: true
 ---
-**A traumatic event inside a Vandenberg AFB home or base housing unit is disorienting enough without also worrying about who cleans up afterward.** Coastal Restoration Services handles trauma scene cleanup with the same discretion whether the address sits in base housing, off-base in Lompoc proper, or on one of the ranch properties scattered along the coastal bluffs. We answer 24/7, and our crews are trained to work quietly, respectfully, and out of view of neighbors while restoring the space to a safe, livable condition.
+**A traumatic event inside a Vandenberg AFB home or base housing unit is disorienting enough without also worrying about who cleans up afterward.** Coastal Restoration handles trauma scene cleanup with the same discretion whether the address sits in base housing, off-base in Lompoc proper, or on one of the ranch properties scattered along the coastal bluffs. We answer 24/7, and our crews are trained to work quietly, respectfully, and out of view of neighbors while restoring the space to a safe, livable condition.
 
 ## Why Vandenberg AFB Properties Need a Different Approach
 
@@ -43,4 +43,4 @@ Trauma cleanup claims move differently depending on who's paying. For privately 
 
 One detail that matters here and doesn't come up in most cities: Vandenberg's layout means some housing areas are a meaningful drive from the nearest gate, and a crew that shows up without pre-cleared access can lose the better part of an hour waiting at security. We call ahead every time, confirm who's expecting us at the gate, and build that lead time into our response rather than treating it as a surprise once we're already en route.
 
-If your family or your property is facing a trauma cleanup situation in Vandenberg AFB, Lompoc, or the surrounding Santa Barbara County area, call Coastal Restoration Services at (805) 345-7440. We handle the logistics, the gate coordination, and the cleanup itself so you don't have to manage any of it alone.
+If your family or your property is facing a trauma cleanup situation in Vandenberg AFB, Lompoc, or the surrounding Santa Barbara County area, call Coastal Restoration at (805) 345-7440. We handle the logistics, the gate coordination, and the cleanup itself so you don't have to manage any of it alone.

@@ -1,7 +1,7 @@
 ---
 archetype: "contact"
-title: "Contact Coastal Restoration Services Inc | Restoration in Vandenberg Village"
-h1: "Contact Coastal Restoration Services Inc"
+title: "Contact Coastal Restoration | Restoration in Vandenberg Village"
+h1: "Contact Coastal Restoration"
 meta_description: "Call (805) 345-7440 for restoration services in Vandenberg Village and surrounding areas. Free estimates. Direct insurance billing."
 primary_keyword: "coastal restoration services inc contact"
 secondary_keywords: ["restoration company contact"]

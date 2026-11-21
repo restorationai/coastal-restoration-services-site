@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Graffiti Removal & Vandalism Cleanup in Oceano, CA | Coastal Restoration Services Inc"
+title: "Graffiti Removal & Vandalism Cleanup in Oceano, CA | Coastal Restoration"
 h1: "Graffiti Removal & Vandalism Cleanup in Oceano"
 meta_description: "Graffiti removal and vandalism cleanup in Oceano, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "graffiti removal oceano"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Graffiti Removal & Vandalism Cleanup"
 rendered: true
 ---
-Oceano sits in a narrow coastal strip where salt air, marine layer fog, and the constant grind of Highway 1 traffic create conditions that accelerate surface damage, and when vandalism hits a property here, that damage compounds fast. Spray paint soaks deeper into porous stucco and weathered wood siding than it would in an inland climate. Broken glass left overnight on a damp coastal lot invites rust staining, mold colonization, and liability. Coastal Restoration Services Inc responds to vandalism calls throughout Oceano and the broader San Luis Obispo County coast, bringing the same structured approach to a tagged storefront that we bring to a flood-damaged interior.
+Oceano sits in a narrow coastal strip where salt air, marine layer fog, and the constant grind of Highway 1 traffic create conditions that accelerate surface damage, and when vandalism hits a property here, that damage compounds fast. Spray paint soaks deeper into porous stucco and weathered wood siding than it would in an inland climate. Broken glass left overnight on a damp coastal lot invites rust staining, mold colonization, and liability. Coastal Restoration responds to vandalism calls throughout Oceano and the broader San Luis Obispo County coast, bringing the same structured approach to a tagged storefront that we bring to a flood-damaged interior.
 
 ## Why Oceano Properties See Vandalism Damage Differently
 

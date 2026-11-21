@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Cambria, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Cambria, CA | Coastal Restoration"
 h1: "Restoration Services in Cambria"
 meta_description: "Serving Cambria, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services cambria"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-Coastal Restoration Services Inc responds to water damage, mold, fire and smoke damage, and related emergencies for homeowners and property managers throughout Cambria. From the fog-drenched bluffs above Moonstone Beach to the older cottages tucked into the pines along the East Village, properties here face a specific set of conditions that routine contractors rarely understand. When something goes wrong, the goal is to stop the damage from spreading, document everything your insurance carrier needs, and return your property to a livable condition, without unnecessary delays or guesswork.
+Coastal Restoration responds to water damage, mold, fire and smoke damage, and related emergencies for homeowners and property managers throughout Cambria. From the fog-drenched bluffs above Moonstone Beach to the older cottages tucked into the pines along the East Village, properties here face a specific set of conditions that routine contractors rarely understand. When something goes wrong, the goal is to stop the damage from spreading, document everything your insurance carrier needs, and return your property to a livable condition, without unnecessary delays or guesswork.
 
 ## Restoration emergencies common in Cambria
 
@@ -31,7 +31,7 @@ The town's position within a wildland-urban interface also creates fire and smok
 
 ### Water damage restoration
 
-Water damage in Cambria frequently starts as a slow intrusion, a failing roof membrane, a cracked crawl space foundation vent, or a supply line that weeps for weeks before anyone notices the buckled hardwood floor. Coastal Restoration Services Inc uses thermal imaging and moisture meters to map the full extent of saturation before any drying equipment is placed, so hidden pockets in wall cavities or beneath tile don't get missed. Structural drying follows the IICRC S500 standard, and we document moisture readings throughout the process for your insurance file.
+Water damage in Cambria frequently starts as a slow intrusion, a failing roof membrane, a cracked crawl space foundation vent, or a supply line that weeps for weeks before anyone notices the buckled hardwood floor. Coastal Restoration uses thermal imaging and moisture meters to map the full extent of saturation before any drying equipment is placed, so hidden pockets in wall cavities or beneath tile don't get missed. Structural drying follows the IICRC S500 standard, and we document moisture readings throughout the process for your insurance file.
 
 ### Mold remediation
 
@@ -47,7 +47,7 @@ Once mitigation is complete, many properties need carpentry, drywall, flooring, 
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, roughly 55 miles south of Cambria via Highway 1 and US-101. The most direct route north runs up the 101 to San Luis Obispo, then connects to Highway 1 through Morro Bay and Cayucos before reaching Cambria, typically a 60–75 minute drive under normal Central Coast traffic conditions. Properties along the Highway 1 corridor through the West Village and the residential streets climbing toward the East Village are all within our standard service area. Call (805) 345-7440 to confirm scheduling and get a crew dispatched as promptly as conditions allow.
+Coastal Restoration is headquartered in Vandenberg Village, roughly 55 miles south of Cambria via Highway 1 and US-101. The most direct route north runs up the 101 to San Luis Obispo, then connects to Highway 1 through Morro Bay and Cayucos before reaching Cambria, typically a 60–75 minute drive under normal Central Coast traffic conditions. Properties along the Highway 1 corridor through the West Village and the residential streets climbing toward the East Village are all within our standard service area. Call (805) 345-7440 to confirm scheduling and get a crew dispatched as promptly as conditions allow.
 
 ## Building stock, site conditions, and permits in Cambria
 
@@ -57,4 +57,4 @@ Homes of that vintage often still carry galvanized steel supply lines and cast i
 
 Cambria is unincorporated, so building permits come from San Luis Obispo County, and coastal zone rules apply to work beyond in-kind repair.
 
-If you're dealing with water, mold, fire, or smoke damage at a Cambria property, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll walk you through the next steps, explain what the inspection involves, and give you a clear picture of what remediation will look like before any work begins.
+If you're dealing with water, mold, fire, or smoke damage at a Cambria property, call Coastal Restoration at **(805) 345-7440**. We'll walk you through the next steps, explain what the inspection involves, and give you a clear picture of what remediation will look like before any work begins.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Guadalupe, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Guadalupe, CA | Coastal Restoration"
 h1: "Restoration Services in Guadalupe"
 meta_description: "Serving Guadalupe, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services guadalupe"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or a slow roof leak finally makes itself known, Guadalupe property owners need someone who can assess the damage quickly, explain what needs to happen, and get to work, not someone reading from a script. Coastal Restoration Services Inc handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Guadalupe and the surrounding Santa Barbara County communities. Call us at **(805) 345-7440** to talk through what you're seeing.
+When a pipe bursts behind a wall or a slow roof leak finally makes itself known, Guadalupe property owners need someone who can assess the damage quickly, explain what needs to happen, and get to work, not someone reading from a script. Coastal Restoration handles water damage mitigation, mold remediation, fire and smoke cleanup, and structural drying for homes and commercial properties throughout Guadalupe and the surrounding Santa Barbara County communities. Call us at **(805) 345-7440** to talk through what you're seeing.
 
 ## Restoration emergencies common in Guadalupe
 
@@ -51,7 +51,7 @@ Once mitigation is complete, most properties need some level of rebuild, drywall
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, roughly 15 miles northwest of Guadalupe via Highway 1 south through Casmalia and into town, or via Santa Maria and Highway 166 west depending on traffic. It's a straightforward drive with no significant geographic barriers between our base and Guadalupe. We schedule promptly and aim to have a technician on-site the same day for active water damage situations. Call **(805) 345-7440** during business hours to get on the schedule.
+Coastal Restoration is headquartered in Vandenberg Village, roughly 15 miles northwest of Guadalupe via Highway 1 south through Casmalia and into town, or via Santa Maria and Highway 166 west depending on traffic. It's a straightforward drive with no significant geographic barriers between our base and Guadalupe. We schedule promptly and aim to have a technician on-site the same day for active water damage situations. Call **(805) 345-7440** during business hours to get on the schedule.
 
 ## Building stock, site conditions, and permits in Guadalupe
 
@@ -59,4 +59,4 @@ Guadalupe's housing runs older than much of the Santa Maria Valley. A good share
 
 Sandy valley and dune-influenced soils drain quickly but wash out around footings and undermine crawlspace piers. Structural repair and rebuild work is permitted through the City of Guadalupe, under the statewide California Building Code as adopted locally.
 
-If you're dealing with water intrusion, visible mold, smoke odor, or any other property damage in Guadalupe, the right move is to call before the problem gets larger. Reach Coastal Restoration Services Inc at **(805) 345-7440**.
+If you're dealing with water intrusion, visible mold, smoke odor, or any other property damage in Guadalupe, the right move is to call before the problem gets larger. Reach Coastal Restoration at **(805) 345-7440**.

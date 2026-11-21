@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in Avila Beach, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in Avila Beach, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in Avila Beach"
 meta_description: "Emergency storm damage restoration in Avila Beach, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration avila beach"
@@ -45,7 +45,7 @@ After structural drying is confirmed with final moisture readings, we move into 
 
 ## Reaching Avila Beach from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Avila Beach is a straightforward run down US-101 South to the Avila Beach Drive exit, a route our crews know well from serving the broader San Luis Obispo County coast. We coordinate scheduling directly with property owners and can work around the single-road access that makes Avila Beach a quieter town than its neighbors, ensuring equipment and crew arrive without the staging complications that tighter access points sometimes create.
+Coastal Restoration is based in Vandenberg Village, and Avila Beach is a straightforward run down US-101 South to the Avila Beach Drive exit, a route our crews know well from serving the broader San Luis Obispo County coast. We coordinate scheduling directly with property owners and can work around the single-road access that makes Avila Beach a quieter town than its neighbors, ensuring equipment and crew arrive without the staging complications that tighter access points sometimes create.
 
 For storm events that affect multiple properties in the area simultaneously, we triage calls by severity of active water intrusion and structural exposure, so the jobs with open roofs or flooded interiors move to the front of the schedule.
 
@@ -59,4 +59,4 @@ If your policy includes code-upgrade provisions, storm repairs in this area some
 
 One pattern we see consistently in Avila Beach: homes built on the hillside lots above the beachfront often have wood post-and-pier foundations or older concrete piers that weren't designed with today's drainage expectations in mind. After a significant storm, water that pools against those piers can wick up into floor framing and stay there long after the surface dries out, the crawl space reads wet on a moisture meter weeks after the storm if it isn't actively dried. If your home sits on a sloped lot and you had any standing water during the event, a crawl space inspection is worth doing even if the interior floors feel dry.
 
-If you've had storm damage in Avila Beach, whether it's a tree through the roof, water in the walls, or a crawl space full of debris and mud, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the damage, walk you through what restoration actually involves, and get the work moving before the next weather system arrives.
+If you've had storm damage in Avila Beach, whether it's a tree through the roof, water in the walls, or a crawl space full of debris and mud, call Coastal Restoration at (805) 345-7440. We'll assess the damage, walk you through what restoration actually involves, and get the work moving before the next weather system arrives.

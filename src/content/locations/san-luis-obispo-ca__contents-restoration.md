@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Contents Restoration and Storage in San Luis Obispo, CA | Coastal Restoration"
 h1: "Contents Restoration and Storage in San Luis Obispo"
 meta_description: "Contents restoration and storage in San Luis Obispo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "contents restoration and storage san luis obispo"
@@ -36,7 +36,7 @@ Water-damaged contents are dried in a controlled environment, not simply air-dri
 
 ## Reaching San Luis Obispo from Vandenberg Village
 
-Coastal Restoration Services is based in Vandenberg Village, which puts the team on US-101 North toward San Luis Obispo with a straightforward drive up the coast corridor. Whether a loss has occurred near downtown SLO, in the university district closer to Cal Poly, or in the surrounding communities along Los Osos Valley Road, the routing is direct and doesn't require navigating through multiple city centers. Call (805) 345-7440 to schedule a pack-out assessment and confirm current availability.
+Coastal Restoration is based in Vandenberg Village, which puts the team on US-101 North toward San Luis Obispo with a straightforward drive up the coast corridor. Whether a loss has occurred near downtown SLO, in the university district closer to Cal Poly, or in the surrounding communities along Los Osos Valley Road, the routing is direct and doesn't require navigating through multiple city centers. Call (805) 345-7440 to schedule a pack-out assessment and confirm current availability.
 
 ## Insurance Documentation for SLO Contents Claims
 
@@ -46,4 +46,4 @@ Contents claims are frequently the most contested part of a property insurance f
 
 One thing that comes up repeatedly on SLO jobs, particularly in older neighborhoods near downtown, is the presence of original redwood millwork and cabinetry. Redwood was a common building material throughout Central California in the early-to-mid 20th century, and it responds to smoke and water damage differently than pine or oak. It's more dimensionally stable when wet, which is good, but it's also more porous and will hold smoke odor tenaciously if not treated with the right chemistry. Standard alkaline cleaners can raise the grain and darken the surface permanently. When we encounter redwood built-ins or furniture on a pack-out, we flag them immediately and use pH-neutral cleaning solutions specifically formulated for softwoods, a detail that protects irreplaceable original material that simply can't be sourced or replicated today.
 
-If smoke, water, or contamination has put your belongings at risk in San Luis Obispo, the sooner contents are removed from the affected environment, the better the restoration outcome. Call Coastal Restoration Services at (805) 345-7440 to schedule a pack-out assessment, we'll inventory, transport, clean, and store your items until your property is ready to receive them.
+If smoke, water, or contamination has put your belongings at risk in San Luis Obispo, the sooner contents are removed from the affected environment, the better the restoration outcome. Call Coastal Restoration at (805) 345-7440 to schedule a pack-out assessment, we'll inventory, transport, clean, and store your items until your property is ready to receive them.

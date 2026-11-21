@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Santa Ynez, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Santa Ynez, CA | Coastal Restoration"
 h1: "Mold Remediation in Santa Ynez"
 meta_description: "Mold remediation in Santa Ynez, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation santa ynez"
@@ -40,7 +40,7 @@ After physical removal, we treat structural framing and concrete surfaces with a
 
 ## Reaching Santa Ynez from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, roughly 35 miles southwest of Santa Ynez via Highway 1 and Highway 246. The 246 corridor through Lompoc and Buellton is our primary route into the valley, and it's a route our crews run regularly for jobs throughout the Santa Ynez area. If you're calling to schedule an assessment, we'll give you a straightforward arrival window based on current crew availability, no vague promises.
+Coastal Restoration is based in Vandenberg Village, roughly 35 miles southwest of Santa Ynez via Highway 1 and Highway 246. The 246 corridor through Lompoc and Buellton is our primary route into the valley, and it's a route our crews run regularly for jobs throughout the Santa Ynez area. If you're calling to schedule an assessment, we'll give you a straightforward arrival window based on current crew availability, no vague promises.
 
 ## Santa Ynez Insurance Coordination
 
@@ -50,4 +50,4 @@ Mold claims in California require careful documentation to avoid disputes with c
 
 One pattern we've seen specifically in older Santa Ynez ranch properties: the original construction often used redwood framing for floor joists and sill plates, chosen for its natural rot resistance. That redwood can mask early mold growth visually, the dark, weathered wood tone hides surface discoloration that would be obvious on pine or fir. Moisture meter readings and air sampling tell the real story in these structures, which is why we don't rely on visual inspection alone on valley properties with pre-1970s framing.
 
-If you're dealing with a musty smell, visible discoloration, or a recent water event in Santa Ynez, call Coastal Restoration Services Inc at (805) 345-7440. We'll schedule an assessment, map the moisture, and give you a clear picture of what's actually happening inside your walls, before the problem gets harder to fix.
+If you're dealing with a musty smell, visible discoloration, or a recent water event in Santa Ynez, call Coastal Restoration at (805) 345-7440. We'll schedule an assessment, map the moisture, and give you a clear picture of what's actually happening inside your walls, before the problem gets harder to fix.

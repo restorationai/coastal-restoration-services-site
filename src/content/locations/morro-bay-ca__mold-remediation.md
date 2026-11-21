@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Mold Remediation in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Mold Remediation in Morro Bay, CA | Coastal Restoration"
 h1: "Mold Remediation in Morro Bay"
 meta_description: "Mold remediation in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "mold remediation morro bay"
@@ -38,7 +38,7 @@ Before any reconstruction begins, we verify that the affected area has returned 
 
 ## Reaching Morro Bay from Vandenberg Village
 
-Coastal Restoration Services operates out of Vandenberg Village, which puts Morro Bay roughly 35 miles up the coast via Highway 1 and State Route 1 through Cayucos. Depending on time of day and whether Highway 1 is clear through the Estero Bay corridor, the drive runs under an hour in most conditions. For scheduling and availability, call (805) 345-7440 to confirm timing before we dispatch.
+Coastal Restoration operates out of Vandenberg Village, which puts Morro Bay roughly 35 miles up the coast via Highway 1 and State Route 1 through Cayucos. Depending on time of day and whether Highway 1 is clear through the Estero Bay corridor, the drive runs under an hour in most conditions. For scheduling and availability, call (805) 345-7440 to confirm timing before we dispatch.
 
 ## Morro Bay Insurance & Documentation
 
@@ -48,4 +48,4 @@ Mold claims in California require careful documentation, and carriers vary signi
 
 Something worth knowing if you own property near the waterfront in Morro Bay: the combination of salt air and older window framing means that the sill area, the horizontal wood or composite piece at the bottom of a window frame, is frequently the first place mold colonizes, even when the window looks fine from inside. Salt deposits on the exterior accelerate paint failure and caulk breakdown, and water tracks inward along the sill before it ever shows up on the interior wall surface. On inspections in this part of the coast, we check window sills and the framing immediately below them as a matter of routine, because that's where problems tend to hide longest.
 
-If mold has taken hold in your Morro Bay home or commercial property, the right move is getting a proper assessment before the scope grows. Call Coastal Restoration Services Inc at **(805) 345-7440** to schedule an evaluation, the sooner the moisture source and affected materials are identified, the more straightforward the remediation tends to be.
+If mold has taken hold in your Morro Bay home or commercial property, the right move is getting a proper assessment before the scope grows. Call Coastal Restoration at **(805) 345-7440** to schedule an evaluation, the sooner the moisture source and affected materials are identified, the more straightforward the remediation tends to be.

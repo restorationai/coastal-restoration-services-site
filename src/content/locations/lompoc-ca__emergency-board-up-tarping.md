@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Board-Up and Tarping in Lompoc, CA | Coastal Restoration Services Inc"
+title: "Emergency Board-Up and Tarping in Lompoc, CA | Coastal Restoration"
 h1: "Emergency Board-Up and Tarping in Lompoc"
 meta_description: "Emergency board-up and tarping in Lompoc, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "emergency board-up and tarping lompoc"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Need an emergency board-up in Lompoc? Call now for emergency service.** Our crew responds fast to secure broken windows, doors and roofs.
 
-Lompoc sits in a coastal valley where the marine layer rolls in off the Pacific and afternoon winds can gust hard enough to peel back damaged roofing before a repair crew ever arrives. When a fire, storm, or break-in leaves your home or commercial building exposed, every hour of delay compounds the loss, salt-laden air accelerates rust on exposed fasteners, and wind-driven moisture finds every gap a broken window or open roof deck creates. Coastal Restoration Services Inc responds to board-up and tarping calls across Lompoc and the surrounding Santa Barbara County communities, securing structures fast so the damage stops where it started.
+Lompoc sits in a coastal valley where the marine layer rolls in off the Pacific and afternoon winds can gust hard enough to peel back damaged roofing before a repair crew ever arrives. When a fire, storm, or break-in leaves your home or commercial building exposed, every hour of delay compounds the loss, salt-laden air accelerates rust on exposed fasteners, and wind-driven moisture finds every gap a broken window or open roof deck creates. Coastal Restoration responds to board-up and tarping calls across Lompoc and the surrounding Santa Barbara County communities, securing structures fast so the damage stops where it started.
 
 ## Why Lompoc Properties Face Distinct Board-Up and Tarping Risks
 
@@ -55,4 +55,4 @@ If your carrier requires a preferred vendor or has a specific documentation form
 
 One thing that catches out-of-area crews working in Lompoc: the coastal fog here doesn't just create moisture, it carries a fine salt particulate that accelerates corrosion on any exposed metal within hours. When we install roof tarps after a fire or storm, we use stainless-steel or hot-dipped galvanized fasteners rather than standard zinc-plated screws. It's a small detail, but standard hardware can rust through in days under Lompoc's marine-layer conditions, compromising the tarp anchor points before the adjuster has even scheduled their inspection visit.
 
-Call (805) 345-7440 to reach Coastal Restoration Services Inc for emergency board-up and tarping anywhere in Lompoc. Describe the opening, the cause of damage, and your address, and we'll get a crew moving toward you as quickly as possible.
+Call (805) 345-7440 to reach Coastal Restoration for emergency board-up and tarping anywhere in Lompoc. Describe the opening, the cause of damage, and your address, and we'll get a crew moving toward you as quickly as possible.

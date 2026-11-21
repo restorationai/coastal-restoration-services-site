@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Graffiti Removal & Vandalism Cleanup in Arroyo Grande, CA | Coastal Restoration Services Inc"
+title: "Graffiti Removal & Vandalism Cleanup in Arroyo Grande, CA | Coastal Restoration"
 h1: "Graffiti Removal & Vandalism Cleanup in Arroyo Grande"
 meta_description: "Graffiti removal and vandalism cleanup in Arroyo Grande, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "graffiti removal arroyo grande"
@@ -40,7 +40,7 @@ For interior vandalism, damaged drywall, overturned fixtures, contaminated surfa
 
 ## Reaching Arroyo Grande from Santa Maria
 
-Coastal Restoration Services Inc is headquartered in Santa Maria, roughly 15 miles south of Arroyo Grande via US-101 North. Under normal traffic conditions that's a straightforward drive up the 101 corridor. We schedule prompt response to Arroyo Grande service calls and prioritize jobs where ongoing exposure, open windows, accessible entry points, weather-sensitive materials, creates urgency. Call (805) 345-7440 to discuss scheduling and we'll give you a realistic arrival window based on current conditions.
+Coastal Restoration is headquartered in Santa Maria, roughly 15 miles south of Arroyo Grande via US-101 North. Under normal traffic conditions that's a straightforward drive up the 101 corridor. We schedule prompt response to Arroyo Grande service calls and prioritize jobs where ongoing exposure, open windows, accessible entry points, weather-sensitive materials, creates urgency. Call (805) 345-7440 to discuss scheduling and we'll give you a realistic arrival window based on current conditions.
 
 ## Arroyo Grande Insurance Coordination for Vandalism Claims
 
@@ -52,4 +52,4 @@ For commercial properties along East Grand Avenue or in the Five Cities area, bu
 
 Arroyo Grande's Village district includes several buildings on the city's historic register, and the San Luis Obispo County planning department has specific guidelines about alterations to historically designated structures, including exterior cleaning methods. If your property falls within the Village Core or is individually listed, some chemical removal agents and abrasive techniques may require prior approval or may be outright prohibited. We've worked on properties in this area before and know to flag the question early, before any irreversible cleaning method is applied. If you're unsure whether your property carries a historic designation, the City of Arroyo Grande Community Development Department can confirm it quickly.
 
-If your Arroyo Grande property has been vandalized, the window for the easiest and least costly cleanup is narrow, especially with the coast's humidity working against you. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule an assessment, get your documentation started, and put the damage behind you.
+If your Arroyo Grande property has been vandalized, the window for the easiest and least costly cleanup is narrow, especially with the coast's humidity working against you. Call Coastal Restoration at (805) 345-7440 to schedule an assessment, get your documentation started, and put the damage behind you.

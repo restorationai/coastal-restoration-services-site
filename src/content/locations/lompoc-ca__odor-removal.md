@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Lompoc, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Lompoc, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Lompoc"
 meta_description: "Odor removal and deodorization in Lompoc, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization lompoc"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Lompoc sits in a coastal valley where marine layer fog rolls in most mornings and onshore breezes carry salt air inland from Point Conception, conditions that slow evaporation, trap odor molecules in porous materials, and make amateur deodorization attempts fall flat within days. Whether the smell in your home traces back to a kitchen fire, a slow plumbing leak that went unnoticed behind drywall, or a pet situation that soaked into subfloor wood, that persistent odor is a sign that surface cleaning hasn't reached the source. Coastal Restoration Services Inc brings professional-grade deodorization equipment and IICRC-certified technicians to Lompoc properties when the smell won't quit on its own.
+Lompoc sits in a coastal valley where marine layer fog rolls in most mornings and onshore breezes carry salt air inland from Point Conception, conditions that slow evaporation, trap odor molecules in porous materials, and make amateur deodorization attempts fall flat within days. Whether the smell in your home traces back to a kitchen fire, a slow plumbing leak that went unnoticed behind drywall, or a pet situation that soaked into subfloor wood, that persistent odor is a sign that surface cleaning hasn't reached the source. Coastal Restoration brings professional-grade deodorization equipment and IICRC-certified technicians to Lompoc properties when the smell won't quit on its own.
 
 ## Why Lompoc Properties Hold Odors Longer
 
@@ -44,7 +44,7 @@ After treatment, we verify results with calibrated air sampling rather than rely
 
 ## Reaching Lompoc from Santa Maria
 
-Coastal Restoration Services Inc is based in Santa Maria, and Lompoc is a regular part of our service area. The most direct route runs north on Highway 1 through Guadalupe and into the Santa Ynez Valley corridor, placing our crew in Lompoc for scheduled appointments. We serve the full city, from neighborhoods near the historic downtown district to residential areas closer to the base perimeter, and we coordinate arrival windows directly with property owners so there's no guesswork about when the crew shows up.
+Coastal Restoration is based in Santa Maria, and Lompoc is a regular part of our service area. The most direct route runs north on Highway 1 through Guadalupe and into the Santa Ynez Valley corridor, placing our crew in Lompoc for scheduled appointments. We serve the full city, from neighborhoods near the historic downtown district to residential areas closer to the base perimeter, and we coordinate arrival windows directly with property owners so there's no guesswork about when the crew shows up.
 
 For scheduling, call **(805) 345-7440** during business hours. Our team will assess the scope of the odor problem over the phone, give you a realistic timeline, and confirm what access we'll need on arrival.
 
@@ -54,4 +54,4 @@ One pattern our technicians have noticed specifically in Lompoc: properties with
 
 If your property is dealing with a stubborn smell that came back after a previous treatment, whether that treatment was done by another company or a DIY attempt, that pattern is worth mentioning when you call. It helps us select the right method from the start.
 
-Lompoc properties deserve a deodorization approach that accounts for the valley's specific humidity patterns, its older housing stock, and the coastal air that makes shortcuts fail. Call Coastal Restoration Services Inc at **(805) 345-7440** to schedule an assessment and get a clear plan for eliminating the odor, not just covering it up.
+Lompoc properties deserve a deodorization approach that accounts for the valley's specific humidity patterns, its older housing stock, and the coastal air that makes shortcuts fail. Call Coastal Restoration at **(805) 345-7440** to schedule an assessment and get a clear plan for eliminating the odor, not just covering it up.

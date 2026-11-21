@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Storm Damage Restoration in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Emergency Storm Damage Restoration in San Luis Obispo, CA | Coastal Restoration"
 h1: "Emergency Storm Damage Restoration in San Luis Obispo"
 meta_description: "Emergency storm damage restoration in San Luis Obispo, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "storm damage restoration san luis obispo"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Storm damage emergency in San Luis Obispo? Call now for emergency service.** Our crew responds fast to secure the property and stop further damage.
 
-San Luis Obispo sits in a narrow coastal valley where the Santa Lucia Range funnels Pacific storm systems directly into the city, turning what looks like a moderate winter rain event into something that snaps oak limbs, strips roof tiles, and drives water into crawl spaces within hours. When that happens, the clock starts immediately, saturated framing, displaced roofing, and debris-blocked drainage all compound quickly in the Central Coast's mild but persistently damp post-storm air. Coastal Restoration Services Inc responds to storm-damaged properties across San Luis Obispo, working to stop the damage cycle before secondary problems like moisture intrusion and structural shifting take hold.
+San Luis Obispo sits in a narrow coastal valley where the Santa Lucia Range funnels Pacific storm systems directly into the city, turning what looks like a moderate winter rain event into something that snaps oak limbs, strips roof tiles, and drives water into crawl spaces within hours. When that happens, the clock starts immediately, saturated framing, displaced roofing, and debris-blocked drainage all compound quickly in the Central Coast's mild but persistently damp post-storm air. Coastal Restoration responds to storm-damaged properties across San Luis Obispo, working to stop the damage cycle before secondary problems like moisture intrusion and structural shifting take hold.
 
 ## Why San Luis Obispo Properties See Significant Storm Damage
 
@@ -45,7 +45,7 @@ Final scope includes structural repairs, roofing, siding, and interior finishes 
 
 ## Reaching San Luis Obispo from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, putting San Luis Obispo well within our regular service area via US-101 North. The drive under normal conditions is straightforward, and our crews are familiar with the city's layout, from the neighborhoods clustered near the creek corridors in the lower elevations to the hillside properties that require equipment staging on narrow residential streets. If access to your property is constrained by downed trees or debris across the driveway, let us know when you call, we carry chainsaws and hand equipment on storm response vehicles specifically for that reason.
+Coastal Restoration is based in Vandenberg Village, putting San Luis Obispo well within our regular service area via US-101 North. The drive under normal conditions is straightforward, and our crews are familiar with the city's layout, from the neighborhoods clustered near the creek corridors in the lower elevations to the hillside properties that require equipment staging on narrow residential streets. If access to your property is constrained by downed trees or debris across the driveway, let us know when you call, we carry chainsaws and hand equipment on storm response vehicles specifically for that reason.
 
 ## San Luis Obispo Insurance Coordination
 
@@ -55,4 +55,4 @@ Storm damage claims in San Luis Obispo typically involve at least two trades, ro
 
 One pattern we've noticed on San Luis Obispo properties with clay-tile roofing: the original mortar bedding on ridge caps and hip tiles, especially on homes from the 1960s and earlier, tends to be lime-based and becomes friable with age. A storm that doesn't visibly crack a single tile can still vibrate loose ridge caps enough to open gaps of a quarter inch or more along the peak. Water entering there tracks down the inside of the tile field before it ever shows up as a ceiling stain, sometimes traveling six to eight feet horizontally before dripping. If your ceiling shows a water mark that doesn't line up with an obvious roof penetration, that's often why.
 
-If your San Luis Obispo property took a hit in a recent storm, whether it's a tree through the roof, wind-driven rain in the walls, or damage you're still trying to fully assess, call Coastal Restoration Services Inc at (805) 345-7440. We'll walk the property with you, document what we find, and give you a clear picture of what needs to happen next.
+If your San Luis Obispo property took a hit in a recent storm, whether it's a tree through the roof, wind-driven rain in the walls, or damage you're still trying to fully assess, call Coastal Restoration at (805) 345-7440. We'll walk the property with you, document what we find, and give you a clear picture of what needs to happen next.

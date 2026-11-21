@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Graffiti Removal & Vandalism Cleanup in Templeton, CA | Coastal Restoration Services Inc"
+title: "Graffiti Removal & Vandalism Cleanup in Templeton, CA | Coastal Restoration"
 h1: "Graffiti Removal & Vandalism Cleanup in Templeton"
 meta_description: "Graffiti removal and vandalism cleanup in Templeton, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "graffiti removal templeton"
@@ -40,7 +40,7 @@ Broken glass cleanup involves more than sweeping visible shards. We use fine-par
 
 ## Reaching Templeton from Santa Maria
 
-Coastal Restoration Services Inc operates out of Santa Maria, and Templeton is a straightforward run up US-101 North, typically under an hour under normal traffic conditions. We schedule Templeton jobs with that drive time factored in and communicate arrival windows clearly so you're not left waiting without information. When you call (805) 345-7440, the team will confirm scheduling and give you a realistic arrival estimate based on current conditions and job queue.
+Coastal Restoration operates out of Santa Maria, and Templeton is a straightforward run up US-101 North, typically under an hour under normal traffic conditions. We schedule Templeton jobs with that drive time factored in and communicate arrival windows clearly so you're not left waiting without information. When you call (805) 345-7440, the team will confirm scheduling and give you a realistic arrival estimate based on current conditions and job queue.
 
 ## Templeton Insurance and HOA Coordination
 

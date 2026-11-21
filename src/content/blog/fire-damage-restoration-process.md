@@ -81,7 +81,7 @@ Salvageable belongings, furniture, clothing, electronics, documents, are either 
 **7. Reconstruction**
 Charred framing, drywall, insulation, and flooring are removed and replaced. This phase can range from patching a single wall to a full interior rebuild, depending on fire intensity and duration.
 
-Coastal Restoration Services Inc handles both the [fire damage restoration](tel:8053457440) and [smoke damage restoration](tel:8053457440) phases under one roof, which matters because coordinating two separate contractors on a fire loss adds weeks to the timeline and creates gaps in documentation that can complicate insurance claims.
+Coastal Restoration handles both the [fire damage restoration](tel:8053457440) and [smoke damage restoration](tel:8053457440) phases under one roof, which matters because coordinating two separate contractors on a fire loss adds weeks to the timeline and creates gaps in documentation that can complicate insurance claims.
 
 ## The Longer Recovery: What to Expect Over Weeks and Months
 
@@ -96,4 +96,4 @@ Odor is often the last thing to resolve. Residents sometimes report a faint smok
 
 ## When You're Ready to Move Forward
 
-If you're reading this in the aftermath of a fire, even a small one, the most useful thing you can do right now is document everything before touching it, call your insurance carrier, and get a professional assessment scheduled. The timeline for secondary damage (corrosion, odor bonding, mold from suppression water) is measured in hours, not weeks. If you're in the Vandenberg Village area and need to talk through what you're seeing, Coastal Restoration Services Inc can be reached at **(805) 345-7440**.
+If you're reading this in the aftermath of a fire, even a small one, the most useful thing you can do right now is document everything before touching it, call your insurance carrier, and get a professional assessment scheduled. The timeline for secondary damage (corrosion, odor bonding, mold from suppression water) is measured in hours, not weeks. If you're in the Vandenberg Village area and need to talk through what you're seeing, Coastal Restoration can be reached at **(805) 345-7440**.

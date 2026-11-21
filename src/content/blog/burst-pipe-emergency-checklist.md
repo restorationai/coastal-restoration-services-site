@@ -78,7 +78,7 @@ Some burst pipe situations are manageable with a shop vac and a few fans. Others
 - **The affected area is more than one room.** Water follows the path of least resistance, it moves under flooring, through wall plates, and down into lower floors. A burst pipe in a second-floor bathroom can show up in the first-floor ceiling, the wall cavity between floors, and the subfloor all at once.
 - **You smell anything musty within 24–48 hours.** That earthy, basement-like smell is microbial growth starting. At that point, remediation, not just drying, is the appropriate response.
 
-Coastal Restoration Services Inc handles both the drying phase and the reconstruction that follows, including appliance leak cleanup when the source is a refrigerator line, washing machine supply hose, or dishwasher connection rather than a supply pipe. Reach the team at **(805) 345-7440**.
+Coastal Restoration handles both the drying phase and the reconstruction that follows, including appliance leak cleanup when the source is a refrigerator line, washing machine supply hose, or dishwasher connection rather than a supply pipe. Reach the team at **(805) 345-7440**.
 
 ---
 
@@ -96,4 +96,4 @@ The full timeline from a burst pipe to a finished, painted room typically runs t
 
 ---
 
-If you're reading this while water is still on the floor, stop here, shut off the main valve if you haven't, and call for help. If you're in the planning or recovery phase and want to talk through next steps, Coastal Restoration Services Inc serves Vandenberg Village and the surrounding area, call **(805) 345-7440** to speak with someone directly.
+If you're reading this while water is still on the floor, stop here, shut off the main valve if you haven't, and call for help. If you're in the planning or recovery phase and want to talk through next steps, Coastal Restoration serves Vandenberg Village and the surrounding area, call **(805) 345-7440** to speak with someone directly.

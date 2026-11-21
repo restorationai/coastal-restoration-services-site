@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Grover Beach, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Grover Beach, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Grover Beach"
 meta_description: "Odor removal and deodorization in Grover Beach, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization grover beach"

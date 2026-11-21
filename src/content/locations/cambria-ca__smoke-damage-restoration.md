@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "24/7 Emergency Smoke Damage Restoration in Cambria, CA | Coastal Restoration Services Inc"
+title: "24/7 Emergency Smoke Damage Restoration in Cambria, CA | Coastal Restoration"
 h1: "24/7 Emergency Smoke Damage Restoration in Cambria"
 meta_description: "24/7 emergency smoke damage restoration in Cambria, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "smoke damage restoration cambria"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Smoke Damage Restoration"
 rendered: true
 ---
-**Smoke damage emergency in Cambria?** Call Coastal Restoration Services Inc now at (805) 345-7440 for emergency service. Smoke moves fast through the cedar shingles and shiplap interiors common along this stretch of the Central Coast, and the salt-laden marine air that rolls in off the water each evening can bond soot to surfaces before a homeowner even realizes how far it traveled. Whether the loss came from a kitchen fire, a wood stove flare-up, or drifting wildfire smoke off the surrounding pine forest, the cleanup window matters more here than most places.
+**Smoke damage emergency in Cambria?** Call Coastal Restoration now at (805) 345-7440 for emergency service. Smoke moves fast through the cedar shingles and shiplap interiors common along this stretch of the Central Coast, and the salt-laden marine air that rolls in off the water each evening can bond soot to surfaces before a homeowner even realizes how far it traveled. Whether the loss came from a kitchen fire, a wood stove flare-up, or drifting wildfire smoke off the surrounding pine forest, the cleanup window matters more here than most places.
 
 ## Why Cambria Properties See Smoke Damage Issues
 
@@ -42,4 +42,4 @@ Many Cambria properties sit within coastal zoning overlays or are managed under 
 
 One thing crews learn quickly working this coastline: smoke odor that seems resolved indoors can reappear after a few foggy nights because the redwood and cedar trim common in Cambria homes absorbs moisture along with residual smoke compounds, and humidity reactivates the smell. We factor that into our drying and odor-neutralization sequence instead of calling a job finished the moment the air tests clear on a dry afternoon.
 
-Smoke damage left untreated in a coastal climate like Cambria's doesn't just smell worse over time, it etches into wood finishes and metal fixtures faster than it would inland. If you're dealing with smoke residue, lingering odor, or wildfire smoke infiltration anywhere in Cambria, call Coastal Restoration Services Inc at (805) 345-7440 and we'll get a crew assessing the damage and starting cleanup.
+Smoke damage left untreated in a coastal climate like Cambria's doesn't just smell worse over time, it etches into wood finishes and metal fixtures faster than it would inland. If you're dealing with smoke residue, lingering odor, or wildfire smoke infiltration anywhere in Cambria, call Coastal Restoration at (805) 345-7440 and we'll get a crew assessing the damage and starting cleanup.

@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Vandenberg AFB, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Vandenberg AFB, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Vandenberg AFB"
 meta_description: "Odor removal and deodorization in Vandenberg AFB, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization vandenberg afb"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-The marine layer that rolls in off the Pacific and settles over Vandenberg Space Force Base most mornings does more than just keep temperatures mild, it traps odors inside structures in ways that catch residents and base housing tenants off guard. Salt-laden coastal air, high relative humidity, and the tight construction of on-base and nearby civilian housing create conditions where smoke residue, mildew, and other embedded odors linger long after the visible source is gone. Coastal Restoration Services Inc brings professional-grade deodorization to the Vandenberg area, using methods matched to the specific conditions here rather than a one-size approach.
+The marine layer that rolls in off the Pacific and settles over Vandenberg Space Force Base most mornings does more than just keep temperatures mild, it traps odors inside structures in ways that catch residents and base housing tenants off guard. Salt-laden coastal air, high relative humidity, and the tight construction of on-base and nearby civilian housing create conditions where smoke residue, mildew, and other embedded odors linger long after the visible source is gone. Coastal Restoration brings professional-grade deodorization to the Vandenberg area, using methods matched to the specific conditions here rather than a one-size approach.
 
 ## Why Vandenberg AFB Properties Hold Odors Longer
 
@@ -42,10 +42,10 @@ All work is performed by an IICRC Certified Firm team. The same technicians trai
 
 ## Reaching Vandenberg AFB from Santa Maria
 
-Coastal Restoration Services Inc is based in Santa Maria, which puts the team a short drive from the Vandenberg area via Highway 1 north or the Santa Maria Way corridor. For properties on or immediately adjacent to the installation, access coordination with the base visitor control process is something we handle routinely, it's worth calling ahead so we can confirm gate access requirements and avoid delays on the day of service. Scheduling through (805) 345-7440 gives the team time to confirm any access documentation needed before arrival.
+Coastal Restoration is based in Santa Maria, which puts the team a short drive from the Vandenberg area via Highway 1 north or the Santa Maria Way corridor. For properties on or immediately adjacent to the installation, access coordination with the base visitor control process is something we handle routinely, it's worth calling ahead so we can confirm gate access requirements and avoid delays on the day of service. Scheduling through (805) 345-7440 gives the team time to confirm any access documentation needed before arrival.
 
 ## Local Note
 
 One pattern that comes up repeatedly on properties near Vandenberg: wildfire smoke from inland Santa Barbara County events can enter structures during offshore wind conditions, essentially the reverse of the normal onshore marine flow, and the smoke behaves differently than a localized fire source. It arrives at lower concentrations but over a longer duration, which means it penetrates deeper into soft goods and HVAC systems without leaving obvious char or soot. Homeowners sometimes don't connect the lingering smell to a fire event that happened weeks earlier and miles away. If a property smells faintly of smoke and there's no obvious local source, that offshore wind intrusion pattern is worth raising when you call.
 
-If embedded odors are affecting your home or property in Vandenberg AFB, whether from smoke, moisture damage, pets, or a previous occupant, call Coastal Restoration Services Inc at **(805) 345-7440** to schedule an assessment. The team will identify what's actually driving the odor and apply the right combination of methods to eliminate it, not just cover it up.
+If embedded odors are affecting your home or property in Vandenberg AFB, whether from smoke, moisture damage, pets, or a previous occupant, call Coastal Restoration at **(805) 345-7440** to schedule an assessment. The team will identify what's actually driving the odor and apply the right combination of methods to eliminate it, not just cover it up.

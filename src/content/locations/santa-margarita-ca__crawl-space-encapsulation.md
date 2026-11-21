@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Crawl Space Encapsulation in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Crawl Space Encapsulation in Santa Margarita, CA | Coastal Restoration"
 h1: "Crawl Space Encapsulation in Santa Margarita"
 meta_description: "Crawl space encapsulation in Santa Margarita, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "crawl space encapsulation santa margarita"
@@ -46,7 +46,7 @@ Encapsulation in this climate isn't a single-product fix, it's a layered system 
 
 ## Reaching Santa Margarita from Vandenberg Village
 
-The drive from the Coastal Restoration Services Inc team in Vandenberg Village to Santa Margarita runs primarily along US-101 north through San Luis Obispo, then east on Highway 58, a straightforward route that doesn't involve mountain passes or significant seasonal closures. The team is familiar with the area and schedules appointments to account for the drive, so calls to (805) 345-7440 during business hours can typically be scheduled promptly.
+The drive from the Coastal Restoration team in Vandenberg Village to Santa Margarita runs primarily along US-101 north through San Luis Obispo, then east on Highway 58, a straightforward route that doesn't involve mountain passes or significant seasonal closures. The team is familiar with the area and schedules appointments to account for the drive, so calls to (805) 345-7440 during business hours can typically be scheduled promptly.
 
 ## Local Note
 

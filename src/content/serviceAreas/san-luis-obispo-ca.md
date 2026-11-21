@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in San Luis Obispo, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in San Luis Obispo, CA | Coastal Restoration"
 h1: "Restoration Services in San Luis Obispo"
 meta_description: "Serving San Luis Obispo, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services san luis obispo"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall in a Craftsman bungalow near downtown, or a kitchen fire leaves smoke residue baked into the ceiling joists of a mid-century rental off Broad Street, San Luis Obispo property owners need a restoration crew that knows the region, not a call center routing a generic dispatch. Coastal Restoration Services Inc handles water damage, fire and smoke damage, mold remediation, and structural drying for homes and commercial properties throughout San Luis Obispo, working directly with insurance carriers and arriving ready to work, not just assess.
+When a pipe bursts behind a wall in a Craftsman bungalow near downtown, or a kitchen fire leaves smoke residue baked into the ceiling joists of a mid-century rental off Broad Street, San Luis Obispo property owners need a restoration crew that knows the region, not a call center routing a generic dispatch. Coastal Restoration handles water damage, fire and smoke damage, mold remediation, and structural drying for homes and commercial properties throughout San Luis Obispo, working directly with insurance carriers and arriving ready to work, not just assess.
 
 ## Restoration emergencies common in San Luis Obispo
 
@@ -47,7 +47,7 @@ Once mitigation is complete, many property owners face a gap between the restora
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, roughly 35 miles south of San Luis Obispo via US-101 North. That route is straightforward in most conditions, through Santa Maria, past Nipomo, and up through Pismo Beach and Arroyo Grande before reaching the SLO city limits. We serve the full city and surrounding unincorporated areas of San Luis Obispo County. Call us at (805) 345-7440 to confirm scheduling and get an honest arrival estimate based on current conditions and crew availability.
+Coastal Restoration is headquartered in Vandenberg Village, roughly 35 miles south of San Luis Obispo via US-101 North. That route is straightforward in most conditions, through Santa Maria, past Nipomo, and up through Pismo Beach and Arroyo Grande before reaching the SLO city limits. We serve the full city and surrounding unincorporated areas of San Luis Obispo County. Call us at (805) 345-7440 to confirm scheduling and get an honest arrival estimate based on current conditions and crew availability.
 
 ## Building stock, site conditions, and permits in San Luis Obispo
 

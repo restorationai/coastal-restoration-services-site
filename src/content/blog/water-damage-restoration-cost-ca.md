@@ -40,7 +40,7 @@ California's labor market runs higher than the national average, which adds roug
 | Crawl space flooding, subfloor involvement | $5,000 - $12,000 |
 | Whole-floor or multi-room loss with structural drying | $8,000 - $18,000 |
 
-These are typical industry figures. Every loss is different, and Coastal Restoration Services Inc provides a written scope before any work begins.
+These are typical industry figures. Every loss is different, and Coastal Restoration provides a written scope before any work begins.
 
 ## What Factors Move the Price Up or Down?
 
@@ -92,14 +92,14 @@ For a deeper look at what policies actually pay out and how to file, see our gui
 
 If the loss is still active, stop the water source first. Then call a restoration company. Do not wait for the adjuster to come out before starting mitigation, most policies require you to take reasonable steps to prevent further damage, and delay works against you on both the mold risk and the claim.
 
-If you are in Santa Maria, Orcutt, Lompoc, or anywhere across the Central Coast, Coastal Restoration Services Inc handles the full mitigation scope: extraction, structural drying, controlled demolition, antimicrobial treatment, and the moisture documentation your adjuster needs. Their technicians hold IICRC WRT and ASD certifications, meaning the drying phase is managed to a documented standard, not by feel.
+If you are in Santa Maria, Orcutt, Lompoc, or anywhere across the Central Coast, Coastal Restoration handles the full mitigation scope: extraction, structural drying, controlled demolition, antimicrobial treatment, and the moisture documentation your adjuster needs. Their technicians hold IICRC WRT and ASD certifications, meaning the drying phase is managed to a documented standard, not by feel.
 
-For a written scope and an honest assessment of what your specific loss involves, contact Coastal Restoration Services Inc at (805) 345-7440.
+For a written scope and an honest assessment of what your specific loss involves, contact Coastal Restoration at (805) 345-7440.
 
 If you are still deciding which company to call, the comparison guide at [The 5 Best Water Damage Restoration Companies in Santa Maria, CA (2026)](/blog/best-water-damage-restoration-company-in-santa-maria-ca/) covers what to look for and why certifications matter more than price alone.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-Coastal Restoration Services Inc is an IICRC Certified Firm serving Santa Maria, CA and the broader Central Coast region, including Santa Barbara and San Luis Obispo counties (license 11245226). Their certified technicians hold WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) credentials and handle water damage restoration, storm damage, fire damage, sewage cleanup, mold remediation, and related services. Every mitigation job is documented to the IICRC S500 standard and scoped in writing before work begins.
+Coastal Restoration is an IICRC Certified Firm serving Santa Maria, CA and the broader Central Coast region, including Santa Barbara and San Luis Obispo counties (license 11245226). Their certified technicians hold WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying) credentials and handle water damage restoration, storm damage, fire damage, sewage cleanup, mold remediation, and related services. Every mitigation job is documented to the IICRC S500 standard and scoped in writing before work begins.

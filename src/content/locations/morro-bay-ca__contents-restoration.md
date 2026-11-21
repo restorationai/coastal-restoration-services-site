@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Contents Restoration and Storage in Morro Bay, CA | Coastal Restoration"
 h1: "Contents Restoration and Storage in Morro Bay"
 meta_description: "Contents restoration and storage in Morro Bay, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "contents restoration and storage morro bay"
@@ -44,7 +44,7 @@ If your policy includes additional living expenses (ALE) coverage, the contents 
 
 ## Getting to Morro Bay from Vandenberg Village
 
-Coastal Restoration Services Inc operates out of Vandenberg Village, roughly 45 miles south of Morro Bay via US-101 North to CA-1. The route along the coast is straightforward in most conditions, though Highway 1 through Cayucos can slow during peak summer weekends and after weather events that draw traffic to the coast. For jobs in the northern parts of Morro Bay closer to the Estero Bay shoreline, we typically route through Los Osos Valley Road to avoid the downtown corridor. Call (805) 345-7440 to confirm scheduling and get a realistic arrival window based on current conditions.
+Coastal Restoration operates out of Vandenberg Village, roughly 45 miles south of Morro Bay via US-101 North to CA-1. The route along the coast is straightforward in most conditions, though Highway 1 through Cayucos can slow during peak summer weekends and after weather events that draw traffic to the coast. For jobs in the northern parts of Morro Bay closer to the Estero Bay shoreline, we typically route through Los Osos Valley Road to avoid the downtown corridor. Call (805) 345-7440 to confirm scheduling and get a realistic arrival window based on current conditions.
 
 ## Local Note
 

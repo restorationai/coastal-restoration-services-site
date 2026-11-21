@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in Morro Bay, CA | Coastal Restoration"
 h1: "Restoration Services in Morro Bay"
 meta_description: "Serving Morro Bay, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services morro bay"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall in a Morro Bay beach cottage or a storm pushes water under the slab of a Harbor Street commercial building, Coastal Restoration Services Inc handles the extraction, drying, and rebuild from start to finish. We serve property owners across Morro Bay with water damage mitigation, fire and smoke cleanup, mold remediation, and structural reconstruction, and we coordinate directly with insurance carriers so the claims process doesn't fall on you during an already stressful week. Reach us at **(805) 345-7440**.
+When a pipe bursts behind a wall in a Morro Bay beach cottage or a storm pushes water under the slab of a Harbor Street commercial building, Coastal Restoration handles the extraction, drying, and rebuild from start to finish. We serve property owners across Morro Bay with water damage mitigation, fire and smoke cleanup, mold remediation, and structural reconstruction, and we coordinate directly with insurance carriers so the claims process doesn't fall on you during an already stressful week. Reach us at **(805) 345-7440**.
 
 ## Restoration emergencies common in Morro Bay
 
@@ -47,7 +47,7 @@ Once mitigation is complete, we handle the rebuild, framing, drywall, flooring, 
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, roughly 35 miles south of Morro Bay via US-101 North to CA-1. The drive runs through Pismo Beach and Shell Beach before the highway meets the coast at Morro Bay's southern edge near the power plant stack, a familiar landmark for anyone who's made the trip. Depending on traffic and the time of day, that corridor is typically a straightforward run. We serve the full city, from the waterfront blocks near Morro Rock and the Embarcadero to the residential streets climbing toward Black Hill and the neighborhoods flanking Main Street. Call **(805) 345-7440** to schedule a response or get a same-day assessment.
+Coastal Restoration is headquartered in Vandenberg Village, roughly 35 miles south of Morro Bay via US-101 North to CA-1. The drive runs through Pismo Beach and Shell Beach before the highway meets the coast at Morro Bay's southern edge near the power plant stack, a familiar landmark for anyone who's made the trip. Depending on traffic and the time of day, that corridor is typically a straightforward run. We serve the full city, from the waterfront blocks near Morro Rock and the Embarcadero to the residential streets climbing toward Black Hill and the neighborhoods flanking Main Street. Call **(805) 345-7440** to schedule a response or get a same-day assessment.
 
 ## Building stock, site conditions, and permits in Morro Bay
 
@@ -55,4 +55,4 @@ Beyond the pier-and-beam cottages, Morro Bay also has tracts built from the late
 
 Morro Bay is its own incorporated city, so permits for structural repair or rebuild go through the city, not the county. Sandy bayfront soils, mapped flood zones near the water, coastal-zone review, and California's seismic bracing rules all shape what a rebuild scope has to include.
 
-If you're dealing with water in a crawl space, smoke damage in a rental, or a mold problem that's been growing behind a wall longer than you'd like to think about, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll assess the situation honestly, give you a clear scope, and get the work done right the first time.
+If you're dealing with water in a crawl space, smoke damage in a rental, or a mold problem that's been growing behind a wall longer than you'd like to think about, call Coastal Restoration at **(805) 345-7440**. We'll assess the situation honestly, give you a clear scope, and get the work done right the first time.

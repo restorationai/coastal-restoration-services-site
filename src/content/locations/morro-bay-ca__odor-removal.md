@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Morro Bay, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Morro Bay, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Morro Bay"
 meta_description: "Odor removal and deodorization in Morro Bay, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization morro bay"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Morro Bay's coastal air is part of what makes this stretch of San Luis Obispo County so distinctive, but that same persistent marine layer, salt-laden fog, and year-round humidity create conditions where odors don't just linger, they embed. Smoke residue from a kitchen fire, mildew that crept in through a poorly sealed crawl space, or pet odors amplified by damp coastal air can saturate drywall, subflooring, and soft furnishings in ways that surface sprays never reach. Coastal Restoration Services Inc provides professional odor removal and deodorization for Morro Bay homes and businesses, using equipment and methods calibrated to the specific challenges of living this close to the Pacific.
+Morro Bay's coastal air is part of what makes this stretch of San Luis Obispo County so distinctive, but that same persistent marine layer, salt-laden fog, and year-round humidity create conditions where odors don't just linger, they embed. Smoke residue from a kitchen fire, mildew that crept in through a poorly sealed crawl space, or pet odors amplified by damp coastal air can saturate drywall, subflooring, and soft furnishings in ways that surface sprays never reach. Coastal Restoration provides professional odor removal and deodorization for Morro Bay homes and businesses, using equipment and methods calibrated to the specific challenges of living this close to the Pacific.
 
 ## Why Morro Bay Properties Hold Odors Longer
 
@@ -42,7 +42,7 @@ All work is documented with before-and-after readings using calibrated air sampl
 
 ## Reaching Morro Bay from Santa Maria
 
-Coastal Restoration Services Inc is based in Santa Maria and serves Morro Bay as part of its regular San Luis Obispo County service area. The most direct route runs up US-101 North to Los Osos Valley Road or Highway 1, putting crews in Morro Bay without the routing complications that affect some inland cities. Scheduling is handled during business hours, call (805) 345-7440 to discuss your situation and arrange an assessment visit.
+Coastal Restoration is based in Santa Maria and serves Morro Bay as part of its regular San Luis Obispo County service area. The most direct route runs up US-101 North to Los Osos Valley Road or Highway 1, putting crews in Morro Bay without the routing complications that affect some inland cities. Scheduling is handled during business hours, call (805) 345-7440 to discuss your situation and arrange an assessment visit.
 
 ## Morro Bay Insurance Coordination
 
@@ -52,4 +52,4 @@ Odor damage from fire, water intrusion, or sewage backup is frequently a covered
 
 Homes near the waterfront in Morro Bay, particularly those within a few blocks of the bay itself, deal with a deodorization challenge that's easy to underestimate: salt air and fog moisture don't just slow drying, they can reactivate odor compounds that seemed neutralized. A structure that tests clean in dry October conditions may show elevated odor readings again by January when the marine layer returns in force. For properties in that zone, we typically recommend a follow-up air quality check 60 to 90 days after treatment, timed to coincide with the wetter season, to confirm the remediation held.
 
-If your Morro Bay property is dealing with persistent smoke, mildew, sewage, or any other embedded odor, call Coastal Restoration Services Inc at **(805) 345-7440**. We'll assess the source, explain the right treatment method for your specific structure, and get your home or business back to smelling the way it should, like the coast, not like the problem.
+If your Morro Bay property is dealing with persistent smoke, mildew, sewage, or any other embedded odor, call Coastal Restoration at **(805) 345-7440**. We'll assess the source, explain the right treatment method for your specific structure, and get your home or business back to smelling the way it should, like the coast, not like the problem.

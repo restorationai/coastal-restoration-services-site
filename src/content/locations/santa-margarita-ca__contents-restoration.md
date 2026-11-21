@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Contents Restoration and Storage in Santa Margarita, CA | Coastal Restoration Services Inc"
+title: "Contents Restoration and Storage in Santa Margarita, CA | Coastal Restoration"
 h1: "Contents Restoration and Storage in Santa Margarita"
 meta_description: "Contents restoration and storage in Santa Margarita, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "contents restoration and storage santa margarita"
@@ -52,4 +52,4 @@ We provide itemized loss documentation in a format that most major carriers acce
 
 One pattern we've noticed in Santa Margarita and the surrounding valley is that many homes have detached garages, workshops, or barn-style outbuildings that store tools, equipment, and personal property separate from the main structure. When a fire or flood affects the main house, these secondary structures are sometimes overlooked in the initial damage assessment, but smoke travels, and contents in an attached or nearby outbuilding can absorb odor and particulate even if the structure itself wasn't directly involved. It's worth walking those spaces with your restoration team before the pack-out inventory is closed.
 
-If your home in Santa Margarita has been affected by fire, smoke, water, or mold damage, the sooner your belongings are out of the damaged environment, the better the restoration outcome. Call Coastal Restoration Services Inc at (805) 345-7440 to schedule a contents assessment and pack-out for your Santa Margarita property.
+If your home in Santa Margarita has been affected by fire, smoke, water, or mold damage, the sooner your belongings are out of the damaged environment, the better the restoration outcome. Call Coastal Restoration at (805) 345-7440 to schedule a contents assessment and pack-out for your Santa Margarita property.

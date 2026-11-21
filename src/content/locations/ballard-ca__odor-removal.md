@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Ballard, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Ballard, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Ballard"
 meta_description: "Odor removal and deodorization in Ballard, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization ballard"
@@ -20,7 +20,7 @@ state: "CA"
 service_display: "Odor Removal and Deodorization"
 rendered: true
 ---
-Ballard, CA sits close enough to the Pacific coast that marine air moves through the area regularly, and that persistent humidity has a way of locking odors deep into building materials long after the source has been removed. Whether the smell traces back to a kitchen fire, a slow plumbing leak that fed mold behind drywall, or a pet accident that soaked into subfloor, moisture-saturated air makes standard deodorizing sprays nearly useless. Coastal Restoration Services Inc uses professional-grade odor elimination methods calibrated to the conditions here, not a one-size approach copied from an inland market.
+Ballard, CA sits close enough to the Pacific coast that marine air moves through the area regularly, and that persistent humidity has a way of locking odors deep into building materials long after the source has been removed. Whether the smell traces back to a kitchen fire, a slow plumbing leak that fed mold behind drywall, or a pet accident that soaked into subfloor, moisture-saturated air makes standard deodorizing sprays nearly useless. Coastal Restoration uses professional-grade odor elimination methods calibrated to the conditions here, not a one-size approach copied from an inland market.
 
 ## Why Ballard Properties Hold Odors Longer
 
@@ -37,7 +37,7 @@ Once the source is addressed, the appropriate deodorization method is selected b
 - **Ozone treatment**, high-concentration ozone is introduced into a sealed, unoccupied space for a controlled period. Ozone is aggressive and fast-acting on stubborn smoke and mold odors, but the structure must remain unoccupied during treatment and for a clearance period afterward.
 - **Encapsulant sealing**, on surfaces where odor has penetrated deeply (smoke-stained plaster, for example), an odor-blocking encapsulant is applied before any repainting or finishing work, preventing residual odor from off-gassing through new finishes.
 
-The IICRC-certified technicians at Coastal Restoration Services Inc select and sequence these methods based on what the structure actually needs, not a preset package.
+The IICRC-certified technicians at Coastal Restoration select and sequence these methods based on what the structure actually needs, not a preset package.
 
 ## Equipment & Methods We Use for Odor Removal
 
@@ -49,6 +49,6 @@ In older Ballard homes with original plaster-and-lath construction, smoke and fi
 
 ## Reaching Ballard from Santa Maria
 
-Coastal Restoration Services Inc is based in Santa Maria and schedules odor removal jobs throughout the region, including Ballard. Scheduling is handled during business hours at (805) 345-7440. When you call, a technician can discuss the odor source, the affected square footage, and the likely method before any equipment is dispatched, which helps ensure the right tools arrive on the first visit rather than requiring a return trip.
+Coastal Restoration is based in Santa Maria and schedules odor removal jobs throughout the region, including Ballard. Scheduling is handled during business hours at (805) 345-7440. When you call, a technician can discuss the odor source, the affected square footage, and the likely method before any equipment is dispatched, which helps ensure the right tools arrive on the first visit rather than requiring a return trip.
 
-Odors in Ballard properties do not resolve on their own, and the longer treated materials remain damp or the source stays in place, the deeper the contamination sets. If you are dealing with smoke, mold, sewage, or any persistent smell that has not responded to cleaning, call (805) 345-7440 to schedule an assessment. Coastal Restoration Services Inc will identify what is driving the odor and apply the method that actually eliminates it.
+Odors in Ballard properties do not resolve on their own, and the longer treated materials remain damp or the source stays in place, the deeper the contamination sets. If you are dealing with smoke, mold, sewage, or any persistent smell that has not responded to cleaning, call (805) 345-7440 to schedule an assessment. Coastal Restoration will identify what is driving the odor and apply the method that actually eliminates it.

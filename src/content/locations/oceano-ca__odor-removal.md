@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Odor Removal and Deodorization in Oceano, CA | Coastal Restoration Services Inc"
+title: "Odor Removal and Deodorization in Oceano, CA | Coastal Restoration"
 h1: "Odor Removal and Deodorization in Oceano"
 meta_description: "Odor removal and deodorization in Oceano, CA. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "odor removal and deodorization oceano"
@@ -52,4 +52,4 @@ Oceano's proximity to the Oceano Dunes State Vehicular Recreation Area means man
 
 Our team operates out of Santa Maria and reaches Oceano via Highway 1 and Storey Street, a straightforward run that keeps drive time manageable for scheduled and urgent calls alike. If you're coordinating access for a rental property or working with a property manager, we're accustomed to that kind of remote scheduling and can communicate directly with whoever has keys on site.
 
-If your Oceano home or rental property is holding an odor that hasn't responded to surface cleaning, call Coastal Restoration Services Inc at (805) 345-7440. We'll assess the source, explain the method, and give you a clear picture of what the process looks like before any equipment is deployed.
+If your Oceano home or rental property is holding an odor that hasn't responded to surface cleaning, call Coastal Restoration at (805) 345-7440. We'll assess the source, explain the method, and give you a clear picture of what the process looks like before any equipment is deployed.

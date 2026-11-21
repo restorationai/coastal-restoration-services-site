@@ -1,6 +1,6 @@
 ---
 archetype: "service-landing"
-title: "Water Leak Detection in Santa Maria | Coastal Restoration Services Inc"
+title: "Water Leak Detection in Santa Maria | Coastal Restoration"
 h1: "Water Leak Detection in Santa Maria"
 meta_description: "Water leak detection in Santa Maria and surrounding areas. IICRC-certified, insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "water leak detection santa maria"
@@ -12,7 +12,7 @@ generated_at: "2026-10-01T19:15:17.898494+00:00"
 manual_override: false
 internal_links: ["/services/", "/contact/", "/service-areas/arroyo-grande-ca/", "/service-areas/atascadero-ca/", "/service-areas/avila-beach-ca/", "/service-areas/ballard-ca/", "/service-areas/blacklake-ca/", "/service-areas/buellton-ca/", "/service-areas/callender-ca/", "/service-areas/cambria-ca/", "/service-areas/edna-ca/", "/service-areas/el-paso-de-robles-ca/", "/service-areas/grover-beach-ca/", "/service-areas/guadalupe-ca/"]
 breadcrumb: [{"name": "Home", "url": "/"}, {"name": "Services", "url": "/services/"}, {"name": "water-leak-detection"}]
-faq: [{"question": "Does homeowners insurance cover water leak detection?", "answer": "Often yes, especially when detection is required to locate and repair a sudden, accidental leak, though coverage depends on your specific policy and whether the leak is tied to long-term neglect. Coastal Restoration Services Inc works with all insurance carriers and provides the documentation and moisture readings adjusters typically request for a claim."}, {"question": "How do you find a water leak in a wall without cutting it open?", "answer": "We use acoustic listening equipment to detect the sound of escaping water and infrared thermal imaging to spot temperature differences caused by moisture inside the wall cavity. These tools narrow the leak location to a small, specific area so we can confirm it with a moisture meter before any drywall is opened."}, {"question": "What's involved in slab leak detection specifically?", "answer": "Slab leak detection typically involves isolating sections of the hot and cold water lines and testing pressure drop to determine which line is losing water. Combined with acoustic sensors placed directly on the slab, this usually narrows the leak to a specific section of pipe without needing to break up the entire floor."}, {"question": "How long does a leak detection inspection take?", "answer": "Most inspections take one to three hours depending on the size of the property and how many fixtures or plumbing lines need testing. Slab leak detection with pressure isolation can run slightly longer since each section of the system has to be tested in sequence."}, {"question": "What should I do while I wait for a leak detection appointment?", "answer": "If you can safely access the main water shutoff and the leak seems to be worsening, shutting off water to the affected fixture or the whole house can limit further damage. Avoid cutting into walls or flooring yourself, since that can destroy the evidence needed to pinpoint the leak accurately."}]
+faq: [{"question": "Does homeowners insurance cover water leak detection?", "answer": "Often yes, especially when detection is required to locate and repair a sudden, accidental leak, though coverage depends on your specific policy and whether the leak is tied to long-term neglect. Coastal Restoration works with all insurance carriers and provides the documentation and moisture readings adjusters typically request for a claim."}, {"question": "How do you find a water leak in a wall without cutting it open?", "answer": "We use acoustic listening equipment to detect the sound of escaping water and infrared thermal imaging to spot temperature differences caused by moisture inside the wall cavity. These tools narrow the leak location to a small, specific area so we can confirm it with a moisture meter before any drywall is opened."}, {"question": "What's involved in slab leak detection specifically?", "answer": "Slab leak detection typically involves isolating sections of the hot and cold water lines and testing pressure drop to determine which line is losing water. Combined with acoustic sensors placed directly on the slab, this usually narrows the leak to a specific section of pipe without needing to break up the entire floor."}, {"question": "How long does a leak detection inspection take?", "answer": "Most inspections take one to three hours depending on the size of the property and how many fixtures or plumbing lines need testing. Slab leak detection with pressure isolation can run slightly longer since each section of the system has to be tested in sequence."}, {"question": "What should I do while I wait for a leak detection appointment?", "answer": "If you can safely access the main water shutoff and the leak seems to be worsening, shutting off water to the affected fixture or the whole house can limit further damage. Avoid cutting into walls or flooring yourself, since that can destroy the evidence needed to pinpoint the leak accurately."}]
 service_slug: "water-leak-detection"
 service_display: "Water Leak Detection"
 rendered: true
@@ -39,7 +39,7 @@ The second mistake is stopping at "found it" without checking how far the water 
 
 ## What Does Water Leak Detection Cost?
 
-Costs vary based on how accessible the plumbing is, whether the leak is in a wall, under a slab, or behind a fixture, and how much testing equipment the job requires. These are typical industry ranges, not a quote: every property is different, and Coastal Restoration Services Inc provides a written scope before any work begins.
+Costs vary based on how accessible the plumbing is, whether the leak is in a wall, under a slab, or behind a fixture, and how much testing equipment the job requires. These are typical industry ranges, not a quote: every property is different, and Coastal Restoration provides a written scope before any work begins.
 
 | Scenario | Typical range |
 |---|---|
@@ -57,6 +57,6 @@ Santa Maria's mix of older ranch-style homes and newer slab-on-grade constructio
 
 ## Service Area
 
-Coastal Restoration Services Inc provides water leak detection throughout Santa Maria and surrounding Central Coast communities. If your property is outside Santa Maria proper, ask about coverage for your specific city.
+Coastal Restoration provides water leak detection throughout Santa Maria and surrounding Central Coast communities. If your property is outside Santa Maria proper, ask about coverage for your specific city.
 
 If your water bill doesn't add up or you can smell moisture you can't find, don't wait for it to show up on the ceiling. Call (805) 345-7440 to schedule a leak detection inspection and get a written diagnosis before any repair work starts.

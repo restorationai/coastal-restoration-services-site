@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Sewage Cleanup and Sanitization in Cambria, CA | Coastal Restoration Services Inc"
+title: "Emergency Sewage Cleanup and Sanitization in Cambria, CA | Coastal Restoration"
 h1: "Emergency Sewage Cleanup and Sanitization in Cambria"
 meta_description: "Emergency sewage cleanup and sanitization in Cambria, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "sewage cleanup and sanitization cambria"
@@ -41,7 +41,7 @@ We document every phase with photographs and moisture readings, which serves two
 
 ## Reaching Cambria from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, and Cambria is accessible via Highway 1 north through San Luis Obispo County. The drive along the coast is scenic under ordinary conditions but can slow significantly during summer tourist season or after storm events that affect Highway 1. We account for that when scheduling, if you call during business hours, we'll give you an honest arrival window based on current conditions rather than a number that sounds good but doesn't hold.
+Coastal Restoration is based in Vandenberg Village, and Cambria is accessible via Highway 1 north through San Luis Obispo County. The drive along the coast is scenic under ordinary conditions but can slow significantly during summer tourist season or after storm events that affect Highway 1. We account for that when scheduling, if you call during business hours, we'll give you an honest arrival window based on current conditions rather than a number that sounds good but doesn't hold.
 
 For properties in the more rural stretches outside the main village area, we ask callers to confirm the driveway access and whether a service vehicle with equipment can reach the structure. Cambria's hillside lots sometimes have steep or narrow approaches that require us to stage equipment differently.
 
@@ -55,4 +55,4 @@ If your home is on a private septic system, the source of the backup may also af
 
 Cambria's older homes, particularly those built on the hillside streets above the village center, frequently have subfloor venting that was designed for a drier climate than the coast actually delivers. That chronic under-ventilation means crawl spaces already run at elevated humidity before a sewage event ever occurs. When we're scoping a sewage loss in one of these homes, we check baseline moisture levels in the crawl space framing, because pre-existing elevated moisture changes the drying protocol and can affect whether materials that look structurally sound actually are. Skipping that step leads to callbacks months later when mold appears in a crawl space that was never fully dried to begin with.
 
-If you're dealing with sewage backup, raw sewage in a crawl space, or a septic overflow at a Cambria property, call Coastal Restoration Services Inc at (805) 345-7440. We handle the extraction, sanitization, and documentation, and we'll be straight with you about what the process involves and how long it takes.
+If you're dealing with sewage backup, raw sewage in a crawl space, or a septic overflow at a Cambria property, call Coastal Restoration at (805) 345-7440. We handle the extraction, sanitization, and documentation, and we'll be straight with you about what the process involves and how long it takes.

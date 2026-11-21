@@ -1,6 +1,6 @@
 ---
 archetype: "service-area"
-title: "Restoration Services in El Paso de Robles, CA | Coastal Restoration Services Inc"
+title: "Restoration Services in El Paso de Robles, CA | Coastal Restoration"
 h1: "Restoration Services in El Paso de Robles"
 meta_description: "Serving El Paso de Robles, CA with water, fire, mold, and storm damage restoration. Experienced team. Call (805) 345-7440."
 primary_keyword: "restoration services el paso de robles"
@@ -19,7 +19,7 @@ state: "CA"
 primary: false
 rendered: true
 ---
-When a pipe bursts behind a wall or smoke from a kitchen fire settles into the drywall of your Paso Robles home, the clock starts immediately. Coastal Restoration Services Inc responds to water damage, fire and smoke damage, mold remediation, and reconstruction work for homeowners and property managers throughout El Paso de Robles, handling the extraction, drying, documentation, and rebuild so you can focus on getting back to normal. Call us at (805) 345-7440 to talk through what you're dealing with.
+When a pipe bursts behind a wall or smoke from a kitchen fire settles into the drywall of your Paso Robles home, the clock starts immediately. Coastal Restoration responds to water damage, fire and smoke damage, mold remediation, and reconstruction work for homeowners and property managers throughout El Paso de Robles, handling the extraction, drying, documentation, and rebuild so you can focus on getting back to normal. Call us at (805) 345-7440 to talk through what you're dealing with.
 
 ## Restoration emergencies common in El Paso de Robles
 
@@ -49,7 +49,7 @@ Once mitigation is complete, the rebuild begins. We handle drywall, flooring, ca
 
 ## Coverage and how fast we can get there
 
-Coastal Restoration Services Inc is headquartered in Vandenberg Village, which sits roughly 60 miles southwest of El Paso de Robles via US-101 North. That route through Santa Maria and San Luis Obispo is a straightforward highway drive with no mountain passes or significant seasonal closures. For property managers or homeowners in Paso Robles, that means our crew can be loaded and moving as soon as you call during business hours. We serve the full city, from the older neighborhoods near downtown and the Niblick Road corridor to newer developments on the north and east sides of town, and we cover the surrounding communities in northern San Luis Obispo County as well.
+Coastal Restoration is headquartered in Vandenberg Village, which sits roughly 60 miles southwest of El Paso de Robles via US-101 North. That route through Santa Maria and San Luis Obispo is a straightforward highway drive with no mountain passes or significant seasonal closures. For property managers or homeowners in Paso Robles, that means our crew can be loaded and moving as soon as you call during business hours. We serve the full city, from the older neighborhoods near downtown and the Niblick Road corridor to newer developments on the north and east sides of town, and we cover the surrounding communities in northern San Luis Obispo County as well.
 
 ## Building stock, site conditions, and permits in El Paso de Robles
 
@@ -57,4 +57,4 @@ The older core of the city still holds early- and mid-century houses on raised p
 
 Structural repairs and rebuilds are permitted through the City of Paso Robles building division, under the California Building Code, and unreinforced masonry downtown remains a seismic concern after the 2003 San Simeon quake. Reframing, replacing sheathing, or moving plumbing and electrical during a rebuild will normally trigger a permit and inspections.
 
-If you are dealing with water, fire, mold, or storm damage anywhere in El Paso de Robles, call Coastal Restoration Services Inc at **(805) 345-7440**. We will ask the right questions, give you an honest assessment of what needs to happen, and get a crew scheduled.
+If you are dealing with water, fire, mold, or storm damage anywhere in El Paso de Robles, call Coastal Restoration at **(805) 345-7440**. We will ask the right questions, give you an honest assessment of what needs to happen, and get a crew scheduled.

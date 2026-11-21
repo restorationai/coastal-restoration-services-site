@@ -61,10 +61,10 @@ Photograph and video the damage from multiple angles before anything is moved, c
 
 Get wide shots of the room, close-ups of the water line on walls or cabinets, and the source of the leak itself if you can safely see it. Note the time you discovered the damage. If flooring or drywall has to come out immediately to stop mold growth, a restoration crew will document moisture readings and square footage as part of the job, which stands in for the items you can no longer photograph once they're gone. Our [water damage insurance claim tips](/blog/water-damage-insurance-claim-tips/) post covers the specific photos and paperwork adjusters ask for most.
 
-If you're dealing with active water right now, get the extraction moving first and sort out the claim paperwork once the bleeding has stopped. [Call Coastal Restoration Services Inc at (805) 345-7440](tel:+18053457440) and a crew can start mitigation and insurance documentation together, which is usually the fastest way to protect both the house and the claim.
+If you're dealing with active water right now, get the extraction moving first and sort out the claim paperwork once the bleeding has stopped. [Call Coastal Restoration at (805) 345-7440](tel:+18053457440) and a crew can start mitigation and insurance documentation together, which is usually the fastest way to protect both the house and the claim.
 
 ---
 
-**About Coastal Restoration Services Inc**
+**About Coastal Restoration**
 
-This post was written with the team at Coastal Restoration Services Inc, an IICRC Certified Firm (license #11245226) serving Santa Maria and the Central Coast. Technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and handle water damage, mold remediation, fire and smoke, sewage cleanup, and storm damage across the region. The company is rated 5.0 from 29 Google reviews and answers the phone 24/7.
+This post was written with the team at Coastal Restoration, an IICRC Certified Firm (license #11245226) serving Santa Maria and the Central Coast. Technicians hold IICRC Water Damage Restoration Technician (WRT) and Applied Structural Drying (ASD) certifications and handle water damage, mold remediation, fire and smoke, sewage cleanup, and storm damage across the region. The company is rated 5.0 from 29 Google reviews and answers the phone 24/7.

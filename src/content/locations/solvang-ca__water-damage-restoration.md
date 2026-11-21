@@ -1,6 +1,6 @@
 ---
 archetype: "service-area-service"
-title: "Emergency Water Damage Restoration in Solvang, CA | Coastal Restoration Services Inc"
+title: "Emergency Water Damage Restoration in Solvang, CA | Coastal Restoration"
 h1: "Emergency Water Damage Restoration in Solvang"
 meta_description: "Emergency water damage restoration in Solvang, CA. Insurance billing accepted. Call (805) 345-7440."
 primary_keyword: "water damage restoration solvang"
@@ -23,7 +23,7 @@ rendered: true
 <!-- emergency-open -->
 **Water damage emergency in Solvang? Call now for emergency service.** Our crew responds fast to stop the water and start drying your property.
 
-Solvang's Danish-village architecture and Mediterranean climate create a deceptively dry-looking landscape, but the Santa Ynez Valley's clay-heavy soils shed water fast during winter rains, and when a pipe bursts inside one of the city's older stucco-and-timber buildings, water finds its way into wall cavities and subfloor systems before most homeowners realize anything is wrong. Coastal Restoration Services Inc responds to water damage calls across Solvang, bringing industrial extraction and structural drying equipment calibrated for the specific building materials and soil conditions found here.
+Solvang's Danish-village architecture and Mediterranean climate create a deceptively dry-looking landscape, but the Santa Ynez Valley's clay-heavy soils shed water fast during winter rains, and when a pipe bursts inside one of the city's older stucco-and-timber buildings, water finds its way into wall cavities and subfloor systems before most homeowners realize anything is wrong. Coastal Restoration responds to water damage calls across Solvang, bringing industrial extraction and structural drying equipment calibrated for the specific building materials and soil conditions found here.
 
 ## Why Solvang Properties Are Vulnerable to Water Damage
 
@@ -43,7 +43,7 @@ Structural drying follows extraction. We position commercial-grade desiccant deh
 
 ## Reaching Solvang from Vandenberg Village
 
-Coastal Restoration Services Inc is based in Vandenberg Village, roughly 35 miles southwest of Solvang via Highway 246 and U.S. 101. That route through the Santa Ynez Valley is straightforward in most conditions, though winter fog on 246 between Buellton and Solvang can slow travel. When you call (805) 345-7440, our team will give you an honest arrival estimate based on current road conditions rather than a number that doesn't account for the valley's morning fog season.
+Coastal Restoration is based in Vandenberg Village, roughly 35 miles southwest of Solvang via Highway 246 and U.S. 101. That route through the Santa Ynez Valley is straightforward in most conditions, though winter fog on 246 between Buellton and Solvang can slow travel. When you call (805) 345-7440, our team will give you an honest arrival estimate based on current road conditions rather than a number that doesn't account for the valley's morning fog season.
 
 For properties in the downtown core near Mission Drive or along Alisal Road, parking and access for equipment vehicles is worth a quick conversation before we arrive, some of the narrower side streets adjacent to the tourist district have limited staging room for larger trucks.
 
