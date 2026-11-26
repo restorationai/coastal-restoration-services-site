@@ -43,7 +43,7 @@ Call them at **(805) 345-7440**.
 | Fire Damage Santa Maria | 4.9 | 55 | Not listed | Not listed |
 | PuroClean of Santa Maria | 5.0 | 24 | Not listed | Not listed |
 
-*Competitor certification and license data not publicly confirmed at time of publication. "--" indicates unknown, not absent.*
+*Competitor certification and license data not publicly confirmed at time of publication. "Not listed" indicates unknown, not absent.*
 
 ---
 
