@@ -79,6 +79,8 @@ export const brand = {
   trustBadges: [] as string[],
   jobPhotos: [] as string[],
   sameAsUrls: ["https://facebook.com/JustCallCRS", "https://www.instagram.com/coastalrestorationca/", "https://www.facebook.com/p/Coastal-Restoration-Group-100067035034261/", "https://maps.google.com/maps?cid=9173788747863866509", "https://www.bing.com/maps?ss=ypid.YN63B35A1F1F185968", "https://homeguide.com/ca/santa-maria/water-damage-restoration/coastal-restoration---24-7-emergency-plumbing--water-damage-restoration---mold-remediation-SiydRs-uS"] as string[],
+  credentials: [{"name": "Contractor License", "kind": "license", "number": "11245226", "state": "CA", "url": "https://www.cslb.ca.gov/OnlineServices/CheckLicenseII/CheckLicense.aspx", "holder": "company"}, {"name": "IICRC Certified Firm", "kind": "certification", "authority": "IICRC", "holder": "company"}, {"name": "WRT (Water Damage Restoration Technician)", "kind": "certification", "holder": "company"}, {"name": "ASD (Applied Structural Drying)", "kind": "certification", "holder": "company"}] as { name: string; kind: string; number?: string; authority?: string; url?: string; since?: string; state?: string; holder?: string; course?: string }[],
+  credentialsLine: [{"text": "Licensed in CA (#11245226)"}, {"text": "IICRC Certified Firm"}, {"text": "WRT (Water Damage Restoration Technician)"}, {"text": "ASD (Applied Structural Drying)"}] as { text: string; url?: string }[],
   // GBP rating fields — synced from the live Google Business Profile by
   // scripts/sync_brand_reviews.py; never hand-edited (real ratings only).
   gbpRatingValue: "5.0",
