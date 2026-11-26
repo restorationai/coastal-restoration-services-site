@@ -42,7 +42,7 @@ What can create a problem is skipping documentation in the rush to dry things ou
 
 Call a restoration company immediately to shut down active water and begin extraction, then call your insurer that same day to open the claim. The two calls happen hours apart, not days.
 
-1. **Stop the source if it's safe to do so** – shut off the water supply valve or main if you can reach it.
+1. **Stop the source if it's safe to do so**: shut off the water supply valve or main if you can reach it.
 2. **Call a restoration company** to get extraction and drying started. Every hour standing water sits raises the odds of warped flooring, delaminated cabinets, and mold.
 3. **Call your insurer** the same day to report the loss and get a claim number. Most policies don't set a hard deadline measured in hours, but prompt reporting is standard practice and keeps the timeline clean.
 4. **Keep the documentation** the restoration crew generates: photos, moisture logs, and a written scope of work. That becomes your claim's backbone.
