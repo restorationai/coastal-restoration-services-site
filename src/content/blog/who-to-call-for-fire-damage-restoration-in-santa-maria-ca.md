@@ -70,6 +70,6 @@ Fire damage in a Santa Maria home, whether it started with a space heater in an 
 
 **About the author**
 
-This guide was prepared by the team at Coastal Restoration Services Inc, licensed under CSLB #11245226 and based in Santa Maria, CA. The company's technicians hold IICRC certifications including WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying), and the crew answers calls 24/7 across the Central Coast, from Santa Maria and Orcutt to Lompoc, Arroyo Grande, and San Luis Obispo.
+This guide was prepared by the team at Coastal Restoration, licensed under CSLB #11245226 and based in Santa Maria, CA. The company's technicians hold IICRC certifications including WRT (Water Damage Restoration Technician) and ASD (Applied Structural Drying), and the crew answers calls 24/7 across the Central Coast, from Santa Maria and Orcutt to Lompoc, Arroyo Grande, and San Luis Obispo.
 
 **Need help now?** [Call Coastal Restoration at (805) 345-7440](tel:+18053457440).
